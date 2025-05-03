@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/credits/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/credits/licenses/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/credits/licenses/highlight.js/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/credits/licenses/otr/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/scoring-system/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bladeacer.github.io/ObsiThemeRef/themes/</loc>
+         <lastmod>2025-05-03</lastmod>
+    </url>
 </urlset>
