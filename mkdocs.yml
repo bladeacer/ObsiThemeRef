@@ -56,3 +56,4 @@ theme:
     - toc:
         permalink: true
     - footnotes
+    - tables
