@@ -1,0 +1,9 @@
+table thead {
+    font-size: 0.8rem;
+}
+table tbody {
+    font-size: 0.75rem;
+}
+td {
+    overflow-wrap: break-word;
+}
