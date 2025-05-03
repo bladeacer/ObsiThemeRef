@@ -7,3 +7,7 @@ table tbody {
 td {
     overflow-wrap: break-word;
 }
+progress {
+    margin-left: 16px;
+    width: 340px;
+}
