@@ -10,6 +10,9 @@ The scoring system was made so that the themes with the higher scores are as clo
 
 For reference, take a look at [the scoring example](https://bladeacer.github.io/ObsiThemeRef/scoring-system/#scoring-example) provided.
 
+### Theme x has a score that is too low or high, how do I suggest changes?
+Open a GitHub Discussion directly at the theme's page from this site.
+
 ### Project Status
 This site is currently still very WIP.
 

@@ -12,6 +12,8 @@ The following reference site would not be possible without the following contrib
 
 - `@Blitz` on the OMG discord for embedding screenshots
 
+- `@DiCaver` on the Obsidian Forum for fixing the leaderboard sorting
+
 # Tools and software
 These tools were essential in the process of making this possible
 
