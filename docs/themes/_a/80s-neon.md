@@ -2,6 +2,8 @@
 title: 80s Neon
 ---
 
+<img src="https://raw.githubusercontent.com/deathau/80s-Neon-for-Obsidian.md/refs/heads/master/screenshot.jpg">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

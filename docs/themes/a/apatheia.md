@@ -2,6 +2,8 @@
 title: Apatheia
 ---
 
+<img src="https://raw.githubusercontent.com/AmadeusWM/Obsidian-Apatheia/refs/heads/main/assets/promo_screenshot1920x1200.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

@@ -2,6 +2,8 @@
 title: Abyssal
 ---
 
+<img src="https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/refs/heads/main/assets/abyssal-opening.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

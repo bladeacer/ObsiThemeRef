@@ -20,6 +20,8 @@ This site is currently still very WIP.
 
 I have to manually extract, summarise, fill in information, try out each theme and provide an appropriate score for them.
 
+There is a [progress tracker](./themes/index.md#progress-tracker) for theme entries added.
+
 ### Viewing this website in your Obsidian vault locally
 Absolutely. Just run the following command in your directory of choice.
 ```sh
@@ -32,4 +34,3 @@ If needed, run the following command to update your local branch with the remote
 ```sh
 git pull
 ```
-

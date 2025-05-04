@@ -2,6 +2,8 @@
 title: Agate
 ---
 
+<img src="https://raw.githubusercontent.com/solm0/Agate/refs/heads/main/img-00.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

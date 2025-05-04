@@ -2,6 +2,8 @@
 title: Aged Whiskey
 ---
 
+<img src="https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/refs/heads/main/images/aged-whisky-screenshot.jpg">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

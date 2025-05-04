@@ -2,6 +2,8 @@
 title: Absolute Gruv
 ---
 
+<img src="https://raw.githubusercontent.com/kkYrusobad/AbsoluteGruv/refs/heads/main/Screenshots/obsidian.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

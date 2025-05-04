@@ -8,12 +8,14 @@ Here are some frequently asked questions.
 ### About the difficulty of the scoring system
 The scoring system was made so that the themes with the higher scores are as close to almost objectively perfect as possible, other than aesthetic preferences.
 
-For reference, take a look at [the scoring example](./scoring-system/index.md#scoring-example) provided.
+For reference, take a look at [the scoring example](https://bladeacer.github.io/ObsiThemeRef/scoring-system/#scoring-example) provided.
 
 ### Project Status
 This site is currently still very WIP.
 
 I have to manually extract, summarise, fill in information, try out each theme and provide an appropriate score for them.
+
+There is a [progress tracker](https://bladeacer.github.io/ObsiThemeRef/themes/#progress-tracker) for theme entries added.
 
 ### Viewing this website in your Obsidian vault locally
 Absolutely. Just run the following command in your directory of choice.
@@ -27,4 +29,3 @@ If needed, run the following command to update your local branch with the remote
 ```sh
 git pull
 ```
-

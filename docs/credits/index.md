@@ -6,7 +6,11 @@ icon: material/heart
 # Maintainers, Contributors
 The following reference site would not be possible without the following contributors.
 
-- [bladeacer on GitHub](https://github.com/bladeacer/) / [bladeacer on Obsidian Forum](https://forum.obsidian.md/u/bladeacer/activity) / `@data_in_void` on OMG Discord
+- [bladeacer on GitHub](https://github.com/bladeacer/) / [bladeacer on Obsidian Forum](https://forum.obsidian.md/u/bladeacer/summary) / `@data_in_void` on Obsidian Members' Group (OMG) Discord
+
+# Suggestions, Ideas
+
+- `@Blitz` on the OMG discord for embedding screenshots
 
 # Tools and software
 These tools were essential in the process of making this possible

@@ -2,6 +2,10 @@
 title: Abecedarium
 ---
 
+<img src="https://raw.githubusercontent.com/zalenza/Abecedarium-theme/refs/heads/main/abecedarium_dark.png">
+
+<img src="https://raw.githubusercontent.com/zalenza/Abecedarium-theme/refs/heads/main/abecedarium_light.png">
+
 ## Info
 | Info | Status |
 | ---- | ---- |

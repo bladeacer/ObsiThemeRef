@@ -2,6 +2,8 @@
 title: Abate
 ---
 
+<img src="https://raw.githubusercontent.com/ricedev10/Abate-theme/refs/heads/master/Preview.png">
+
 ## Info
 | Info | Status |
 | ---- | ---- |

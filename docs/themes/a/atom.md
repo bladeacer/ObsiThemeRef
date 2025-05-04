@@ -2,6 +2,8 @@
 title: Atom
 ---
 
+<img src="https://raw.githubusercontent.com/kognise/obsidian-atom/refs/heads/master/screenshot-hybrid.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

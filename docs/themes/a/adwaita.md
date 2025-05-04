@@ -2,6 +2,8 @@
 title: Adwaita
 ---
 
+<img src="https://raw.githubusercontent.com/birneee/obsidian-adwaita-theme/refs/heads/main/generated/theme-preview.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

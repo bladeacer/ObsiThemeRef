@@ -2,6 +2,8 @@
 title: Arcane
 ---
 
+<img src="https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/refs/heads/main/Arcane_sample_01.jpg">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

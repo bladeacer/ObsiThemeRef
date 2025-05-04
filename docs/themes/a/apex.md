@@ -2,6 +2,8 @@
 title: Apex
 ---
 
+<img src="https://raw.githubusercontent.com/clearlysid/apex/refs/heads/master/docs/cover.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

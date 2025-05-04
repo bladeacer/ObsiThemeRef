@@ -2,6 +2,8 @@
 title: Allium
 ---
 
+<img src="https://raw.githubusercontent.com/xainapse/Allium/refs/heads/main/AlliumScreenshot.png">
+
 ## Info
 | Info | Status |
 | :---- | :---- |

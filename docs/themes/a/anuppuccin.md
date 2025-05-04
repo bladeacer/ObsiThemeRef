@@ -2,6 +2,8 @@
 title: AnuPpuccin
 ---
 
+<img src="https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/refs/heads/main/assets/gh-preview.webp">
+
 ## Info
 | Info | Status |
 | :---- | :---- |
