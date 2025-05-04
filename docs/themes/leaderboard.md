@@ -24,13 +24,13 @@ Themes that are in the leaderboard are the cream of the crop. The scores are out
 | 10th |  |  | 
 -->
 
-### Scoring Rating
+### Score Rating
 | Score | Rating |
 | --- | --- |
-| $>=17$ | Excellent |
-| $>=15$ | Good |
-| $>=10$ | Decent |
-| $<=10$ | Eh |
+| $x>=17$ | Excellent |
+| $15<=x<17$ | Good |
+| $10<=x<15$ | Decent |
+| $x<10$ | Eh |
 
 ### Sorting
 By default, the themes are sorted in alphabetical order. 

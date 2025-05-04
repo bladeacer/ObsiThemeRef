@@ -12,9 +12,13 @@ plugins:
       enable_creation_date: true
 extra_css:
   - stylesheets/styles.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 theme:
   name: material
   custom_dir: docs/overrides
@@ -57,3 +61,5 @@ theme:
         permalink: true
     - footnotes
     - tables
+    - pymdownx.arithmatex:
+        generic: true
