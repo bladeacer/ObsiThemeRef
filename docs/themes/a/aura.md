@@ -1,5 +1,14 @@
 ---
 title: Aura
+tags:
+    - light_theme
+    - dark_theme
+    - multiple_colour_schemes
+    - rainbow_folders
+    - cards_layout
+    - callouts
+    - style_settings
+    - underrated_gems
 ---
 
 <img src="https://raw.githubusercontent.com/ashwinjadhav818/obsidian-aura/refs/heads/master/assets/showcase.png">
@@ -29,15 +38,13 @@ N/A. The author just showcases the theme's features.
 - Rainbow folder
 - and many more...
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both light and dark mode supported.  | 1/**1** |
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 4/**4** |
-| Value Propositions | N/A other than features listed | 2.5/**5** |
-| Aesthetics **(subjective)** | Clean, polished while not feeling too bloated. | 4/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | Yes | 2/**2** |
-| Age of Theme | Released 9 November 2022 | 4/**4** |
-| Last updated | September 2024 | 1.5/**2** |
-| Total |  | 19/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both light and dark mode supported.  | 
+| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| Value Propositions | N/A other than features listed | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 9 November 2022 | 
+| Last updated | September 2024 | 

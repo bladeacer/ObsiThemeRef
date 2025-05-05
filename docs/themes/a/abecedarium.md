@@ -1,5 +1,8 @@
 ---
 title: Abecedarium
+tags:
+    - light_theme
+    - dark_theme
 ---
 
 <img src="https://raw.githubusercontent.com/zalenza/Abecedarium-theme/refs/heads/main/abecedarium_dark.png">
@@ -25,15 +28,13 @@ This is a theme for Obsidian.
 ## Features
 N/A
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both dark and light mode supported | 1/**1** |
-| One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
-| Value Propositions | N/A | 0/**5** |
-| Aesthetics **(subjective)** | Quite a clean aesthetic. File explorer items are too close together for my liking. | 3/**5** |
-| Accessibility | No available accessibility options. | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 4 January 2023 | 2/**4** |
-| Last updated | February 2024 | 1.5/**2** |
-| Total |  | 9.5/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both dark and light mode supported | 
+| One or multiple color schemes | One colour scheme for light and dark mode | 
+| Value Propositions | N/A | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 4 January 2023 | 
+| Last updated | February 2024 | 

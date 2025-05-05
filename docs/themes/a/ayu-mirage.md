@@ -1,5 +1,8 @@
 ---
 title: Ayu Mirage
+tags:
+    - dark_theme
+    - old_but_gold
 ---
 
 <img src="https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Ayu_Mirage/refs/heads/master/ayu1.png">
@@ -24,14 +27,12 @@ This is a mixture of some themes available for Obsidian, especially pisium and t
 N/A
 
 ## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Dark mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
-| Value Propositions | This is a mixture of some themes available for Obsidian, especially pisium and traffic lights, with several modifications (too many to mention). | 3.5/**5** |
-| Aesthetics **(subjective)** | Some headings are way too big for my liking. Parts of the file explorer items have their title cut off at the front. Other than that, it is a nice theme with clean typography. | 3/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 24 November 2020 | 4/**4** |
-| Last updated | February 2022 | 1/**2** |
-| Total |  | 13/**25** |
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Dark mode only | 
+| One or multiple color schemes | One colour scheme for dark mode | 
+| Value Propositions | This is a mixture of some themes available for Obsidian, especially pisium and traffic lights, with several modifications (too many to mention). | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 24 November 2020 | 
+| Last updated | February 2022 | 

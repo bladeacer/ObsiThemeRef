@@ -1,5 +1,9 @@
 ---
 title: Aged Whiskey
+tags:
+    - dark_theme
+    - minimalist
+    - new_and_upcoming
 ---
 
 <img src="https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/refs/heads/main/images/aged-whisky-screenshot.jpg">
@@ -27,15 +31,13 @@ Due to editor styling, should be always used with a left sidebar, otherwise you'
 ## Features
 Narrow editor in reading mode (550px).
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Dark mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
-| Value Propositions | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.” | 2.5/**5** |
-| Aesthetics **(subjective)** | Quite dull, insufficient contrast | 2/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 3 March 2025 | 0.5/**4** |
-| Last updated | March 2025 | 2/**2** |
-| Total |  | 8.5/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Dark mode only | 
+| One or multiple color schemes | One colour scheme for dark mode | 
+| Value Propositions | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.” | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 3 March 2025 | 
+| Last updated | March 2025 | 

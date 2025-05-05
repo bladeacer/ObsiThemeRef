@@ -1,5 +1,9 @@
 ---
 title: Apex
+tags:
+    - light_theme 
+    - dark_theme
+    - opinionated
 ---
 
 <img src="https://raw.githubusercontent.com/clearlysid/apex/refs/heads/master/docs/cover.png">
@@ -28,14 +32,12 @@ A simple, distraction free theme for Obsidian, crafted by Sid and Vignesh for fo
 N/A
 
 ## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both light and dark mode supported re | 1/**1** |
-| One or multiple color schemes | One colour scheme each for light and dark mode | 2/**4** |
-| Value Propositions | An opinionated, simple Obsidian theme to preserve my sanity. | 3/**5** |
-| Aesthetics **(subjective)** | Seems to completely and utterly break the editor. Will not recommend it. | 0/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | NIL | 0/**2** |
-| Age of Theme | Released 28 March 2024 | 2/**4** |
-| Last updated | March 2024 | 1/**2** |
-| Total |  | 9/**25** |
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both light and dark mode supported | 
+| One or multiple color schemes | One colour scheme each for light and dark mode | 
+| Value Propositions | An opinionated, simple Obsidian theme to preserve my sanity. | 
+| Accessibility | NIL | 
+| Style Settings support | NIL | 
+| Age of Theme | Released 28 March 2024 | 
+| Last updated | March 2024 | 

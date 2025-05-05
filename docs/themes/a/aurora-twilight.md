@@ -1,5 +1,10 @@
 ---
 title: Aurora Twilight
+tags:
+    - light_theme
+    - dark_theme
+    - custom_fonts
+    - cards_layout
 ---
 
 <img src="https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/refs/heads/master/image.png">
@@ -28,14 +33,12 @@ This is a custom theme for Obsidian that supports both light and dark color sche
 - Border Radius: Adds rounded corners to various UI elements.
 
 ## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both dark and light mode supported | 1/**1** |
-| One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
-| Value Propositions | This is a custom theme for Obsidian that supports both light and dark color schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colors for headings, bold, and italic text. | 3/**5** |
-| Aesthetics **(subjective)** | Good contrast, clean typography. | 3.5/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 21 June 2024 | 1/**4** |
-| Last updated | June 2024 | 1.5/**2** |
-| Total |  | 12/**25** |
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both dark and light mode supported | 
+| One or multiple color schemes | One colour scheme for light and dark mode | 
+| Value Propositions | This is a custom theme for Obsidian that supports both light and dark color schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colors for headings, bold, and italic text. | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 21 June 2024 | 
+| Last updated | June 2024 | 

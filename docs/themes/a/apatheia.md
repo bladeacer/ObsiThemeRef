@@ -1,5 +1,8 @@
 ---
 title: Apatheia
+tags:
+    - dark_theme
+    - style_settings
 ---
 
 <img src="https://raw.githubusercontent.com/AmadeusWM/Obsidian-Apatheia/refs/heads/main/assets/promo_screenshot1920x1200.png">
@@ -23,15 +26,13 @@ This theme is inspired by the Things Theme
 ## Features
 Uses Fonts that were also used in the fonts Ultra Lobster Theme
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Dark mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
-| Value Propositions | This theme is inspired by the Things Theme | 2/**5** |
-| Aesthetics **(subjective)** | Clean Typography and Aesthetics, the left sidebar toggle button not being aligned with the side dock is triggering my OCD.  | 4/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | Yes | 1/**2** |
-| Age of Theme | Released 8 December 2022 | 3.5/**4** |
-| Last updated | January 2024 | 1.5/**2** |
-| Total |  | 12.5/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Dark mode only | 
+| One or multiple color schemes | One colour scheme for dark mode | 
+| Value Propositions | This theme is inspired by the Things Theme | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 8 December 2022 | 
+| Last updated | January 2024 | 

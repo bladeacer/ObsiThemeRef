@@ -1,5 +1,11 @@
 ---
 title: Autotape
+tags:
+    - light_theme
+    - dark_theme
+    - retro
+    - terminal
+    - futuristic
 ---
 
 <img src="https://raw.githubusercontent.com/1612elphi/autotape-theme/refs/heads/main/Screen.png">
@@ -25,15 +31,13 @@ Autotape is a minimal Obsidian theme designed to invoke the feeling of old-style
 ## Features
 Autotape is fully compatible with the accent colour system. Simply select the colour you'd like in the Appearance section of Obsidian options and watch the theme change!
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both dark and light mode supported | 1/**1** |
-| One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
-| Value Propositions | A glowing retro-futurist terminal inspired theme for Obsidian | 3.5/**5** |
-| Aesthetics **(subjective)** | Looks nice with a green/orange ish accent color. The subtle glows and borders are a nice touch | 4/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 25 September 2023 | 2/**4** |
-| Last updated | September 2023 | 1/**2** |
-| Total |  | 13.5/**25** |
+## Criteria
+| Criteria | Status |
+| :---- | :---- | 
+| Dark/Light mode support | Both dark and light mode supported | 
+| One or multiple color schemes | One colour scheme for light and dark mode | 
+| Value Propositions | A glowing retro-futurist terminal inspired theme for Obsidian | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 25 September 2023 | 
+| Last updated | September 2023 | 

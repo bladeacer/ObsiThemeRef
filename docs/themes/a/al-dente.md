@@ -1,5 +1,9 @@
 ---
 title: Al Dente
+tags: 
+    - light_theme
+    - minimalist
+    - old_but_gold
 ---
 
 <img src="https://camo.githubusercontent.com/1d0912649c2b4fe35cbdd2c4d54368fbfa36728ae4ca5442f0dbaf9294ddf59e/68747470733a2f2f636861642d62656e6e6574742e6769746875622e696f2f616c2d64656e74652d6f6273696469616e2d7468656d652f616c64656e74652d73637265656e73686f742e706e67">
@@ -27,14 +31,12 @@ A simple minimal theme for the obsidian notes app that is tender, but firm. It i
 N/A
 
 ## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Light mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for light mode | 1/**4** |
-| Value Propositions | A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well. | 2/**5** |
-| Aesthetics **(subjective)** | Decent but colors could be better | 2.5/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 3 January 2021 | 3.5/**4** |
-| Last updated | August 2021 (**no longer maintained**) | 0/**2** |
-| Total |  | 9.5/**25** |
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Light mode only | 
+| One or multiple color schemes | One colour scheme for light mode | 
+| Value Propositions | A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well. | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 3 January 2021 | 
+| Last updated | August 2021 (**no longer maintained**) | 

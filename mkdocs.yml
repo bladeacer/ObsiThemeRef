@@ -9,6 +9,7 @@ plugins:
   - meta
   - git-revision-date-localized:
       enable_creation_date: true
+  - tags
 extra_css:
   - stylesheets/styles.css
   - https://unpkg.com/katex@0/dist/katex.min.css
@@ -62,3 +63,34 @@ theme:
     - tables
     - pymdownx.arithmatex:
         generic: true
+  extra:
+    tags:
+      Light theme: light_theme
+      Dark theme: dark_theme
+      Style Settings: style_settings
+      Accessibility: accessibility
+      Alternate Checkboxes: alternate_checkboxes
+      Documented: documented
+      Retro: retro
+      Terminal: terminal
+      Minimalist: minimalist
+      Custom Fonts: custom_fonts
+      Callouts: callouts
+      Rainbow folders: rainbow_folders
+      Multiple colour schemes: multiple_colour_schemes
+      Base2: base2
+      Base8: base8
+      base16: base16
+      Opinionated: opinionated
+      Neon: neon
+      TUI: tui
+      Futuristic: futuristic
+      Cards layout: cards_layout
+      Gnome: gnome
+      GruvBox: gruvbox
+      Atom: atom
+      Catppuccin: catppuccin
+      Everforest: everforest
+      Underrated Gems: underrated_gems
+      Old But Gold: old_but_gold 
+      New and Upcoming: new_and_upcoming

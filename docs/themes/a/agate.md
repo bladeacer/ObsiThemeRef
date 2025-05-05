@@ -1,5 +1,7 @@
 ---
 title: Agate
+tags:
+    - light_theme
 ---
 
 <img src="https://raw.githubusercontent.com/solm0/Agate/refs/heads/main/img-00.png">
@@ -25,15 +27,13 @@ I focused extensively on typography to ensure smooth readability.
 ## Features
 N/A
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Light mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for light mode | 1/**4** |
-| Value Propositions | “This is a minimal theme that creates various atmospheres using the overlapping effect of transparent layers. I focused extensively on typography to ensure smooth readability.” | 3/**5** |
-| Aesthetics **(subjective)** | Looks really wacky now since the theme heavily depends on the translucent window option that was removed  | 1/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 4 July 2024 | 1.5/**4** |
-| Last updated | July 2024 | 1/**2** |
-| Total |  | 8/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Light mode only | 
+| One or multiple color schemes | One colour scheme for light mode | 
+| Value Propositions | “This is a minimal theme that creates various atmospheres using the overlapping effect of transparent layers. I focused extensively on typography to ensure smooth readability.” | 
+| Accessibility | NIL | 
+| Style Settings support | No | 
+| Age of Theme | Released 4 July 2024 | 
+| Last updated | July 2024 | 

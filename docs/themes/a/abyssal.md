@@ -1,5 +1,10 @@
 ---
 title: Abyssal
+tags:
+    - light_theme
+    - dark_theme
+    - accessibility
+    - underrated_gems
 ---
 
 <img src="https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/refs/heads/main/assets/abyssal-opening.png">
@@ -37,15 +42,13 @@ Special attention was given to the styling of:
 - Tables  
 - Front-matter display \+ inline title
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both dark and light mode supported | 1/**1** |
-| One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
-| Value Propositions | Asymmetrical spacing for more breathing room of the vertical rhythm (based on an 8px grid) Bespoke line-height treatment for each heading type Higher contrast through type size, weight, and spacing Contextual spacing based on the display or omission of some items (e.g., Inline title) | 4/**5** |
-| Aesthetics **(subjective)** | Clean and aesthetic. The muted colors and contrast helps with writing. | 4/**5** |
-| Accessibility | No available accessibility options. However, the theme was designed to accommodate accessibility standards. | 1.5/**2** |
-| Style Settings support | Yes | 1/**2** |
-| Age of Theme | Released 16 January 2023 | 2/**4** |
-| Last updated | January 2024 | 1.5/**2** |
-| Total |  | 17/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both dark and light mode supported | 
+| One or multiple color schemes | One colour scheme for light and dark mode | 
+| Value Propositions | Asymmetrical spacing for more breathing room of the vertical rhythm (based on an 8px grid) Bespoke line-height treatment for each heading type Higher contrast through type size, weight, and spacing Contextual spacing based on the display or omission of some items (e.g., Inline title) | 
+| Accessibility | No available accessibility options. However, the theme was designed to accommodate accessibility standards. | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 16 January 2023 | 
+| Last updated | January 2024 | 

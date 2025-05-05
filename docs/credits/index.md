@@ -14,6 +14,8 @@ The following reference site would not be possible without the following contrib
 
 - `@DiCaver` on the Obsidian Forum for fixing the leaderboard sorting
 
+- `@Floodlight` on the OMG discord and Obsidian forum for revamping the leaderboard system
+
 # Tools and software
 These tools were essential in the process of making this possible
 

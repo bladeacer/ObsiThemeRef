@@ -1,5 +1,8 @@
 ---
 title: Aura Dark
+tags:
+    - dark_theme
+    - style_settings
 ---
 
 <img src="https://raw.githubusercontent.com/possibly-not/obsidian-aura-theme/refs/heads/main/img/aura_dark_diagonal_full.png">
@@ -34,15 +37,13 @@ This is an Obsidian theme based on the Aura Theme! Made via the Aura API. Find t
 
 - Cyan line highlights doesn't change to be soft when in Aura Dark Soft (more css knowledge needed)
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Dark mode only.  | 0.5/**1** |
-| One or multiple color schemes | One colour scheme each for dark mode | 1/**4** |
-| Value Propositions | This is an Obsidian theme based on the Aura Theme! | 3/**5** |
-| Aesthetics **(subjective)** | This theme would look right at home on an OLED screen. Some buttons and icons lack contrast, however. | 3/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | Yes | 1/**2** |
-| Age of Theme | Released 15 August 2023 | 2.5/**4** |
-| Last updated | August 2023 | 0.5/**2** |
-| Total |  | 11.5/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Dark mode only.  | 
+| One or multiple color schemes | Multiple colour schemes for dark mode | 
+| Value Propositions | This is an Obsidian theme based on the Aura Theme! | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 15 August 2023 | 
+| Last updated | August 2023 | 

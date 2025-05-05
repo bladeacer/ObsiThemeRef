@@ -1,5 +1,8 @@
 ---
 title: Abate
+tags:
+    - light_theme
+    - everforest
 ---
 
 <img src="https://raw.githubusercontent.com/ricedev10/Abate-theme/refs/heads/master/Preview.png">
@@ -26,15 +29,12 @@ Abate Custom light and dark theme for Obsidian. Lightens and softens tone for a 
 - Dark tone  
 - Heading colored theme inspired by Word
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Light mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for light mode | 1/**4** |
-| Value Propositions | Slick scrolling bar, Light tone, Dark tone Heading colored theme inspired by Word | 3/**5** |
-| Aesthetics **(subjective)** | Colors of this theme are inspired by Everforest as well as an Everforest theme made for Obsidian by `@Glitchbyte`. | 3/**5** |
-| Accessibility | No available accessibility options. | 0/**2** |
-| Style Settings support | No | 0/**2** |
-| Age of Theme | Released 30 July 2024 | 1/**4** |
-| Last updated | August 2024 | 1.5/**2** |
-| Total |  | 10/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Light mode only | 
+| One or multiple color schemes | One colour scheme for light mode | 
+| Accessibility | NIL| 
+| Style Settings support | No | 
+| Age of Theme | Released 30 July 2024 | 
+| Last updated | August 2024 | 

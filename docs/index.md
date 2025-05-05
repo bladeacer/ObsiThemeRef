@@ -10,10 +10,10 @@ Welcome to Obsidian Theme Reference (or OTR for short). This reference document 
 ## FAQ
 Here are some frequently asked questions.
 
-### About the difficulty of the scoring system
-The scoring system was made so that the themes with the higher scores are as close to almost objectively perfect as possible, other than aesthetic preferences.
+### About the old scoring system
+Henceforth, the scoring system will be delegated as second class. It shall be changed merely to serve as a reference, which is what this site should be. This will be replaced by a reference criteria.
 
-For reference, take a look at [the scoring example](./scoring-system/index.md#scoring-example) provided.
+For reference, take a look at [the criteria example](./reference-criteria/index.md#criteria-example) provided.
 
 ### Theme x has a score that is too low or high, how do I suggest changes?
 Open a GitHub Discussion directly at the theme's page from this site.

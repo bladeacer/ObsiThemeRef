@@ -1,5 +1,10 @@
 ---
 title: Adwaita
+tags:
+    - light_theme
+    - dark_theme
+    - gnome
+    - underrated_gems
 ---
 
 <img src="https://raw.githubusercontent.com/birneee/obsidian-adwaita-theme/refs/heads/main/generated/theme-preview.png">
@@ -30,15 +35,13 @@ This is an Obisidian theme in the style of Gnome Adwaita. The goal of this proje
 - Style Settings Plugin Support  
 - TBD Rounded Window Corners
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both dark and light mode supported | 1/**1** |
-| One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
-| Value Propositions | “To make Obsidian look more native on Gnome Desktop Environments like on Ubuntu or Fedora” | 3.5/**5** |
-| Aesthetics **(subjective)** | Clean but a bit generic looking. | 3.5/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | Yes | 1/**2** |
-| Age of Theme | Released 25 November 2022 | 3/**4** |
-| Last updated | February 2024 | 1/**2** |
-| Total |  | 15/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both dark and light mode supported | 
+| One or multiple color schemes | One colour scheme for light and dark mode | 
+| Value Propositions | “To make Obsidian look more native on Gnome Desktop Environments like on Ubuntu or Fedora” | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 25 November 2022 | 
+| Last updated | February 2024 | 

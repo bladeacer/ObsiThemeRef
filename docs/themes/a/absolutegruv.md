@@ -1,5 +1,9 @@
 ---
 title: Absolute Gruv
+tags:
+    - dark_theme
+    - gruvbox
+    - style_settings
 ---
 
 <img src="https://raw.githubusercontent.com/kkYrusobad/AbsoluteGruv/refs/heads/main/Screenshots/obsidian.png">
@@ -23,15 +27,13 @@ This theme is based on base gruvbox Palette by `morhetz`,
 ## Features
 N/A
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Dark mode only | 0.5/**1** |
-| One or multiple color schemes | One colour scheme for dark mode | 2/**4** |
-| Value Propositions | N/A | 0/**5** |
-| Aesthetics **(subjective)** | Hover to show sidebar tabs feel wonky. Decent aesthetics. | 3/**5** |
-| Accessibility | No available accessibility options. | 0/**2** |
-| Style Settings support | Yes | 1/**2** |
-| Age of Theme | Released 27 April 2022 | 2.5/**4** |
-| Last updated | August 2022 | 1/**2** |
-| Total |  | 10/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Dark mode only | 
+| One or multiple color schemes | One colour scheme for dark mode | 
+| Value Propositions | N/A | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 27 April 2022 | 
+| Last updated | August 2022 | 

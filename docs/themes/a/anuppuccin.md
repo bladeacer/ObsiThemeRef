@@ -1,5 +1,19 @@
 ---
 title: AnuPpuccin
+tags:
+    - light_theme
+    - dark_theme
+    - style_settings
+    - cards_layout
+    - rainbow_folders
+    - callouts
+    - alternate_checkboxes
+    - multiple_colour_schemes
+    - catppuccin
+    - gruvbox
+    - atom
+    - everforest
+    - old_but_gold
 ---
 
 <img src="https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/refs/heads/main/assets/gh-preview.webp">
@@ -25,15 +39,13 @@ Voted Best Theme in Gems of the Year 2022 awards 🎉
 ## Features
 Too many to list. Which can be a flaw in of itself as some users report the theme being slow.
 
-## Scoring
-| Criteria | Status | Score |
-| :---- | :---- | :---- |
-| Dark/Light mode support | Both light and dark mode supported | 1/**1** |
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 4/**4** |
-| Value Propositions | Personal Theme for Obsidian | 3/**5** |
-| Aesthetics **(subjective)** | Clean, polished, well made. | 4.5/**5** |
-| Accessibility | NIL | 0/**2** |
-| Style Settings support | Yes | 2/**2** |
-| Age of Theme | Released 19 October 2022 | 3.5/**4** |
-| Last updated | December 2024 (**under hiatus but still maintained**) | 1.5/**2** |
-| Total |  | 19.5/**25** |
+## Criteria
+| Criteria | Status | 
+| :---- | :---- | 
+| Dark/Light mode support | Both light and dark mode supported | 
+| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| Value Propositions | Personal Theme for Obsidian | 
+| Accessibility | NIL | 
+| Style Settings support | Yes | 
+| Age of Theme | Released 19 October 2022 | 
+| Last updated | December 2024 (**under hiatus but still maintained**) | 
