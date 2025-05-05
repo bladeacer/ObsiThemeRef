@@ -32,10 +32,10 @@ This Theme doesn't rely on 16 colors anymore. But the idea of the `base16` frame
 | :---- | :---- | :---- |
 | Dark/Light mode support | Dark mode only.  | 0.5/**1** |
 | One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
-| Value Propositions | Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT | 3/**5** |
+| Value Propositions | Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT | 3.5/**5** |
 | Aesthetics **(subjective)** | The muted cyan and intentional dimming provides a good experience with well-balanced colours. | 4/**5** |
 | Accessibility | NIL | 0/**2** |
 | Style Settings support | NIL | 0/**2** |
 | Age of Theme | Released 31 January 2024 | 2/**4** |
 | Last updated | December 2024 | 1.5/**2** |
-| Total |  | 12/**25** |
+| Total |  | 12.5/**25** |

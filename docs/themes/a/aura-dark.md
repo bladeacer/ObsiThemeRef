@@ -9,7 +9,7 @@ title: Aura Dark
 | :---- | :---- |
 | Repository Link | [possibly-not/obsidian-aura-theme](https://github.com/possibly-not/obsidian-aura-theme/)  |
 | Author | [possibly-not](https://github.com/possibly-not)  |
-| Downloads | 4047 |
+| Downloads | 4 047 |
 | Last Updated | August 2023 |
 | “Help wanted” issues | 0 |
 | Stars | 2 |

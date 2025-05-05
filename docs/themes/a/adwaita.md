@@ -9,7 +9,7 @@ title: Adwaita
 | :---- | :---- |
 | Repository Link | [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme) |
 | Author | [birneee (Benedikt Spies)](https://github.com/birneee/) |
-| Downloads | 15082 |
+| Downloads | 15 082 |
 | Last Updated | February 2024 |
 | “Help wanted” issues | 0 |
 | Stars | 121 |

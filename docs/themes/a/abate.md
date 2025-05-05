@@ -9,7 +9,7 @@ title: Abate
 | ---- | ---- |
 | Repository Link | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) |
 | Author | [ricedev10](https://github.com/ricedev10) |
-| Downloads | 1341 |
+| Downloads | 1 341 |
 | Last Updated | August 2024 |
 | “Help wanted” issues | 0 |
 | Stars | 0 |

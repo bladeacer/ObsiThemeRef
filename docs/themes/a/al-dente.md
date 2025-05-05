@@ -10,7 +10,7 @@ title: Al Dente
 | :---- | :---- |
 | Repository Link | [chad-bennett/al-dente-obsidian-theme](https://github.com/chad-bennett/al-dente-obsidian-theme) |
 | Author | [chad-bennett](https://github.com/chad-bennett) |
-| Downloads | 10103 |
+| Downloads | 10 103 |
 | Last Updated | August 2021 |
 | “Help wanted” issues | 0 |
 | Stars | 13 |

@@ -6,7 +6,6 @@ copyright: >
   Copyright &copy; bladeacer 2025
 plugins:
   - search
-  - tags
   - meta
   - git-revision-date-localized:
       enable_creation_date: true

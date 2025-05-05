@@ -9,7 +9,7 @@ title: Allium
 | :---- | :---- |
 | Repository Link | [xainapse/Allium](https://github.com/xainapse/Allium) |
 | Author | [xainapse (Breeze)](https://github.com/xainapse) |
-| Downloads | 2993 |
+| Downloads | 2 993 |
 | Last Updated | January 2025 |
 | “Help wanted” issues | 0 |
 | Stars | 6 |

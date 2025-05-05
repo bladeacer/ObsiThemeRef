@@ -11,7 +11,7 @@ title: Abecedarium
 | ---- | ---- |
 | Repository Link | [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme) |
 | Author | [zalenza](https://github.com/zalenza/) |
-| Downloads | 7634 |
+| Downloads | 7 634 |
 | Last Updated | February 2024 |
 | “Help wanted” issues | 0 |
 | Stars | 6 |

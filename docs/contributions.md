@@ -12,4 +12,4 @@ Feel free to:
 
 - Write in the [Obsidian forum topic](https://forum.obsidian.md/t/obsidian-theme-reference/100157)
 
-- DM me on Discord about contributing
+- DM me on Discord (`@data_in_void`) about contributing

@@ -9,7 +9,7 @@ title: Absolute Gruv
 | :---- | :---- |
 | Repository Link | [kkYrusobad/AbsoluteGruv](https://github.com/kkYrusobad/AbsoluteGruv) |
 | Author | [kkYrusobad (Prateek Yadav)](https://github.com/kkYrusobad) |
-| Downloads | 8407 |
+| Downloads | 8 407 |
 | Last Updated | August 2022 |
 | “Help wanted” issues | 0 |
 | Stars | 6 |

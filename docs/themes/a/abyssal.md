@@ -9,7 +9,7 @@ title: Abyssal
 | :---- | :---- |
 | Repository Link | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) |
 | Author | [tazpellegrini (Tassia)](https://github.com/tazpellegrini) |
-| Downloads | 8103 |
+| Downloads | 8 103 |
 | Last Updated | January 2024 |
 | “Help wanted” issues | 0 |
 | Stars | 35 |
@@ -43,7 +43,7 @@ Special attention was given to the styling of:
 | Dark/Light mode support | Both dark and light mode supported | 1/**1** |
 | One or multiple color schemes | One colour scheme for light and dark mode | 2/**4** |
 | Value Propositions | Asymmetrical spacing for more breathing room of the vertical rhythm (based on an 8px grid) Bespoke line-height treatment for each heading type Higher contrast through type size, weight, and spacing Contextual spacing based on the display or omission of some items (e.g., Inline title) | 4/**5** |
-| Aesthetics **(subjective)** | Clean and aesthetic.The muted colors and contrast helps with writing. | 4/**5** |
+| Aesthetics **(subjective)** | Clean and aesthetic. The muted colors and contrast helps with writing. | 4/**5** |
 | Accessibility | No available accessibility options. However, the theme was designed to accommodate accessibility standards. | 1.5/**2** |
 | Style Settings support | Yes | 1/**2** |
 | Age of Theme | Released 16 January 2023 | 2/**4** |

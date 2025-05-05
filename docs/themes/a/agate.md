@@ -9,7 +9,7 @@ title: Agate
 | :---- | :---- |
 | Repository Link | [solm0/Agate](https://github.com/solm0/Agate) |
 | Author | [solm0 (Solmi Jeong)](https://github.com/solm0) |
-| Downloads | 2663 |
+| Downloads | 2 663 |
 | Last Updated | July 2024 |
 | “Help wanted” issues | 0 |
 | Stars | 121 |
