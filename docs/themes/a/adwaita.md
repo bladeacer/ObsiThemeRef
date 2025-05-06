@@ -11,7 +11,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme) |
 | Author | [birneee (Benedikt Spies)](https://github.com/birneee/) |
 | Downloads | 15 082 |
@@ -37,7 +37,7 @@ This is an Obisidian theme in the style of Gnome Adwaita. The goal of this proje
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | “To make Obsidian look more native on Gnome Desktop Environments like on Ubuntu or Fedora” | 

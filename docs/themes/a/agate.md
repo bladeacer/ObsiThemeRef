@@ -8,7 +8,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [solm0/Agate](https://github.com/solm0/Agate) |
 | Author | [solm0 (Solmi Jeong)](https://github.com/solm0) |
 | Downloads | 2 663 |
@@ -29,7 +29,7 @@ N/A
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
 | One or multiple color schemes | One colour scheme for light mode | 
 | Value Propositions | “This is a minimal theme that creates various atmospheres using the overlapping effect of transparent layers. I focused extensively on typography to ensure smooth readability.” | 

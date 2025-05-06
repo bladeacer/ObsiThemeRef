@@ -10,7 +10,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [kkYrusobad/AbsoluteGruv](https://github.com/kkYrusobad/AbsoluteGruv) |
 | Author | [kkYrusobad (Prateek Yadav)](https://github.com/kkYrusobad) |
 | Downloads | 8 407 |
@@ -29,7 +29,7 @@ N/A
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | N/A | 

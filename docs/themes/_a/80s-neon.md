@@ -13,7 +13,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [deathau/80s-Neon-for-Obsidian.md](https://github.com/deathau/80s-Neon-for-Obsidian.md)  |
 | Author | [deathau](https://github.com/deathau/) |
 | Downloads | 144 451 |
@@ -35,7 +35,7 @@ Uncomment it and you get an old-school CRT effect with a chunky pixel pentile lo
 
 ## Criteria
 | Criteria | Status | 
-| ---- | ---- | ---- |
+| --- | --- | --- |
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | CRT scanlines and flicker | 

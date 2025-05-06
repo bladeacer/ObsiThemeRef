@@ -10,7 +10,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [clearlysid/apex](https://github.com/clearlysid/apex)  |
 | Author | [clearlysid](https://github.com/clearlysid)  |
 | Downloads | 9 873 |
@@ -33,7 +33,7 @@ N/A
 
 ## Scoring
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
 | One or multiple color schemes | One colour scheme each for light and dark mode | 
 | Value Propositions | An opinionated, simple Obsidian theme to preserve my sanity. | 

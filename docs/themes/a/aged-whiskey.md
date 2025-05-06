@@ -10,7 +10,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [incantatem2/Obsidian-aged-whisky](https://github.com/incantatem2/Obsidian-aged-whisky) |
 | Author | [incantatem2](https://github.com/incantatem2) |
 | Downloads | 800 |
@@ -33,7 +33,7 @@ Narrow editor in reading mode (550px).
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.” | 

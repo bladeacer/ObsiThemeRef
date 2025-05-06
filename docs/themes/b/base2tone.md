@@ -7,10 +7,9 @@ tags:
 
 <img src="https://raw.githubusercontent.com/deathau/Base2Tone-For-Obsidian.md/refs/heads/master/screenshot.jpg">
 
-
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [deathau/Base2Tone-For-Obsidian.md](https://github.com/deathau/Base2Tone-For-Obsidian.md) |
 | Author | [deathau](https://github.com/deathau) |
 | Downloads | 5 126 |
@@ -29,7 +28,7 @@ N/A
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | A theme for Obsidian based on http://base2t.one/ with default hues from http://simurai.com/duotone-dark-sky-syntax/ | 

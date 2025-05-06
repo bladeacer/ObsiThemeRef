@@ -89,8 +89,13 @@ theme:
       Gnome: gnome
       GruvBox: gruvbox
       Atom: atom
+      Nord: nord
+      Dracula: dracula
       Catppuccin: catppuccin
       Everforest: everforest
+      Material: material
+      Solarized: solarized
+      Neumorphism: neumorphism
       Underrated Gems: underrated_gems
       Old But Gold: old_but_gold 
       New and Upcoming: new_and_upcoming

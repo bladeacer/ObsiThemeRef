@@ -12,24 +12,32 @@ There will be no more ranking or scoring, as all themes take extensive **time an
 There can be at most three themes per letter, per category. Themes cannot appear in multiple categories.
 
 ## Underrated Gems
-| Theme | 
-| --- |
-| [Abyssal](./a/abyssal.md) | 
-| [Adwaita](./a/adwaita.md) | 
-| [Aura](./a/aura.md) | 
+| Letter | Theme |
+| --- | --- | 
+| $a$ | [Abyssal](./a/abyssal.md) |
+| $a$ | [Adwaita](./a/adwaita.md) | 
+| $a$ | [Aura](./a/aura.md) |
+| $b$ | [Big & Bold](./b/big-bold.md) |
 
 ## Old but Gold
-| Theme | 
-| --- |
-| [80s Neon](./_a/80s-neon.md) |
-| [AnuPpuccin](./a/anuppuccin.md) | 
-| [Atom](./a/atom.md) | 
-| [Aurora](./a/aurora.md) |
+| Letter | Theme | 
+| --- | --- |
+| $<a$ | [80s Neon](./_a/80s-neon.md) |
+| $a$ | [AnuPpuccin](./a/anuppuccin.md) | 
+| $a$ | [Atom](./a/atom.md) | 
+| $a$ | [Aurora](./a/aurora.md) |
+| $b$ | [Blue Topaz](./b/blue-topaz.md) |
+| $b$ | [Border](./b/border.md) |
 
 ## New and Upcoming
-| Theme |
-| --- |
-| [Aged Whiskey](./a/aged-whiskey.md) |
+| Letter | Theme |
+| --- | --- |
+| $a$ | [Abate](./a/abate.md) |
+| $a$ | [Aged Whiskey](./a/aged-whiskey.md) |
+| $a$ | [Allium](./a/allium.md) |
+| $b$ | |
+
+<!-- ## Contributor Shoutouts -->
 
 ### Sorting
 By default, the themes are sorted in alphabetical order. 

@@ -3,13 +3,14 @@ title: Abate
 tags:
     - light_theme
     - everforest
+    - new_and_upcoming
 ---
 
 <img src="https://raw.githubusercontent.com/ricedev10/Abate-theme/refs/heads/master/Preview.png">
 
 ## Info
 | Info | Status |
-| ---- | ---- |
+| --- | --- |
 | Repository Link | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme) |
 | Author | [ricedev10](https://github.com/ricedev10) |
 | Downloads | 1 341 |
@@ -31,7 +32,7 @@ Abate Custom light and dark theme for Obsidian. Lightens and softens tone for a 
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
 | One or multiple color schemes | One colour scheme for light mode | 
 | Accessibility | NIL| 

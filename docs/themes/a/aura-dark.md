@@ -9,7 +9,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [possibly-not/obsidian-aura-theme](https://github.com/possibly-not/obsidian-aura-theme/)  |
 | Author | [possibly-not](https://github.com/possibly-not)  |
 | Downloads | 4 047 |
@@ -39,7 +39,7 @@ This is an Obsidian theme based on the Aura Theme! Made via the Aura API. Find t
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only.  | 
 | One or multiple color schemes | Multiple colour schemes for dark mode | 
 | Value Propositions | This is an Obsidian theme based on the Aura Theme! | 

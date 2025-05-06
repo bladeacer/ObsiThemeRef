@@ -12,7 +12,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [1612elphi/autotape-theme](https://github.com/1612elphi/autotape-theme) |
 | Author | [1612elphi](https://github.com/1612elphi) |
 | Downloads | 10 188 |
@@ -33,7 +33,7 @@ Autotape is fully compatible with the accent colour system. Simply select the co
 
 ## Criteria
 | Criteria | Status |
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | A glowing retro-futurist terminal inspired theme for Obsidian | 

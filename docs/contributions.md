@@ -6,6 +6,7 @@ icon: material/pencil
 Suggestions, contributions and other feedback are welcome.
 
 Feel free to:
+
 - start a discussion from the site by commenting or creating one directly in GitHub Discussions
 
 - create issues and pull requests

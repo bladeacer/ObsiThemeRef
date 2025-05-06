@@ -9,7 +9,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [bcdavasconcelos/Obsidian-Ayu_Mirage](https://github.com/bcdavasconcelos/Obsidian-Ayu_Mirage) |
 | Author | [bcdavasconcelos](https://github.com/bcdavasconcelos) |
 | Downloads | 6 901 |
@@ -28,7 +28,7 @@ N/A
 
 ## Scoring
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | This is a mixture of some themes available for Obsidian, especially pisium and traffic lights, with several modifications (too many to mention). | 
