@@ -15,6 +15,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "giscus",
+      "name": "giscus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81452695?v=4",
+      "profile": "https://giscus.app",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
