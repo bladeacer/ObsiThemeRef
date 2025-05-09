@@ -11,7 +11,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [Quinta0/Aurora-Twilight](https://github.com/Quinta0/Aurora-Twilight) |
 | Author | [Quinta0](https://github.com/Quinta0/) |
 | Downloads | 1 664 |
@@ -34,7 +34,7 @@ This is a custom theme for Obsidian that supports both light and dark color sche
 
 ## Scoring
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | This is a custom theme for Obsidian that supports both light and dark color schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colors for headings, bold, and italic text. | 

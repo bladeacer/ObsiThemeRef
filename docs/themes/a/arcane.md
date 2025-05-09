@@ -9,7 +9,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme)  |
 | Author | [xRyul](https://github.com/xRyul)  |
 | Downloads | 3 204 |
@@ -32,11 +32,11 @@ This Theme doesn't rely on 16 colors anymore. But the idea of the `base16` frame
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only.  
 | One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
 | Value Propositions | Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT | 
 | Accessibility | NIL | 
-| Style Settings support | NIL | 
+| Style Settings support | No | 
 | Age of Theme | Released 31 January 2024 | 
 | Last updated | December 2024 | 

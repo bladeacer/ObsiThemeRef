@@ -69,13 +69,14 @@ theme:
       Dark theme: dark_theme
       Style Settings: style_settings
       Accessibility: accessibility
-      Alternate Checkboxes: alternate_checkboxes
       Documented: documented
       Retro: retro
       Terminal: terminal
       Minimalist: minimalist
       Custom Fonts: custom_fonts
       Callouts: callouts
+      Alternate Checkboxes: alternate_checkboxes
+      Checkboxes: checkboxes
       Rainbow folders: rainbow_folders
       Multiple colour schemes: multiple_colour_schemes
       Base2: base2
@@ -89,8 +90,13 @@ theme:
       Gnome: gnome
       GruvBox: gruvbox
       Atom: atom
+      Nord: nord
+      Dracula: dracula
       Catppuccin: catppuccin
       Everforest: everforest
+      Material: material
+      Solarized: solarized
+      Neumorphism: neumorphism
       Underrated Gems: underrated_gems
       Old But Gold: old_but_gold 
       New and Upcoming: new_and_upcoming

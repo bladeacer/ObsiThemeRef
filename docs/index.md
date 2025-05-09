@@ -15,7 +15,7 @@ Henceforth, the scoring system will be delegated as second class. It shall be ch
 
 For reference, take a look at [the criteria example](./reference-criteria/index.md#criteria-example) provided.
 
-### Theme x has a score that is too low or high, how do I suggest changes?
+### Theme x has outdated or inaccurate information, how do I suggest changes?
 Open a GitHub Discussion directly at the theme's page from this site.
 
 ### Project Status

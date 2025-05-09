@@ -6,6 +6,7 @@ icon: material/pencil
 Suggestions, contributions and other feedback are welcome.
 
 Feel free to:
+
 - start a discussion from the site by commenting or creating one directly in GitHub Discussions
 
 - create issues and pull requests
@@ -13,3 +14,6 @@ Feel free to:
 - Write in the [Obsidian forum topic](https://forum.obsidian.md/t/obsidian-theme-reference/100157)
 
 - DM me on Discord (`@data_in_void`) about contributing
+
+- submit a PR to add yourself to the contributions if you have contributed to this codebase :)
+  - follow the format under the add contributors issue

@@ -9,7 +9,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [AmadeusWM/Obsidian-Apatheia](https://github.com/AmadeusWM/Obsidian-Apatheia)  |
 | Author | [AmadeusWM](https://github.com/AmadeusWM)  |
 | Downloads | 7 574 |
@@ -28,7 +28,7 @@ Uses Fonts that were also used in the fonts Ultra Lobster Theme
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | This theme is inspired by the Things Theme | 

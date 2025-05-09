@@ -10,7 +10,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [auroral-ui/aurora-obsidian-md](https://github.com/auroral-ui/aurora-obsidian-md) |
 | Author | [Benny Guo](https://github.com/bennyxguo/) |
 | Downloads | 11 163 |
@@ -29,7 +29,7 @@ N/A
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
 | One or multiple color schemes | One colour scheme for dark mode | 
 | Value Propositions | Futuristic auroral theme for Obsidian.md | 

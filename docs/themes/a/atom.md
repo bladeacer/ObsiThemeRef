@@ -11,7 +11,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom)  |
 | Author | [kognise](https://github.com/kognise)  |
 | Downloads | 378 546 |
@@ -32,11 +32,11 @@ A theme for Obsidian based on Atom's One Dark and One Light themes.
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | :---- |
+| :--- | :--- | :--- |
 | Dark/Light mode support | Both light and dark modes supported.  | 
 | One or multiple color schemes | One colour scheme each for light and dark mode | 
 | Value Propositions | A theme for Obsidian based on Atom's One Dark and One Light themes. | 
 | Accessibility | NIL | 
-| Style Settings support | NIL | 
+| Style Settings support | No | 
 | Age of Theme | Released 24 November 2020 | 
 | Last updated | March 2023 | 

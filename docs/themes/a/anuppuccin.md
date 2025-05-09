@@ -20,7 +20,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) |
 | Author | [AnubisNekhet (Anubis)](https://github.com/AnubisNekhet) |
 | Downloads | 445 740 |
@@ -41,7 +41,7 @@ Too many to list. Which can be a flaw in of itself as some users report the them
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
 | One or multiple color schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | Personal Theme for Obsidian | 

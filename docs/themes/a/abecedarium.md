@@ -11,7 +11,7 @@ tags:
 
 ## Info
 | Info | Status |
-| ---- | ---- |
+| --- | --- |
 | Repository Link | [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme) |
 | Author | [zalenza](https://github.com/zalenza/) |
 | Downloads | 7 634 |
@@ -30,7 +30,7 @@ N/A
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | N/A | 

@@ -1,0 +1,72 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "bladeacer",
+      "name": "bladeacer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148305363?v=4",
+      "profile": "https://github.com/bladeacer",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "giscus",
+      "name": "giscus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81452695?v=4",
+      "profile": "https://giscus.app",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "Gonzalo-D-Sales",
+      "name": "Floodlight-00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110089642?v=4",
+      "profile": "https://github.com/Gonzalo-D-Sales",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "mkdocs",
+      "name": "MkDocs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9692741?v=4",
+      "profile": "http://www.mkdocs.org/",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "mkdocs-material",
+      "name": "Material for MkDocs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109019481?v=4",
+      "profile": "https://squidfunk.github.io/mkdocs-material/",
+      "contributions": [
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ObsiThemeRef",
+  "projectOwner": "bladeacer"
+}

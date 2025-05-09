@@ -11,7 +11,7 @@ tags:
 
 ## Info
 | Info | Status |
-| :---- | :---- |
+| :--- | :--- |
 | Repository Link | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) |
 | Author | [tazpellegrini (Tassia)](https://github.com/tazpellegrini) |
 | Downloads | 8 103 |
@@ -44,7 +44,7 @@ Special attention was given to the styling of:
 
 ## Criteria
 | Criteria | Status | 
-| :---- | :---- | 
+| :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
 | One or multiple color schemes | One colour scheme for light and dark mode | 
 | Value Propositions | Asymmetrical spacing for more breathing room of the vertical rhythm (based on an 8px grid) Bespoke line-height treatment for each heading type Higher contrast through type size, weight, and spacing Contextual spacing based on the display or omission of some items (e.g., Inline title) | 
