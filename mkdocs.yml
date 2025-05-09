@@ -69,13 +69,14 @@ theme:
       Dark theme: dark_theme
       Style Settings: style_settings
       Accessibility: accessibility
-      Alternate Checkboxes: alternate_checkboxes
       Documented: documented
       Retro: retro
       Terminal: terminal
       Minimalist: minimalist
       Custom Fonts: custom_fonts
       Callouts: callouts
+      Alternate Checkboxes: alternate_checkboxes
+      Checkboxes: checkboxes
       Rainbow folders: rainbow_folders
       Multiple colour schemes: multiple_colour_schemes
       Base2: base2

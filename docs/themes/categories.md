@@ -35,7 +35,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Abate](./a/abate.md) |
 | $a$ | [Aged Whiskey](./a/aged-whiskey.md) |
 | $a$ | [Allium](./a/allium.md) |
-| $b$ | |
+| $b$ | [Borealis](./b/borealis.md) |
 
 <!-- ## Contributor Shoutouts -->
 

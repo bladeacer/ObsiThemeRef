@@ -1,7 +1,8 @@
 # Obsidian Theme Reference
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Foreword
 Welcome to Obsidian Theme Reference (or OTR for short). This reference document will (hopefully) contain information about all current [Obsidian](https://obsidian.md) themes in the community store. It hopes to be useful for those looking to try out new Obsidian themes, but will not go into too much detail for each theme (like `tldr pages`). The themes are listed in alphabetical order.
 
