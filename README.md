@@ -1,6 +1,6 @@
 # Obsidian Theme Reference
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Foreword
@@ -50,6 +50,7 @@ git pull
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gonzalo-D-Sales"><img src="https://avatars.githubusercontent.com/u/110089642?v=4?s=100" width="100px;" alt="Floodlight-00"/><br /><sub><b>Floodlight-00</b></sub></a><br /><a href="#ideas-Gonzalo-D-Sales" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.mkdocs.org/"><img src="https://avatars.githubusercontent.com/u/9692741?v=4?s=100" width="100px;" alt="MkDocs"/><br /><sub><b>MkDocs</b></sub></a><br /><a href="#infra-mkdocs" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://squidfunk.github.io/mkdocs-material/"><img src="https://avatars.githubusercontent.com/u/109019481?v=4?s=100" width="100px;" alt="Material for MkDocs"/><br /><sub><b>Material for MkDocs</b></sub></a><br /><a href="#design-mkdocs-material" title="Design">🎨</a> <a href="#infra-mkdocs-material" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#tool-all-contributors" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
