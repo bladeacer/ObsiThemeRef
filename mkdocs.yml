@@ -82,6 +82,7 @@ theme:
       Base2: base2
       Base8: base8
       base16: base16
+      Gradients: gradients
       Opinionated: opinionated
       Neon: neon
       TUI: tui

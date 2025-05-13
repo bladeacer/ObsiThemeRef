@@ -18,6 +18,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Adwaita](./a/adwaita.md) | 
 | $a$ | [Aura](./a/aura.md) |
 | $b$ | [Big & Bold](./b/big-bold.md) |
+| $b$ | [Brutalism](./b/brutalism.md) |
 
 ## Old but Gold
 | Letter | Theme | 
