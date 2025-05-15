@@ -29,6 +29,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Aurora](./a/aurora.md) |
 | $b$ | [Blue Topaz](./b/blue-topaz.md) |
 | $b$ | [Border](./b/border.md) |
+| $c$ | [Catppuccin](./c/catppuccin.md) |
 
 ## New and Upcoming
 | Letter | Theme |

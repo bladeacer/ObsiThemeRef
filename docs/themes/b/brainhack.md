@@ -4,6 +4,7 @@ tags:
     - light_theme
     - dark_theme
     - gradients
+    - accent
 ---
 
 <img src="https://raw.githubusercontent.com/Spekulucius/obsidian-brainhack/refs/heads/main/images/brainhack-theme.png">

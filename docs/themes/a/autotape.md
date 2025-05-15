@@ -3,6 +3,7 @@ title: Autotape
 tags:
     - light_theme
     - dark_theme
+    - accent
     - retro
     - terminal
     - futuristic
