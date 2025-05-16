@@ -31,7 +31,7 @@ N/A
 | Criteria | Status | 
 | :---- | :---- | 
 | Dark/Light mode support | Dark mode only with WIP light mode | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | Allium is a theme inspired by allium flowers, mainly Allium atropurpureum, which has beautiful shades of red and purple. | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

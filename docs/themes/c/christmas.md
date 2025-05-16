@@ -33,7 +33,7 @@ There's a festive surprise hidden inside. If you don't like it, edit the `obsidi
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions |  A festive theme for Obsidian inspired by the Dynalist Christmas theme.  |
 | Accessibility | NIL | 
 | Style Settings support | No | 

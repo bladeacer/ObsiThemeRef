@@ -35,7 +35,7 @@ Narrow editor in reading mode (550px).
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.” | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

@@ -32,7 +32,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | A theme for Obsidian.md inspired by Android apps and Google's Material Design system. |
 | Accessibility | NIL | 
 | Style Settings support | No | 

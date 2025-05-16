@@ -43,7 +43,7 @@ Too many to list. Which can be a flaw in of itself as some users report the them
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | Personal Theme for Obsidian | 
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

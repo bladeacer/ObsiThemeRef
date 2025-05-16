@@ -41,7 +41,7 @@ This is an Obsidian theme based on the Aura Theme! Made via the Aura API. Find t
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only.  | 
-| One or multiple color schemes | Multiple colour schemes for dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for dark mode | 
 | Value Propositions | This is an Obsidian theme based on the Aura Theme! | 
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

@@ -37,7 +37,7 @@ Too many to list.
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | A clean and highly customisable theme for obsidian. |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

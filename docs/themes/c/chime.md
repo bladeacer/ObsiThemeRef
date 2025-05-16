@@ -4,7 +4,7 @@ tags:
     - light_theme
     - dark_theme
     - style_settings
-    - multiple_color_schemes
+    - multiple_colour_schemes
     - checkboxes
     - underrated_gems
 ---
@@ -29,7 +29,7 @@ Chime was designed with a special intention to not overwhelm you with options. B
 
 ## Features
 With the Style Settings plug-in, Chime boasts the following features:
-- 12 different color schemes
+- 12 different colour schemes
 - Two different layout styles.
 - Hide certain buttons and enable full-screen Focus Mode
 - Special style settings for the page-gallery plug-in
@@ -40,7 +40,7 @@ With the Style Settings plug-in, Chime boasts the following features:
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | Chime was designed with a special intention to not overwhelm you with options. |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

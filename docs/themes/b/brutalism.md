@@ -26,7 +26,7 @@ A theme based on the web brutalist approach. Mainly for my personal needs:
 - Words are the béton brut, the raw material. Forget about fancy visual features, focus on writing
 - Less css is always better
 - If you like inline-title, there is a fun gradient and fluid typography styling
-- Let space for native obsidian config, like accent color or font selection
+- Let space for native obsidian config, like accent colour or font selection
 
 ## Features
 N/A
@@ -35,7 +35,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | A theme based on the web brutalist approach. |
 | Accessibility | NIL | 
 | Style Settings support | No | 

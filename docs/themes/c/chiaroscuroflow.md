@@ -32,8 +32,8 @@ Chiaroscuro Flow is a visually appealing and highly customizable theme for Obsid
 - Light Mode Secondary Background
 - Dark Mode Primary Background
 - Dark Mode Secondary Background
-- Light Mode Text Color
-- Dark Mode Text Color
+- Light Mode Text colour
+- Dark Mode Text colour
 - Code Block Background (Light Mode)
 - Dark Mode Code Block Background
 - Math Block Background (Light Mode)
@@ -43,7 +43,7 @@ Chiaroscuro Flow is a visually appealing and highly customizable theme for Obsid
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | Chiaroscuro Flow is a visually appealing and highly customizable theme for Obsidian that brings a unique blend of light and dark aesthetics to your note-taking experience.  |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

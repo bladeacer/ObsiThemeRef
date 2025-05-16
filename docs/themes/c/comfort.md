@@ -34,7 +34,7 @@ This is a custom theme for Obsidian, helps you get the most of Obsidian. The the
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
-| One or multiple color schemes | One colour scheme for light mode | 
+| One or multiple colour schemes | One colour scheme for light mode | 
 | Value Propositions | The theme is designed to provide a clean and comfort user interface, the style is sweet and inspired by the japanese design style something like matcha |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

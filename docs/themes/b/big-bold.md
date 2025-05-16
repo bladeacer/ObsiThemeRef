@@ -34,7 +34,7 @@ Too many to list.
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | Big and Bold was designed to imitate WYSIWYG editors and maximize focus. Drawing inspiration from several apps including Microsoft Word, Anytype, and Notion, this theme was built for long periods of uninterrupted, highly concentrated writing. | 
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

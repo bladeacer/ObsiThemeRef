@@ -22,19 +22,19 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Abate \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abate/) |
 
 ## Excerpt from README
-Abate Custom light and dark theme for Obsidian. Lightens and softens tone for a paper-like read. Colors of this theme are inspired by Everforest as well as an Everforest theme made for Obsidian by `@Glitchbyte`.
+Abate Custom light and dark theme for Obsidian. Lightens and softens tone for a paper-like read. colours of this theme are inspired by Everforest as well as an Everforest theme made for Obsidian by `@Glitchbyte`.
 
 ## Features
 - Slick scrolling bar  
 - Light tone  
 - Dark tone  
-- Heading colored theme inspired by Word
+- Heading coloured theme inspired by Word
 
 ## Criteria
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
-| One or multiple color schemes | One colour scheme for light mode | 
+| One or multiple colour schemes | One colour scheme for light mode | 
 | Accessibility | NIL| 
 | Style Settings support | No | 
 | Age of Theme | Released 30 July 2024 | 

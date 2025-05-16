@@ -23,7 +23,7 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Brainhack \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/brainhack/) |
 
 ## Excerpt from README
-This is Brainhack Theme: a robust theme with only one customizable option: the accent color.
+This is Brainhack Theme: a robust theme with only one customizable option: the accent colour.
 
 ## Features
 - listed blockquotes
@@ -36,7 +36,7 @@ This is Brainhack Theme: a robust theme with only one customizable option: the a
 - more visible folders in the files browser
 - adjustable workspace
 - custom-styled callouts
-    - atm only !tip and !danger have individual colors, others use the same color as !tip
+    - atm only !tip and !danger have individual colours, others use the same colour as !tip
 - custom styled bullet lists with more spacing
 - overall spacing adjust, paragraphs, callouts, blockquotes and lists will flow better → better readability
 - nested callouts
@@ -47,8 +47,8 @@ This is Brainhack Theme: a robust theme with only one customizable option: the a
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
-| Value Propositions | This is Brainhack Theme: a robust theme with only one customizable option: the accent color.  |
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
+| Value Propositions | This is Brainhack Theme: a robust theme with only one customizable option: the accent colour.  |
 | Accessibility | NIL | 
 | Style Settings support | No | 
 | Age of Theme | Released 21 July 2024 | 

@@ -35,9 +35,9 @@ Uncomment it and you get an old-school CRT effect with a chunky pixel pentile lo
 
 ## Criteria
 | Criteria | Status | 
-| --- | --- | --- |
+| --- | --- |
 | Dark/Light mode support | Both dark and light mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | CRT scanlines and flicker | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

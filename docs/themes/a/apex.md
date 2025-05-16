@@ -35,7 +35,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme each for light and dark mode | 
+| One or multiple colour schemes | One colour scheme each for light and dark mode | 
 | Value Propositions | An opinionated, simple Obsidian theme to preserve my sanity. | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

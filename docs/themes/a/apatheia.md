@@ -30,7 +30,7 @@ Uses Fonts that were also used in the fonts Ultra Lobster Theme
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | This theme is inspired by the Things Theme | 
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

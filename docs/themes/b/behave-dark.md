@@ -29,7 +29,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions |  Port of the awesome, eye friendly Behave theme by Christian Petersen. Only dark mode is supported as the name suggests. To be used with Obsidian.md.  | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

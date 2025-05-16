@@ -30,7 +30,7 @@ This is an Obisidian theme in the style of Gnome Adwaita. The goal of this proje
 - Tabs  
 - Icons  
 - Dark and Light Theme  
-- Colors  
+- colours  
 - Font  
 - Style Settings Plugin Support  
 - TBD Rounded Window Corners
@@ -39,7 +39,7 @@ This is an Obisidian theme in the style of Gnome Adwaita. The goal of this proje
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | “To make Obsidian look more native on Gnome Desktop Environments like on Ubuntu or Fedora” | 
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

@@ -31,7 +31,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | N/A |
 | Accessibility | NIL | 
 | Style Settings support | No | 

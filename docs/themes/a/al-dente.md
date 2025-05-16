@@ -34,7 +34,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
-| One or multiple color schemes | One colour scheme for light mode | 
+| One or multiple colour schemes | One colour scheme for light mode | 
 | Value Propositions | A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well. | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

@@ -23,10 +23,9 @@ tags:
 | License | MIT |
 | View in Obsidian Hub | [Camena \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Camena) |
 | View in Moritz Jung’s Obsidian Stats | Page does not exist |
-<!-- | View in Moritz Jung’s Obsidian Stats | [Camena \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/camena/) | -->
 
 ## Excerpt from README
-A theme built to adjust to a chosen accent color.
+A theme built to adjust to a chosen accent colour.
 
 ## Features
 N/A
@@ -35,8 +34,8 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
-| Value Propositions | A theme built to adjust to a chosen accent color.  |
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
+| Value Propositions | A theme built to adjust to a chosen accent colour.  |
 | Accessibility | NIL | 
 | Style Settings support | No | 
 | Age of Theme | Released March 2025 (unknown date) | 

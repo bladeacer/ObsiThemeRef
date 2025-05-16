@@ -26,8 +26,8 @@ AMOLED Serenity is a smooth, low-contrast Obsidian theme designed specifically f
 ## Features
 - Designed for AMOLED: Utilizes deep blacks to save battery life and enhance visual aesthetics.
 - Dark Theme: Provides a cohesive dark environment for a comfortable viewing experience.
-- Eye Comfort: Low-contrast colors reduce strain during prolonged usage.
-- Calm Visual Experience: A soothing color palette that promotes relaxation.
+- Eye Comfort: Low-contrast colours reduce strain during prolonged usage.
+- Calm Visual Experience: A soothing colour palette that promotes relaxation.
 - Deep Blacks: Enhanced contrast for better visibility of text and elements.
 - Style Settings Extension Compatibility: Seamless integration with the Style Settings plugin, allowing for extensive customization.
 - Enhanced Customizability: Offers a wide range of options to tailor the theme to your personal preferences.
@@ -36,7 +36,7 @@ AMOLED Serenity is a smooth, low-contrast Obsidian theme designed specifically f
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | AMOLED Serenity is a smooth, low-contrast Obsidian theme designed specifically for AMOLED screens. |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

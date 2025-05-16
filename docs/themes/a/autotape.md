@@ -36,7 +36,7 @@ Autotape is fully compatible with the accent colour system. Simply select the co
 | Criteria | Status |
 | :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | A glowing retro-futurist terminal inspired theme for Obsidian | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

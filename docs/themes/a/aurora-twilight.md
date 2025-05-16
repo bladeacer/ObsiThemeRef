@@ -23,21 +23,21 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Aurora Twilight \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora-twilight/) |
 
 ## Excerpt from README
-This is a custom theme for Obsidian that supports both light and dark color schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colors for headings, bold, and italic text.
+This is a custom theme for Obsidian that supports both light and dark colour schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colours for headings, bold, and italic text.
 
 ## Features
 
 - Light and Dark Mode: Automatically switches between light and dark themes based on Obsidian settings.
 - Custom Fonts: Uses Quicksand for headings and Cabin for body text.
-- Custom Colors: Provides a unique color scheme for headings, bold, and italic text.
+- Custom colours: Provides a unique colour scheme for headings, bold, and italic text.
 - Border Radius: Adds rounded corners to various UI elements.
 
 ## Scoring
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both dark and light mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
-| Value Propositions | This is a custom theme for Obsidian that supports both light and dark color schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colors for headings, bold, and italic text. | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
+| Value Propositions | This is a custom theme for Obsidian that supports both light and dark colour schemes. The theme uses the `Quicksand` and `Cabin` fonts and provides custom colours for headings, bold, and italic text. | 
 | Accessibility | NIL | 
 | Style Settings support | No | 
 | Age of Theme | Released 21 June 2024 | 

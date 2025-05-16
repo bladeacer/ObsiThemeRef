@@ -4,7 +4,7 @@ tags:
     - light_theme
     - dark_theme
     - style_settings
-    - multiple_color_schemes
+    - multiple_colour_schemes
     - old_but_gold
 ---
 
@@ -33,7 +33,7 @@ Too many to list.
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | A blue theme for Obsidian. |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

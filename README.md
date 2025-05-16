@@ -30,7 +30,7 @@ Absolutely. Just run the following command in your directory of choice.
 git clone https://github.com/bladeacer/ObsiThemeRef.git 
 ```
 
-Then, open the ObsiThemeRef directory as an Obsidian vault.
+Then, open the `./ObsiThemeRef/docs/` directory as an Obsidian vault.
 
 If needed, run the following command to update your local branch with the remote one.
 ```sh

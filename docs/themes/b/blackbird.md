@@ -30,7 +30,7 @@ N/A
 | Criteria | Status | 
 | :---- | :---- | 
 | Dark/Light mode support | Dark mode only with WIP light mode | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | A sharpest theme from @gleich ported to obsidian. |
 | Accessibility | NIL | 
 | Style Settings support | No | 

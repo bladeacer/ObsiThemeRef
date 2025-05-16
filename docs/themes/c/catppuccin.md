@@ -30,13 +30,13 @@ Soothing pastel theme for Obsidian.
 ## Features
 This theme provides the full range of Catppuccin palettes when used with the Style Settings plugin.
 
-This plugin will allow users to pick from several variations on Catppuccin, including accents for each color in the palette and one that features the full host of Catppuccin colors (the default). 
+This plugin will allow users to pick from several variations on Catppuccin, including accents for each colour in the palette and one that features the full host of Catppuccin colours (the default). 
 
 ## Criteria
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode | 
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode | 
 | Value Propositions | Soothing pastel theme for Obsidian.  |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

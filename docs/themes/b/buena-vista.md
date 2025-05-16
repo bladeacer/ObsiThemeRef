@@ -32,7 +32,7 @@ Buena Vista is a configurable theme for Obsidian that provides small quality-of-
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | Buena Vista is a configurable theme for Obsidian that provides small quality-of-life and aesthetic improvements.  |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 

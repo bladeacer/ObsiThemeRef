@@ -37,7 +37,7 @@ Here is an example for my theme `flexcyon`:
 | Criteria | Status | 
 | --- | --- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | Vim Mode Status, ASCII Art in new tab, callout metadata utilities, ASCII checkboxes | 
 | Accessibility | Yes | 
 | Style Settings support | Yes | 

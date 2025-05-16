@@ -21,15 +21,15 @@ tags:
 | “Help wanted” issues | 0 |
 | Stars | 6 |
 | License | MIT |
-| View in Obsidian Hub | [Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Colored+Candy) |
+| View in Obsidian Hub | [Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/colored+Candy) |
 | View in Moritz Jung’s Obsidian Stats | [Colored Candy \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/) |
 
 ## Excerpt from README
-This is a cute lil' theme for Obsidian that changes the interface colors based off of your chosen accent color.
+This is a cute lil' theme for Obsidian that changes the interface colours based off of your chosen accent colour.
 
-> You can choose your accent color in Obsidian under Settings → Appearance → Accent color.
+> You can choose your accent colour in Obsidian under Settings → Appearance → Accent colour.
 
-This theme will change the background colors according to your accent color's hue, and create two new psuedo accent colors with their hues offset from the original, and calculating their saturation and lightness from the original.
+This theme will change the background colours according to your accent colour's hue, and create two new psuedo accent colours with their hues offset from the original, and calculating their saturation and lightness from the original.
 
 This theme has a few configurable options accessible through the Style Settings plugin.
 
@@ -42,8 +42,8 @@ This theme has a few configurable options accessible through the Style Settings 
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | Multiple colour schemes for light and dark mode (from accent colour) | 
-| Value Propositions | This is a cute lil' theme for Obsidian that changes the interface colors based off of your chosen accent color. |
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode (from accent colour) | 
+| Value Propositions | This is a cute lil' theme for Obsidian that changes the interface colours based off of your chosen accent colour. |
 | Accessibility | Yes | 
 | Style Settings support | Yes | 
 | Age of Theme | Released 28 August 2024 | 

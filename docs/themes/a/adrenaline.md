@@ -21,7 +21,7 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Adrenaline \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/adrenaline/) |
 
 ## Excerpt from README
-Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent color to adjust its overall look.
+Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent colour to adjust its overall look.
 
 ## Features
 N/A
@@ -30,8 +30,8 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
-| Value Propositions | Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent color to adjust its overall look. |
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
+| Value Propositions | Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent colour to adjust its overall look. |
 | Accessibility | NIL | 
 | Style Settings support | No | 
 | Age of Theme | Released 31 August 2024 | 

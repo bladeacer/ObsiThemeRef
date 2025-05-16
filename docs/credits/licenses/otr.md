@@ -2,7 +2,7 @@
 title: License - Obsidian Theme Reference
 ---
 
-The source code for this site is licensed and its source code is under the MIT License.
+This site and its corresponding source code are both licensed under the MIT License.
 
 ```md
 MIT License

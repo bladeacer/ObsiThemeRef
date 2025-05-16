@@ -26,9 +26,9 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Borealis \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/borealis/) |
 
 ## Excerpt from README
-An obsidian theme inspired by the vibrant colors of the aurora borealis, illuminating the night.
+An obsidian theme inspired by the vibrant colours of the aurora borealis, illuminating the night.
 
-A minimalist theme with two main colors that allows you to stay focused and create a productive workspace.
+A minimalist theme with two main colours that allows you to stay focused and create a productive workspace.
 
 ## Features
 - Dark and light mode
@@ -47,8 +47,8 @@ A minimalist theme with two main colors that allows you to stay focused and crea
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
-| Value Propositions |  An obsidian theme inspired by the vibrant colors of the aurora borealis, illuminating the night.  A minimalist theme with two main colors that allows you to stay focused and create a productive workspace.  |
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
+| Value Propositions |  An obsidian theme inspired by the vibrant colours of the aurora borealis, illuminating the night.  A minimalist theme with two main colours that allows you to stay focused and create a productive workspace.  |
 | Accessibility | NIL | 
 | Style Settings support | Yes | 
 | Age of Theme | Released 30 October 2024 | 

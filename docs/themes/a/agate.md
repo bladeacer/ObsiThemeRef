@@ -31,7 +31,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Light mode only | 
-| One or multiple color schemes | One colour scheme for light mode | 
+| One or multiple colour schemes | One colour scheme for light mode | 
 | Value Propositions | “This is a minimal theme that creates various atmospheres using the overlapping effect of transparent layers. I focused extensively on typography to ensure smooth readability.” | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

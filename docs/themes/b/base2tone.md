@@ -30,7 +30,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only | 
-| One or multiple color schemes | One colour scheme for dark mode | 
+| One or multiple colour schemes | One colour scheme for dark mode | 
 | Value Propositions | A theme for Obsidian based on http://base2t.one/ with default hues from http://simurai.com/duotone-dark-sky-syntax/ | 
 | Accessibility | NIL | 
 | Style Settings support | No | 

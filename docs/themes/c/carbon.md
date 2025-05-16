@@ -34,7 +34,7 @@ N/A
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple color schemes | One colour scheme for light and dark mode | 
+| One or multiple colour schemes | One colour scheme for light and dark mode | 
 | Value Propositions | A minimal and opinionated theme with light and dark schemes for Obsidian. |
 | Accessibility | NIL | 
 | Style Settings support | No | 

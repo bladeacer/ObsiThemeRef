@@ -24,17 +24,17 @@ tags:
 Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT
 
 ## Features
-“The Arcane theme was initially designed as a base16 theme, utilizing a 16-color palette composed of 8 shades and 8 accents. The beauty of this approach is its flexibility and simplicity. Want a new theme every week or month? Simply replace the main 8 color variables in the .css file. Whether you're aiming for the aesthetics of DOOM EMACS, DARK ONE, ATOM, or NORD, all it takes is a change of 8 colors. No more fiddling with complex color schemes\!
+“The Arcane theme was initially designed as a base16 theme, utilizing a 16-colour palette composed of 8 shades and 8 accents. The beauty of this approach is its flexibility and simplicity. Want a new theme every week or month? Simply replace the main 8 colour variables in the .css file. Whether you're aiming for the aesthetics of DOOM EMACS, DARK ONE, ATOM, or NORD, all it takes is a change of 8 colours. No more fiddling with complex colour schemes\!
 
-However, everything changed when I came across `#88c0d4`, a soft, muted cyan that I absolutely adore. Every time I open my vault, this color palette evokes feelings of clarity, calmness, and freshness. It is the color which had to stay and the rest of the accents simply followed.
+However, everything changed when I came across `#88c0d4`, a soft, muted cyan that I absolutely adore. Every time I open my vault, this colour palette evokes feelings of clarity, calmness, and freshness. It is the colour which had to stay and the rest of the accents simply followed.
 
-This Theme doesn't rely on 16 colors anymore. But the idea of the `base16` framework is still there.”
+This Theme doesn't rely on 16 colours anymore. But the idea of the `base16` framework is still there.”
 
 ## Criteria
 | Criteria | Status | 
 | :--- | :--- | 
 | Dark/Light mode support | Dark mode only.  
-| One or multiple color schemes | One colour scheme for dark mode | 1/**4** |
+| One or multiple colour schemes | One colour scheme for dark mode | 1/**4** |
 | Value Propositions | Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT | 
 | Accessibility | NIL | 
 | Style Settings support | No | 
