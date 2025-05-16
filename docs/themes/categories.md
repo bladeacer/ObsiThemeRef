@@ -19,6 +19,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Aura](./a/aura.md) |
 | $b$ | [Big & Bold](./b/big-bold.md) |
 | $b$ | [Brutalism](./b/brutalism.md) |
+| $c$ | [Chime](./c/chime.md) |
 
 ## Old but Gold
 | Letter | Theme | 
@@ -38,6 +39,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Aged Whiskey](./a/aged-whiskey.md) |
 | $a$ | [Allium](./a/allium.md) |
 | $b$ | [Borealis](./b/borealis.md) |
+| $c$ | [Colored Candy](./c/colored-candy.md) |
 
 <!-- ## Contributor Shoutouts -->
 
