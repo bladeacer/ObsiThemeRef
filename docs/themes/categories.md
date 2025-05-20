@@ -40,6 +40,7 @@ There can be at most three themes per letter, per category. Themes cannot appear
 | $a$ | [Allium](./a/allium.md) |
 | $b$ | [Borealis](./b/borealis.md) |
 | $c$ | [Colored Candy](./c/colored-candy.md) |
+| $c$ | [Composer](./c/composer.md) |
 
 <!-- ## Contributor Shoutouts -->
 
