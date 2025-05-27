@@ -3,17 +3,22 @@ title: Themes
 icon: material/language-css3
 ---
 
-Within this page and its sub-pages, you can find more information about Obsidian community themes.
+Within this page and its sub-pages, you can find more information about Obsidian
+community themes.
 
 Themes are sorted by alphabetical order in folders.
 
 ## Progress Tracker
+
 <p>
-    Themes added: 57 / 353
-    <progress value="57" max="353"/>
+    Themes added: 58 / 352
+    <progress value="58" max="352"/>
 </p>
 
-The count might not reach the expected maximum as some themes may have installations that do not work from time to time.
+The count might not reach the expected maximum as some themes may have
+installations that do not work from time to time.
 
 ## Themes by Categories
+
 [View here](./categories.md)
+
