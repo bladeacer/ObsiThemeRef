@@ -42,12 +42,12 @@ Each of the themes will be evaluated on the following criteria, serving as infor
 
 Here is an example for the `Atom` theme:
 
-| Criteria                       | Status                                                                                                                                                                                                         |     |
-| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-- |
-| Dark/Light mode support        | Both light and dark modes supported.                                                                                                                                                                           |     |
-| One or multiple colour schemes | One colour scheme each for light and dark mode                                                                                                                                                                 |     |
-| Value Propositions             | A theme for Obsidian based on Atom's One Dark and One Light themes.                                                                                                                                            |     |
-| Accessibility                  | NIL                                                                                                                                                                                                            |     |
-| Style Settings support         | No                                                                                                                                                                                                             |     |
-| Age of Theme                   | Released 24 November 2020                                                                                                                                                                                      |     |
-| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |     |
+|Criteria|Status||
+|---|---|---|
+|Dark/Light mode support|Both light and dark modes supported.||
+|One or multiple colour schemes|One colour scheme each for light and dark mode||
+|Value Propositions|A theme for Obsidian based on Atom's One Dark and One Light themes.||
+|Accessibility|NIL||
+|Style Settings support|No||
+|Age of Theme|Released 24 November 2020||
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)||

@@ -12,17 +12,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                                   |
-| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer)                                                                              |
-| Author                               | [vran-dev](https://github.com/vran-dev)                                                                                                                  |
-| Downloads                            | 3 696                                                                                                                                                    |
-| Last Updated                         | April 2025                                                                                                                                               |
-| “Help wanted” issues                 | 0                                                                                                                                                        |
-| Stars                                | 32                                                                                                                                                       |
-| License                              | MIT                                                                                                                                                      |
-| View in Obsidian Hub                 | [Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer) |
-| View in Moritz Jung’s Obsidian Stats | [Composer \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer)|
+|Author|[vran-dev](https://github.com/vran-dev)|
+|Downloads|3 696|
+|Last Updated|April 2025|
+|“Help wanted” issues|0|
+|Stars|32|
+|License|MIT|
+|View in Obsidian Hub|[Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer)|
+|View in Moritz Jung’s Obsidian Stats|[Composer \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)|
 
 ## Excerpt from README
 
@@ -92,12 +92,12 @@ Card Component:
 
 ## Criteria
 
-| Criteria                       | Status                                                                                   |
-| :----------------------------- | :--------------------------------------------------------------------------------------- |
-| Dark/Light mode support        | Both light and dark mode supported                                                       |
-| One or multiple colour schemes | Multiple colour schemes for light and dark mode                                          |
-| Value Propositions             | An out-of-box theme for Obsidian, which is designed for reading and writing comfortably. |
-| Accessibility                  | NIL                                                                                      |
-| Style Settings support         | Yes                                                                                      |
-| Age of Theme                   | Released 14 February 2025                                                                |
-| Last updated                   | April 2025                                                                               |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Both light and dark mode supported|
+|One or multiple colour schemes|Multiple colour schemes for light and dark mode|
+|Value Propositions|An out-of-box theme for Obsidian, which is designed for reading and writing comfortably.|
+|Accessibility|NIL|
+|Style Settings support|Yes|
+|Age of Theme|Released 14 February 2025|
+|Last updated|April 2025|

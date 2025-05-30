@@ -10,17 +10,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                                           |
-| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme)                                                                  |
-| Author                               | [anareaty](https://github.com/anareaty)                                                                                                                          |
-| Downloads                            | 3 216                                                                                                                                                            |
-| Last Updated                         | February 2025                                                                                                                                                    |
-| “Help wanted” issues                 | 0                                                                                                                                                                |
-| Stars                                | 2                                                                                                                                                                |
-| License                              | MIT                                                                                                                                                              |
-| View in Obsidian Hub                 | [Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee) |
-| View in Moritz Jung’s Obsidian Stats | [Creme Brulee \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme)|
+|Author|[anareaty](https://github.com/anareaty)|
+|Downloads|3 216|
+|Last Updated|February 2025|
+|“Help wanted” issues|0|
+|Stars|2|
+|License|MIT|
+|View in Obsidian Hub|[Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee)|
+|View in Moritz Jung’s Obsidian Stats|[Creme Brulee \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)|
 
 ## Excerpt from README
 
@@ -44,12 +44,12 @@ values to your cssclasses property:
 
 ## Criteria
 
-| Criteria                       | Status                                                                                                |
-| :----------------------------- | :---------------------------------------------------------------------------------------------------- |
-| Dark/Light mode support        | Both light and dark mode supported                                                                    |
-| One or multiple colour schemes | One colour scheme for light and dark mode                                                             |
-| Value Propositions             | This theme was designed to look minimalistic, but cozy, with soft colors and many little adjustments. |
-| Accessibility                  | NIL                                                                                                   |
-| Style Settings support         | No                                                                                                    |
-| Age of Theme                   | Released 9 June 2024                                                                                  |
-| Last Updated                   | February 2025                                                                                         |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Both light and dark mode supported|
+|One or multiple colour schemes|One colour scheme for light and dark mode|
+|Value Propositions|This theme was designed to look minimalistic, but cozy, with soft colors and many little adjustments.|
+|Accessibility|NIL|
+|Style Settings support|No|
+|Age of Theme|Released 9 June 2024|
+|Last Updated|February 2025|

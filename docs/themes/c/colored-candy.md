@@ -13,17 +13,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                                             |
-| :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [Erallie/colored-candy](https://github.com/Erallie/colored-candy)                                                                                                  |
-| Author                               | [Erallie](https://github.com/Erallie)                                                                                                                              |
-| Downloads                            | 4 436                                                                                                                                                              |
-| Last Updated                         | April 2025                                                                                                                                                         |
-| “Help wanted” issues                 | 0                                                                                                                                                                  |
-| Stars                                | 6                                                                                                                                                                  |
-| License                              | MIT                                                                                                                                                                |
-| View in Obsidian Hub                 | [Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/colored+Candy) |
-| View in Moritz Jung’s Obsidian Stats | [Colored Candy \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[Erallie/colored-candy](https://github.com/Erallie/colored-candy)|
+|Author|[Erallie](https://github.com/Erallie)|
+|Downloads|4 436|
+|Last Updated|April 2025|
+|“Help wanted” issues|0|
+|Stars|6|
+|License|MIT|
+|View in Obsidian Hub|[Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/colored+Candy)|
+|View in Moritz Jung’s Obsidian Stats|[Colored Candy \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/)|
 
 ## Excerpt from README
 
@@ -44,12 +44,12 @@ This theme has a few configurable options accessible through the Style Settings 
 
 ## Criteria
 
-| Criteria                       | Status                                                                                                            |
-| :----------------------------- | :---------------------------------------------------------------------------------------------------------------- |
-| Dark/Light mode support        | Both light and dark mode supported                                                                                |
-| One or multiple colour schemes | Multiple colour schemes for light and dark mode (from accent colour)                                              |
-| Value Propositions             | This is a cute lil' theme for Obsidian that changes the interface colours based off of your chosen accent colour. |
-| Accessibility                  | Yes                                                                                                               |
-| Style Settings support         | Yes                                                                                                               |
-| Age of Theme                   | Released 28 August 2024                                                                                           |
-| Last updated                   | April 2025                                                                                                        |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Both light and dark mode supported|
+|One or multiple colour schemes|Multiple colour schemes for light and dark mode (from accent colour)|
+|Value Propositions|This is a cute lil' theme for Obsidian that changes the interface colours based off of your chosen accent colour.|
+|Accessibility|Yes|
+|Style Settings support|Yes|
+|Age of Theme|Released 28 August 2024|
+|Last updated|April 2025|

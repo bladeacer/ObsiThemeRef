@@ -9,17 +9,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                                     |
-| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [deathau/obsidian-christmas-theme](https://github.com/deathau/obsidian-christmas-theme)                                                                    |
-| Author                               | [deathau](https://github.com/deathau)                                                                                                                      |
-| Downloads                            | 6 642                                                                                                                                                      |
-| Last Updated                         | October 2020                                                                                                                                               |
-| “Help wanted” issues                 | 0                                                                                                                                                          |
-| Stars                                | 6                                                                                                                                                          |
-| License                              | Unlicense                                                                                                                                                  |
-| View in Obsidian Hub                 | [Christmas \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Christmas) |
-| View in Moritz Jung’s Obsidian Stats | [Christmas \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/christmas/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[deathau/obsidian-christmas-theme](https://github.com/deathau/obsidian-christmas-theme)|
+|Author|[deathau](https://github.com/deathau)|
+|Downloads|6 642|
+|Last Updated|October 2020|
+|“Help wanted” issues|0|
+|Stars|6|
+|License|Unlicense|
+|View in Obsidian Hub|[Christmas \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Christmas)|
+|View in Moritz Jung’s Obsidian Stats|[Christmas \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/christmas/)|
 
 ## Excerpt from README
 
@@ -34,12 +34,12 @@ There's a festive surprise hidden inside. If you don't like it, edit the `obsidi
 
 ## Criteria
 
-| Criteria                       | Status                                                                 |
-| :----------------------------- | :--------------------------------------------------------------------- |
-| Dark/Light mode support        | Both light and dark mode supported                                     |
-| One or multiple colour schemes | One colour scheme for light and dark mode                              |
-| Value Propositions             | A festive theme for Obsidian inspired by the Dynalist Christmas theme. |
-| Accessibility                  | NIL                                                                    |
-| Style Settings support         | No                                                                     |
-| Age of Theme                   | Released 24 November 2020                                              |
-| Last updated                   | October 2020                                                           |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Both light and dark mode supported|
+|One or multiple colour schemes|One colour scheme for light and dark mode|
+|Value Propositions|A festive theme for Obsidian inspired by the Dynalist Christmas theme.|
+|Accessibility|NIL|
+|Style Settings support|No|
+|Age of Theme|Released 24 November 2020|
+|Last updated|October 2020|

@@ -8,17 +8,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                               |
-| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme)                                                              |
-| Author                               | [schrunchee](https://github.com/schrunchee)                                                                                                          |
-| Downloads                            | 2 079                                                                                                                                                |
-| Last Updated                         | June 2023                                                                                                                                            |
-| “Help wanted” issues                 | 0                                                                                                                                                    |
-| Stars                                | 3                                                                                                                                                    |
-| License                              | MIT                                                                                                                                                  |
-| View in Obsidian Hub                 | [Covert \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Covert) |
-| View in Moritz Jung’s Obsidian Stats | [Covert \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/covert/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme)|
+|Author|[schrunchee](https://github.com/schrunchee)|
+|Downloads|2 079|
+|Last Updated|June 2023|
+|“Help wanted” issues|0|
+|Stars|3|
+|License|MIT|
+|View in Obsidian Hub|[Covert \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Covert)|
+|View in Moritz Jung’s Obsidian Stats|[Covert \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/covert/)|
 
 ## Excerpt from README
 
@@ -36,12 +36,12 @@ N/A
 
 ## Criteria
 
-| Criteria                       | Status                                                                                                                                                                             |
-| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dark/Light mode support        | Dark mode only                                                                                                                                                                     |
-| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                    |
-| Value Propositions             | When you're in a coffeehouse or library, or just in public, but you want to work in Obsidian, this theme is exactly what you need if you want to write with some level of privacy. |
-| Accessibility                  | NIL                                                                                                                                                                                |
-| Style Settings support         | No                                                                                                                                                                                 |
-| Age of Theme                   | Released 22 June 2023                                                                                                                                                              |
-| Last updated                   | June 2023                                                                                                                                                                          |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Dark mode only|
+|One or multiple colour schemes|One colour scheme for dark mode|
+|Value Propositions|When you're in a coffeehouse or library, or just in public, but you want to work in Obsidian, this theme is exactly what you need if you want to write with some level of privacy.|
+|Accessibility|NIL|
+|Style Settings support|No|
+|Age of Theme|Released 22 June 2023|
+|Last updated|June 2023|

@@ -19,17 +19,17 @@ tags:
 
 ## Info
 
-| Info                                 | Status                                                                                                                                                     |
-| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository Link                      | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)                                                                          |
-| Author                               | [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)                                                                          |
-| Downloads                            | 22 979                                                                                                                                                     |
-| Last Updated                         | May 2025                                                                                                                                                   |
-| “Help wanted” issues                 | 0                                                                                                                                                          |
-| Stars                                | 394                                                                                                                                                        |
-| License                              | MIT                                                                                                                                                        |
-| View in Obsidian Hub                 | [Cupertino \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cupertino) |
-| View in Moritz Jung’s Obsidian Stats | [Cupertino \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cupertino/)                                                                 |
+|Info|Status|
+|---|---|
+|Repository Link|[aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)|
+|Author|[aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)|
+|Downloads|22 979|
+|Last Updated|May 2025|
+|“Help wanted” issues|0|
+|Stars|394|
+|License|MIT|
+|View in Obsidian Hub|[Cupertino \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cupertino)|
+|View in Moritz Jung’s Obsidian Stats|[Cupertino \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cupertino/)|
 
 ## Excerpt from README
 
@@ -48,12 +48,12 @@ default, can be disabled with Style Settings)
 
 ## Criteria
 
-| Criteria                       | Status                                                                                                                                                       |
-| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dark/Light mode support        | Both light and dark mode supported                                                                                                                           |
-| One or multiple colour schemes | One colour scheme for light and dark mode                                                                                                                    |
-| Value Propositions             | Cupertino is an Obsidian theme, optimized for desktop and mobile devices. Bringing clean, focused, comfortable reading and writing experience to your vault. |
-| Accessibility                  | NIL                                                                                                                                                          |
-| Style Settings support         | Yes                                                                                                                                                          |
-| Age of Theme                   | Released 22 December 2024                                                                                                                                    |
-| Last Updated                   | May 2025                                                                                                                                                     |
+|Criteria|Status|
+|---|---|
+|Dark/Light mode support|Both light and dark mode supported|
+|One or multiple colour schemes|One colour scheme for light and dark mode|
+|Value Propositions|Cupertino is an Obsidian theme, optimized for desktop and mobile devices. Bringing clean, focused, comfortable reading and writing experience to your vault.|
+|Accessibility|NIL|
+|Style Settings support|Yes|
+|Age of Theme|Released 22 December 2024|
+|Last Updated|May 2025|
