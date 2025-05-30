@@ -1,13 +1,13 @@
 table thead {
-    font-size: 0.8rem;
+  font-size: 0.8rem;
 }
 table tbody {
-    font-size: 0.75rem;
+  font-size: 0.75rem;
 }
 td {
-    overflow-wrap: break-word;
+  overflow-wrap: break-word;
 }
 progress {
-    margin-left: 16px;
-    width: 352px;
+  margin-left: 16px;
+  width: 352px;
 }
