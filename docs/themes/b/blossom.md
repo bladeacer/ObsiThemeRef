@@ -4,7 +4,7 @@ tags:
   - dark_theme
 ---
 
-<img alt="Blossom Theme Screenshot" src="https://raw.githubusercontent.com/BlossomTheme/Obsidian/refs/heads/master/screenshot01.png">
+![Blossom Theme Screenshot](https://raw.githubusercontent.com/BlossomTheme/Obsidian/refs/heads/master/screenshot01.png)
 
 ## Info
 
@@ -13,11 +13,11 @@ tags:
 | Repository Link                      | [BlossomTheme/Obsidian](https://github.com/BlossomTheme/Obsidian)                                                                                                                                              |
 | Author                               | [ShamalLakshan](https://github.com/ShamalLakshan)                                                                                                                                                              |
 | Downloads                            | 1 453                                                                                                                                                                                                          |
-| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BlossomTheme/Obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
-| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/BlossomTheme/Obsidian/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
-| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BlossomTheme/Obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
-| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/BlossomTheme/Obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
-| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/BlossomTheme/Obsidian?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/BlossomTheme/Obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/BlossomTheme/Obsidian/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)            |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/BlossomTheme/Obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge)                                |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/BlossomTheme/Obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/BlossomTheme/Obsidian?style=for-the-badge)                                                                   |
 | View in Obsidian Hub                 | [Blossom \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Blossom)                                                         |
 | View in Moritz Jung’s Obsidian Stats | [Blossom \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/blossom/)                                                                                                                         |
 
@@ -39,4 +39,4 @@ N/A
 | Accessibility                  | NIL                                                                                                                                                                                                            |
 | Style Settings support         | No                                                                                                                                                                                                             |
 | Age of Theme                   | Released 17 May 2024                                                                                                                                                                                           |
-| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BlossomTheme/Obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/BlossomTheme/Obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |

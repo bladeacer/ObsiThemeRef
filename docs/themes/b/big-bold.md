@@ -9,7 +9,7 @@ tags:
   - underrated_gems
 ---
 
-<img alt="Big & Bold" src="https://raw.githubusercontent.com/Bluemoondragon07/obsidian-big-and-bold/refs/heads/main/big-and-bold.png">
+![Big & Bold](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-big-and-bold/refs/heads/main/big-and-bold.png)
 
 ## Info
 
@@ -18,11 +18,11 @@ tags:
 | Repository Link                      | [Bluemoondragon07/obsidian-big-and-bold](https://github.com/Bluemoondragon07/obsidian-big-and-bold)                                                                                                                             |
 | Author                               | [Bluemoondragon08](https://github.com/Bluemoondragon07)                                                                                                                                                                         |
 | Downloads                            | 8 791                                                                                                                                                                                                                           |
-| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
-| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/Bluemoondragon07/obsidian-big-and-bold/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
-| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
-| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
-| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/Bluemoondragon07/obsidian-big-and-bold?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/Bluemoondragon07/obsidian-big-and-bold/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)            |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;logo=github&amp;style=for-the-badge)                                |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/Bluemoondragon07/obsidian-big-and-bold?style=for-the-badge)                                                                   |
 | View in Obsidian Hub                 | [Big & Bold \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Big+%26+Bold)                                                                  |
 | View in Moritz Jung’s Obsidian Stats | [Big & Bold \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/big-bold/)                                                                                                                                      |
 
@@ -44,4 +44,4 @@ Too many to list.
 | Accessibility                  | NIL                                                                                                                                                                                                                                                |
 | Style Settings support         | Yes                                                                                                                                                                                                                                                |
 | Age of Theme                   | Released 21 February 2023                                                                                                                                                                                                                          |
-| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                    |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)                    |

@@ -7,7 +7,7 @@ tags:
   - cards_layout
 ---
 
-<img alt="Aurora Twilight Theme Screenshot" src="https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/refs/heads/master/image.png">
+![Aurora Twilight Theme Screenshot](https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/refs/heads/master/image.png)
 
 ## Info
 
@@ -16,11 +16,11 @@ tags:
 | Repository Link                      | [Quinta0/Aurora-Twilight](https://github.com/Quinta0/Aurora-Twilight)                                                                                                                                            |
 | Author                               | [Quinta0](https://github.com/Quinta0/)                                                                                                                                                                           |
 | Downloads                            | 1 664                                                                                                                                                                                                            |
-| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Quinta0/Aurora-Twilight?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
-| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/Quinta0/Aurora-Twilight/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
-| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Quinta0/Aurora-Twilight?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
-| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/Quinta0/Aurora-Twilight?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
-| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/Quinta0/Aurora-Twilight?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/Quinta0/Aurora-Twilight?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/Quinta0/Aurora-Twilight/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)            |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/Quinta0/Aurora-Twilight?color=573E7A&amp;logo=github&amp;style=for-the-badge)                                |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/Quinta0/Aurora-Twilight?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/Quinta0/Aurora-Twilight?style=for-the-badge)                                                                   |
 | View in Obsidian Hub                 | [Aurora Twilight \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Aurora-Twilight)                                           |
 | View in Moritz Jung’s Obsidian Stats | [Aurora Twilight \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora-twilight/)                                                                                                           |
 
@@ -45,4 +45,4 @@ This is a custom theme for Obsidian that supports both light and dark colour sch
 | Accessibility                  | NIL                                                                                                                                                                                                              |
 | Style Settings support         | No                                                                                                                                                                                                               |
 | Age of Theme                   | Released 21 June 2024                                                                                                                                                                                            |
-| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Quinta0/Aurora-Twilight?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/Quinta0/Aurora-Twilight?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |

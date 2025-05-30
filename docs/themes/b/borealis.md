@@ -8,9 +8,9 @@ tags:
   - style_settings
 ---
 
-<img alt="Borealis Light Theme Screenshot" src="https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/refs/heads/main/docs/light.png">
+![Borealis Light Theme Screenshot](https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/refs/heads/main/docs/light.png)
 
-<img alt="Borealis Dark Theme Screenshot" src="https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/refs/heads/main/docs/dark.png">
+![Borealis Dark Theme Screenshot](https://raw.githubusercontent.com/juanchiparra/obsidian-borealis/refs/heads/main/docs/dark.png)
 
 ## Info
 
@@ -19,11 +19,11 @@ tags:
 | Repository Link                      | [juanchiparra/obsidian-borealis](https://github.com/juanchiparra/obsidian-borealis/)                                                                                                                                    |
 | Author                               | [juanchiparra](https://github.com/juanchiparra)                                                                                                                                                                         |
 | Downloads                            | 2 870                                                                                                                                                                                                                   |
-| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juanchiparra/obsidian-borealis?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
-| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/juanchiparra/obsidian-borealis/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
-| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/juanchiparra/obsidian-borealis?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
-| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/juanchiparra/obsidian-borealis?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
-| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/juanchiparra/obsidian-borealis?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/juanchiparra/obsidian-borealis?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/juanchiparra/obsidian-borealis/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)            |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/juanchiparra/obsidian-borealis?color=573E7A&amp;logo=github&amp;style=for-the-badge)                                |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/juanchiparra/obsidian-borealis?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/juanchiparra/obsidian-borealis?style=for-the-badge)                                                                   |
 | View in Obsidian Hub                 | [Borealis \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Borealis)                                                                |
 | View in Moritz Jung’s Obsidian Stats | [Borealis \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/borealis/)                                                                                                                                |
 
@@ -57,4 +57,4 @@ A minimalist theme with two main colours that allows you to stay focused and cre
 | Accessibility                  | NIL                                                                                                                                                                                                                     |
 | Style Settings support         | Yes                                                                                                                                                                                                                     |
 | Age of Theme                   | Released 30 October 2024                                                                                                                                                                                                |
-| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juanchiparra/obsidian-borealis?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/juanchiparra/obsidian-borealis?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge) |
