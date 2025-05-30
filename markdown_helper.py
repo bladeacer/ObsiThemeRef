@@ -115,16 +115,4 @@ def process_markdown_files(folder_path="docs"):
     print(f"\n--- Finished file processing ---")
 
 if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) > 1:
-        folder_to_process = sys.argv[1]
-    else:
-        folder_to_process = input("Enter the path to the folder (defaults to 'docs'): ")
-        if not folder_to_process:
-            folder_to_process = "docs"
-
-    if os.path.isdir(folder_to_process):
-        process_markdown_files(folder_to_process)
-    else:
-        print("Invalid folder path provided. Please ensure it's a valid directory.")
+    process_markdown_files()

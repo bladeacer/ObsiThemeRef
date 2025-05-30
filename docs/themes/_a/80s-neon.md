@@ -22,7 +22,7 @@ tags:
 |“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/deathau/80s-Neon-for-Obsidian.md/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/deathau/80s-Neon-for-Obsidian.md?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/deathau/80s-Neon-for-Obsidian.md?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
-|License|Unlicense|
+|License|![GitHub License](https://img.shields.io/github/license/deathau/80s-Neon-for-Obsidian.md?style=for-the-badge)|
 |View in Obsidian Hub|[80s Neon \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/80s+Neon)|
 |View in Moritz Jung’s Obsidian Stats|[80s Neon \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/80s-neon/)|
 
