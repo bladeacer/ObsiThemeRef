@@ -1,15 +1,15 @@
 ---
 title: Allium
 tags:
-    - dark_theme
-    - light_theme
-    - new_and_upcoming
+  - dark_theme
+  - light_theme
+  - new_and_upcoming
 ---
 
 <img alt="Allium Theme Screenshot" src="https://raw.githubusercontent.com/xainapse/Allium/refs/heads/main/AlliumScreenshot.png">
 
-
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                   |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repository Link                      | [xainapse/Allium](https://github.com/xainapse/Allium)                                                                                                                                                    |
@@ -24,18 +24,21 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Allium \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/allium/)                                                                                                                     |
 
 ## Excerpt from README
+
 Allium is a theme inspired by allium flowers, mainly Allium atropurpureum, which has beautiful shades of red and purple. Oh Also there is a light mode, though it is very much an early work in progress.
 
 ## Features
+
 N/A
 
 ## Criteria
-| Criteria | Status | 
-| :---- | :---- | 
-| Dark/Light mode support | Dark mode only with WIP light mode | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | Allium is a theme inspired by allium flowers, mainly Allium atropurpureum, which has beautiful shades of red and purple. | 
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 3 June 2024 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xainapse/Allium?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                   |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Dark mode only with WIP light mode                                                                                                                                                                       |
+| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                                          |
+| Value Propositions             | Allium is a theme inspired by allium flowers, mainly Allium atropurpureum, which has beautiful shades of red and purple.                                                                                 |
+| Accessibility                  | NIL                                                                                                                                                                                                      |
+| Style Settings support         | No                                                                                                                                                                                                       |
+| Age of Theme                   | Released 3 June 2024                                                                                                                                                                                     |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xainapse/Allium?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

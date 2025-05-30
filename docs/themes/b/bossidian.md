@@ -1,37 +1,42 @@
 ---
 title: Bossidian
 tags:
-    - dark_theme
+  - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/BossElijah/bossidian/refs/heads/master/images/image-1-large.png">
+<img alt="Bossidian Theme Screenshot" src="https://raw.githubusercontent.com/BossElijah/bossidian/refs/heads/master/images/image-1-large.png">
 
 ## Info
-| Info | Status |
-| :--- | :--- |
-| Repository Link | [BossElijah/bossidian](https://github.com/BossElijah/bossidian) |
-| Author | [BossElijah](https://github.com/BossElijah) |
-| Downloads | 803 |
-| Last Updated | June 2024 |
-| “Help wanted” issues | 0 |
-| Stars | 1 |
-| License | MIT |
-| View in Obsidian Hub | [Bossidian \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Bossidian) |
-| View in Moritz Jung’s Obsidian Stats | [Bossidian \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/bossidian/) |
+
+| Info                                 | Status                                                                                                                                                                                                        |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Repository Link                      | [BossElijah/bossidian](https://github.com/BossElijah/bossidian)                                                                                                                                               |
+| Author                               | [BossElijah](https://github.com/BossElijah)                                                                                                                                                                   |
+| Downloads                            | 803                                                                                                                                                                                                           |
+| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BossElijah/bossidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/BossElijah/bossidian/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
+| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BossElijah/bossidian?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
+| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/BossElijah/bossidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
+| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/BossElijah/bossidian?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| View in Obsidian Hub                 | [Bossidian \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Bossidian)                                                    |
+| View in Moritz Jung’s Obsidian Stats | [Bossidian \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/bossidian/)                                                                                                                    |
 
 ## Excerpt from README
+
 Modern dark theme for Obsidian.md!
 
 ## Features
+
 N/A
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Dark mode only | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | Modern dark theme for Obsidian.md! |
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 24 June 2024 | 
-| Last Updated | June 2024 |
+
+| Criteria                       | Status                                                                                                                                                                                                        |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dark/Light mode support        | Dark mode only                                                                                                                                                                                                |
+| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                                               |
+| Value Propositions             | Modern dark theme for Obsidian.md!                                                                                                                                                                            |
+| Accessibility                  | NIL                                                                                                                                                                                                           |
+| Style Settings support         | No                                                                                                                                                                                                            |
+| Age of Theme                   | Released 24 June 2024                                                                                                                                                                                         |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BossElijah/bossidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

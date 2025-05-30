@@ -1,15 +1,14 @@
 ---
 title: Al Dente
-tags: 
-    - light_theme
-    - minimalist
-    - old_but_gold
+tags:
+  - light_theme
+  - minimalist
+  - old_but_gold
 ---
 
 <img alt="Al Dente Light Theme Screenshot" src="https://raw.githubusercontent.com/chad-bennett/al-dente-obsidian-theme/refs/heads/master/aldente-screenshot.png">
 
 <img alt="Al Dente Dark Theme Screenshot" src="https://raw.githubusercontent.com/chad-bennett/al-dente-obsidian-theme/refs/heads/master/alDente-dark.png">
-
 
 ## Info
 
@@ -27,20 +26,23 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Al Dente \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/al-dente/)                                                                                                                                      |
 
 ## Excerpt from README
+
 A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well.
 
 **No longer maintained**
 
 ## Features
+
 N/A
 
 ## Scoring
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Light mode only | 
-| One or multiple colour schemes | One colour scheme for light mode | 
-| Value Propositions | A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well. | 
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 3 January 2021 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chad-bennett/al-dente-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> (No longer maintained) |
+
+| Criteria                       | Status                                                                                                                                                                                                                                               |
+| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Light mode only                                                                                                                                                                                                                                      |
+| One or multiple colour schemes | One colour scheme for light mode                                                                                                                                                                                                                     |
+| Value Propositions             | A simple minimal theme for the obsidian notes app that is tender, but firm. It is built to be just right for me. Hopefully it is just right for others as well.                                                                                      |
+| Accessibility                  | NIL                                                                                                                                                                                                                                                  |
+| Style Settings support         | No                                                                                                                                                                                                                                                   |
+| Age of Theme                   | Released 3 January 2021                                                                                                                                                                                                                              |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chad-bennett/al-dente-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> (No longer maintained) |

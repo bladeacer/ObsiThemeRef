@@ -21,4 +21,3 @@ installations that do not work from time to time.
 ## Themes by Categories
 
 [View here](./categories.md)
-

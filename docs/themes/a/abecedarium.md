@@ -1,8 +1,8 @@
 ---
 title: Abecedarium
 tags:
-    - light_theme
-    - dark_theme
+  - light_theme
+  - dark_theme
 ---
 
 <img alt="Abecedarium Dark Theme Screenshot" src="https://raw.githubusercontent.com/zalenza/Abecedarium-theme/refs/heads/main/abecedarium_dark.png">
@@ -10,6 +10,7 @@ tags:
 <img alt="Abecedarium Light Theme Screenshot" src="https://raw.githubusercontent.com/zalenza/Abecedarium-theme/refs/heads/main/abecedarium_light.png">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                             |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Repository Link                      | [zalenza/Abecedarium-theme](https://github.com/zalenza/Abecedarium-theme)                                                                                                                                          |
@@ -24,18 +25,21 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Abecedarium \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abecedarium/)                                                                                                                     |
 
 ## Excerpt from README
+
 This is a theme for Obsidian.
 
 ## Features
+
 N/A
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Both dark and light mode supported | 
-| One or multiple colour schemes | One colour scheme for light and dark mode | 
-| Value Propositions | N/A | 
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 4 January 2023 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zalenza/Abecedarium-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                             |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Both dark and light mode supported                                                                                                                                                                                 |
+| One or multiple colour schemes | One colour scheme for light and dark mode                                                                                                                                                                          |
+| Value Propositions             | N/A                                                                                                                                                                                                                |
+| Accessibility                  | NIL                                                                                                                                                                                                                |
+| Style Settings support         | No                                                                                                                                                                                                                 |
+| Age of Theme                   | Released 4 January 2023                                                                                                                                                                                            |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zalenza/Abecedarium-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

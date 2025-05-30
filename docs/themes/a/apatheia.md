@@ -1,13 +1,14 @@
 ---
 title: Apatheia
 tags:
-    - dark_theme
-    - style_settings
+  - dark_theme
+  - style_settings
 ---
 
 <img alt="Apatheia Theme Screenshot" src="https://raw.githubusercontent.com/AmadeusWM/Obsidian-Apatheia/refs/heads/main/assets/promo_screenshot1920x1200.png">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                               |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repository Link                      | [AmadeusWM/Obsidian-Apatheia](https://github.com/AmadeusWM/Obsidian-Apatheia)                                                                                                                                        |
@@ -22,18 +23,21 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Apatheia \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/apatheia/)                                                                                                                             |
 
 ## Excerpt from README
+
 This theme is inspired by the Things Theme
 
 ## Features
+
 Uses Fonts that were also used in the fonts Ultra Lobster Theme
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Dark mode only | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | This theme is inspired by the Things Theme | 
-| Accessibility | NIL | 
-| Style Settings support | Yes | 
-| Age of Theme | Released 8 December 2022 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmadeusWM/Obsidian-Apatheia?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                               |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Dark mode only                                                                                                                                                                                                       |
+| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                                                      |
+| Value Propositions             | This theme is inspired by the Things Theme                                                                                                                                                                           |
+| Accessibility                  | NIL                                                                                                                                                                                                                  |
+| Style Settings support         | Yes                                                                                                                                                                                                                  |
+| Age of Theme                   | Released 8 December 2022                                                                                                                                                                                             |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmadeusWM/Obsidian-Apatheia?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

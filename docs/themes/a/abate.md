@@ -1,14 +1,15 @@
 ---
 title: Abate
 tags:
-    - light_theme
-    - everforest
-    - new_and_upcoming
+  - light_theme
+  - everforest
+  - new_and_upcoming
 ---
 
 <img alt="Abate Theme Screenshot" src="https://raw.githubusercontent.com/ricedev10/Abate-theme/refs/heads/master/Preview.png">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                         |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repository Link                      | [ricedev10/Abate-theme](https://github.com/ricedev10/Abate-theme)                                                                                                                                              |
@@ -23,20 +24,23 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Abate \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abate/)                                                                                                                             |
 
 ## Excerpt from README
+
 Abate Custom light and dark theme for Obsidian. Lightens and softens tone for a paper-like read. colours of this theme are inspired by Everforest as well as an Everforest theme made for Obsidian by `@Glitchbyte`.
 
 ## Features
-- Slick scrolling bar  
-- Light tone  
-- Dark tone  
+
+- Slick scrolling bar
+- Light tone
+- Dark tone
 - Heading coloured theme inspired by Word
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Light mode only | 
-| One or multiple colour schemes | One colour scheme for light mode | 
-| Accessibility | NIL| 
-| Style Settings support | No | 
-| Age of Theme | Released 30 July 2024 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ricedev10/Abate-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                         |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Light mode only                                                                                                                                                                                                |
+| One or multiple colour schemes | One colour scheme for light mode                                                                                                                                                                               |
+| Accessibility                  | NIL                                                                                                                                                                                                            |
+| Style Settings support         | No                                                                                                                                                                                                             |
+| Age of Theme                   | Released 30 July 2024                                                                                                                                                                                          |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ricedev10/Abate-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

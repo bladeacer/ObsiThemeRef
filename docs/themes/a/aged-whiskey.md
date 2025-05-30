@@ -1,14 +1,15 @@
 ---
 title: Aged Whiskey
 tags:
-    - dark_theme
-    - minimalist
-    - new_and_upcoming
+  - dark_theme
+  - minimalist
+  - new_and_upcoming
 ---
 
 <img alt="Aged Whisky Screenshot" src="https://raw.githubusercontent.com/incantatem2/Obsidian-aged-whisky/refs/heads/main/images/aged-whisky-screenshot.jpg">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                                    |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Repository Link                      | [incantatem2/Obsidian-aged-whisky](https://github.com/incantatem2/Obsidian-aged-whisky)                                                                                                                                   |
@@ -23,22 +24,25 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [aged whisky \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aged-whisky/)                                                                                                                            |
 
 ## Excerpt from README
-Elegant, minimalist dark theme.  
+
+Elegant, minimalist dark theme.
 
 No app borders, images with rounded corners, styled links, fancy headings in reading mode.
 
 Due to editor styling, should be always used with a left sidebar, otherwise you'll have the file contents on the far left border of the screen.
 
 ## Features
+
 Narrow editor in reading mode (550px).
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Dark mode only | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.” | 
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 3 March 2025 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/incantatem2/Obsidian-aged-whisky?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                                    |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dark/Light mode support        | Dark mode only                                                                                                                                                                                                            |
+| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                                                           |
+| Value Propositions             | “Elegant, minimalist dark theme. No app borders, images with rounded corners, styled links, fancy headings in reading mode.”                                                                                              |
+| Accessibility                  | NIL                                                                                                                                                                                                                       |
+| Style Settings support         | No                                                                                                                                                                                                                        |
+| Age of Theme                   | Released 3 March 2025                                                                                                                                                                                                     |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/incantatem2/Obsidian-aged-whisky?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

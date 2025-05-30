@@ -4,6 +4,7 @@ icon: material/heart
 ---
 
 # Maintainers, Contributors
+
 The following reference site would not be possible without the following contributors.
 
 - [bladeacer on GitHub](https://github.com/bladeacer/) / [bladeacer on Obsidian Forum](https://forum.obsidian.md/u/bladeacer/summary) / `@data_in_void` on Obsidian Members' Group (OMG) Discord
@@ -17,6 +18,7 @@ The following reference site would not be possible without the following contrib
 - `@Floodlight` on the OMG discord and Obsidian forum for revamping the leaderboard system
 
 # Tools and software
+
 These tools were essential in the process of making this possible
 
 - [`highlight.js`](https://highlightjs.org)
@@ -32,11 +34,13 @@ These tools were essential in the process of making this possible
 - [Giscus](https://giscus.app)
 
 # Sources of inspiration
+
 [Obsidian Hub](https://publish.obsidian.md/hub/)  
-[Mortiz Jung's Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/)   
+[Mortiz Jung's Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/)
 [ganesshkumar's Obsidian Stats](https://www.obsidianstats.com/)
 
-- [Scoring System for Obsidian Plugins](https://github.com/ganesshkumar/obsidian-plugins-stats-ui/discussions/52) 
+- [Scoring System for Obsidian Plugins](https://github.com/ganesshkumar/obsidian-plugins-stats-ui/discussions/52)
 
 ## Licenses
+
 See [licences](./licenses/index.md)

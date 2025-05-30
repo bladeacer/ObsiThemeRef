@@ -1,15 +1,16 @@
 ---
 title: Atom
 tags:
-    - light_theme
-    - dark_theme
-    - atom
-    - old_but_gold
+  - light_theme
+  - dark_theme
+  - atom
+  - old_but_gold
 ---
 
 <img alt="Atom Theme Screenshot" src="https://raw.githubusercontent.com/kognise/obsidian-atom/refs/heads/master/screenshot-hybrid.png">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                         |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repository Link                      | [kognise/obsidian-atom](https://github.com/kognise/obsidian-atom)                                                                                                                                              |
@@ -24,20 +25,23 @@ tags:
 | View in Moritz Jung’s Obsidian Stats | [Atom \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/atom/)                                                                                                                               |
 
 ## Excerpt from README
+
 A theme for Obsidian based on Atom's One Dark and One Light themes.
 
 ## Features
-- Close to Obsidian's default interface, but implements several tweaks to make the interface prettier  
+
+- Close to Obsidian's default interface, but implements several tweaks to make the interface prettier
 
 - Replaces the default ugly syntax highlighting theme for code blocks with a much nicer one
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | :--- |
-| Dark/Light mode support | Both light and dark modes supported.  | 
-| One or multiple colour schemes | One colour scheme each for light and dark mode | 
-| Value Propositions | A theme for Obsidian based on Atom's One Dark and One Light themes. | 
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 24 November 2020 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                         |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Both light and dark modes supported.                                                                                                                                                                           |
+| One or multiple colour schemes | One colour scheme each for light and dark mode                                                                                                                                                                 |
+| Value Propositions             | A theme for Obsidian based on Atom's One Dark and One Light themes.                                                                                                                                            |
+| Accessibility                  | NIL                                                                                                                                                                                                            |
+| Style Settings support         | No                                                                                                                                                                                                             |
+| Age of Theme                   | Released 24 November 2020                                                                                                                                                                                      |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

@@ -1,13 +1,14 @@
 ---
 title: Adrenaline
 tags:
-    - light_theme
-    - dark_theme
+  - light_theme
+  - dark_theme
 ---
 
 <img alt="Adrenaline Theme Thumbnail" src="https://raw.githubusercontent.com/Spekulucius/obsidian-adrenaline/refs/heads/main/images/adrenaline_thumbnail_fhd.png">
 
 ## Info
+
 | Info                                 | Status                                                                                                                                                                                                                   |
 | :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repository Link                      | [Spekulucius/obsidian-adrenaline](https://github.com/Spekulucius/obsidian-adrenaline)                                                                                                                                    |
@@ -23,18 +24,21 @@ tags:
 |                                      |                                                                                                                                                                                                                          |
 
 ## Excerpt from README
+
 Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent colour to adjust its overall look.
 
 ## Features
+
 N/A
 
 ## Criteria
-| Criteria | Status | 
-| :--- | :--- | 
-| Dark/Light mode support | Both light and dark mode supported | 
-| One or multiple colour schemes | One colour scheme for light and dark mode | 
-| Value Propositions | Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent colour to adjust its overall look. |
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 31 August 2024 | 
-| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Spekulucius/obsidian-adrenaline?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+
+| Criteria                       | Status                                                                                                                                                                                                                   |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Both light and dark mode supported                                                                                                                                                                                       |
+| One or multiple colour schemes | One colour scheme for light and dark mode                                                                                                                                                                                |
+| Value Propositions             | Adrenaline Theme is a tuned down variant of my other theme, "Brainhack". It focuses on productivity while removing visual clutter, and relies solely on the accent colour to adjust its overall look.                    |
+| Accessibility                  | NIL                                                                                                                                                                                                                      |
+| Style Settings support         | No                                                                                                                                                                                                                       |
+| Age of Theme                   | Released 31 August 2024                                                                                                                                                                                                  |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Spekulucius/obsidian-adrenaline?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

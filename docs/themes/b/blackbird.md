@@ -1,38 +1,42 @@
 ---
 title: Blackbird
 tags:
-    - dark_theme
+  - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/vanadium23/obsidian-blackbird-theme/refs/heads/master/images/example.png">
+<img alt="Blackbird Theme Screenshot" src="https://raw.githubusercontent.com/vanadium23/obsidian-blackbird-theme/refs/heads/master/images/example.png">
 
 ## Info
-| Info | Status |
-| :---- | :---- |
-| Repository Link | [vanadium23/obsidian-blackbird-theme](https://github.com/vanadium23/obsidian-blackbird-theme) |
-| Author | [vanadium23](https://github.com/vanadium23) |
-| Downloads | 26 397 |
-| Last Updated | November 2021 |
-| “Help wanted” issues | 0 |
-| Stars | 14 |
-| License | MIT |
-| View in Obsidian Hub | [Blackbird \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Blackbird) |
-| View in Moritz Jung’s Obsidian Stats | [Blackbird \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/blackbird/) |
+
+| Info                                 | Status                                                                                                                                                                                                                       |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [vanadium23/obsidian-blackbird-theme](https://github.com/vanadium23/obsidian-blackbird-theme)                                                                                                                                |
+| Author                               | [vanadium23](https://github.com/vanadium23)                                                                                                                                                                                  |
+| Downloads                            | 26 397                                                                                                                                                                                                                       |
+| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanadium23/obsidian-blackbird-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/vanadium23/obsidian-blackbird-theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
+| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vanadium23/obsidian-blackbird-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
+| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/vanadium23/obsidian-blackbird-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
+| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/vanadium23/obsidian-blackbird-theme?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| View in Obsidian Hub                 | [Blackbird \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Blackbird)                                                                   |
+| View in Moritz Jung’s Obsidian Stats | [Blackbird \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/blackbird/)                                                                                                                                   |
 
 ## Excerpt from README
+
 A sharpest theme from `@gleich` ported to obsidian.
 
 ## Features
+
 N/A
 
-
 ## Criteria
-| Criteria | Status | 
-| :---- | :---- | 
-| Dark/Light mode support | Dark mode only with WIP light mode | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | A sharpest theme from @gleich ported to obsidian. |
-| Accessibility | NIL | 
-| Style Settings support | No | 
-| Age of Theme | Released 30 July 2021 | 
-| Last updated | November 2021 | 
+
+| Criteria                       | Status                                                                                                                                                                                                                       |
+| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Dark mode only with WIP light mode                                                                                                                                                                                           |
+| One or multiple colour schemes | One colour scheme for dark mode                                                                                                                                                                                              |
+| Value Propositions             | A sharpest theme from @gleich ported to obsidian.                                                                                                                                                                            |
+| Accessibility                  | NIL                                                                                                                                                                                                                          |
+| Style Settings support         | No                                                                                                                                                                                                                           |
+| Age of Theme                   | Released 30 July 2021                                                                                                                                                                                                        |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanadium23/obsidian-blackbird-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

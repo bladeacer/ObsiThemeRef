@@ -1,5 +1,5 @@
 site_name: Obsidian Theme Reference
-site_url: https://bladeacer.github.io/ObsiThemeRef/ 
+site_url: https://bladeacer.github.io/ObsiThemeRef/
 repo_url: https://github.com/bladeacer/ObsiThemeRef
 repo_name: bladeacer/ObsiThemeRef
 copyright: >
@@ -100,5 +100,5 @@ theme:
       Neumorphism: neumorphism
       Accent: accent
       Underrated Gems: underrated_gems
-      Old But Gold: old_but_gold 
+      Old But Gold: old_but_gold
       New and Upcoming: new_and_upcoming
