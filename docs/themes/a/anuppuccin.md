@@ -16,20 +16,21 @@ tags:
     - old_but_gold
 ---
 
-<img src="https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/refs/heads/main/assets/gh-preview.webp">
+<img alt="AnuPpuccin Theme Screenshot" src="https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/refs/heads/main/assets/gh-preview.webp">
 
 ## Info
-| Info | Status |
-| :--- | :--- |
-| Repository Link | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) |
-| Author | [AnubisNekhet (Anubis)](https://github.com/AnubisNekhet) |
-| Downloads | 445 740 |
-| Last Updated | December 2024 |
-| “Help wanted” issues | 0 |
-| Stars | 2 587 |
-| License | GPLv3 |
-| View in Obsidian Hub | [AnuPpuccin \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/AnuPpuccin) |
-| View in Moritz Jung’s Obsidian Stats | [AnuPpuccin \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/anuppuccin/) |
+| Info                                 | Status                                                                                                                                                                                                           |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)                                                                                                                                            |
+| Author                               | [AnubisNekhet (Anubis)](https://github.com/AnubisNekhet)                                                                                                                                                         |
+| Downloads                            | 445 740                                                                                                                                                                                                          |
+| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AnubisNekhet/AnuPpuccin?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/AnubisNekhet/AnuPpuccin/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
+| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AnubisNekhet/AnuPpuccin?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
+| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/AnubisNekhet/AnuPpuccin?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
+| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/AnubisNekhet/AnuPpuccin?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| View in Obsidian Hub                 | [AnuPpuccin \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/AnuPpuccin)                                                     |
+| View in Moritz Jung’s Obsidian Stats | [AnuPpuccin \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/anuppuccin/)                                                                                                                     |
 
 ## Excerpt from README
 Personal theme for Obsidian :3  
@@ -48,4 +49,4 @@ Too many to list. Which can be a flaw in of itself as some users report the them
 | Accessibility | NIL | 
 | Style Settings support | Yes | 
 | Age of Theme | Released 19 October 2022 | 
-| Last updated | December 2024 (**under hiatus but still maintained**) | 
+| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AnubisNekhet/AnuPpuccin?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> (**under hiatus but still maintained**) |

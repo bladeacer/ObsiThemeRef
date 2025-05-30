@@ -7,20 +7,22 @@ tags:
     - underrated_gems
 ---
 
-<img src="https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/refs/heads/main/assets/abyssal-opening.png">
+<img alt="Abyssal Theme Screenshot" src="https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/refs/heads/main/assets/abyssal-opening.png">
+
 
 ## Info
-| Info | Status |
-| :--- | :--- |
-| Repository Link | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) |
-| Author | [tazpellegrini (Tassia)](https://github.com/tazpellegrini) |
-| Downloads | 8 103 |
-| Last Updated | January 2024 |
-| “Help wanted” issues | 0 |
-| Stars | 35 |
-| License | MIT |
-| View in Obsidian Hub | [Abyssal \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Abyssal) |
-| View in Moritz Jung’s Obsidian Stats | [Abyssal \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abyssal/) |
+| Info                                 | Status                                                                                                                                                                                                                 |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian)                                                                                                                                      |
+| Author                               | [tazpellegrini (Tassia)](https://github.com/tazpellegrini)                                                                                                                                                             |
+| Downloads                            | 8 103                                                                                                                                                                                                                  |
+| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tazpellegrini/abyssalobsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/tazpellegrini/abyssalobsidian/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
+| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tazpellegrini/abyssalobsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
+| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/tazpellegrini/abyssalobsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
+| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/tazpellegrini/abyssalobsidian?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| View in Obsidian Hub                 | [Abyssal \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Abyssal)                                                                 |
+| View in Moritz Jung’s Obsidian Stats | [Abyssal \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abyssal/)                                                                                                                                 |
 
 ## Excerpt from README
 Abyssal is a simple theme from a typing enthusiast who was looking for modifications that would improve the reading and writing experience without dramatically changing Obsidian’s interface.
@@ -51,4 +53,4 @@ Special attention was given to the styling of:
 | Accessibility | No available accessibility options. However, the theme was designed to accommodate accessibility standards. | 
 | Style Settings support | Yes | 
 | Age of Theme | Released 16 January 2023 | 
-| Last updated | January 2024 | 
+| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tazpellegrini/abyssalobsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |

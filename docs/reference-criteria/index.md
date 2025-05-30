@@ -32,14 +32,14 @@ Each of the themes will be evaluated on the following criteria, serving as infor
 
 
 ## Criteria Example
-Here is an example for my theme `flexcyon`:
+Here is an example for the `Atom` theme:
 
-| Criteria | Status | 
-| --- | --- | 
-| Dark/Light mode support | Dark mode only | 
-| One or multiple colour schemes | One colour scheme for dark mode | 
-| Value Propositions | Vim Mode Status, ASCII Art in new tab, callout metadata utilities, ASCII checkboxes | 
-| Accessibility | Yes | 
-| Style Settings support | Yes | 
-| Age of Theme | Released 25 February 2025 | 
-| Last updated | 27 April 2025 | 
+| Criteria                       | Status                                                                                                                                                                                                         |     |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-- |
+| Dark/Light mode support        | Both light and dark modes supported.                                                                                                                                                                           |     |
+| One or multiple colour schemes | One colour scheme each for light and dark mode                                                                                                                                                                 |     |
+| Value Propositions             | A theme for Obsidian based on Atom's One Dark and One Light themes.                                                                                                                                            |     |
+| Accessibility                  | NIL                                                                                                                                                                                                            |     |
+| Style Settings support         | No                                                                                                                                                                                                             |     |
+| Age of Theme                   | Released 24 November 2020                                                                                                                                                                                      |     |
+| Last Updated                   | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |     |

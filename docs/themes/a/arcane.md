@@ -5,20 +5,21 @@ tags:
     - base8
 ---
 
-<img src="https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/refs/heads/main/Arcane_sample_01.jpg">
+<img alt="Arcane Theme Screenshot" src="https://raw.githubusercontent.com/xRyul/obsidian-arcane-theme/refs/heads/main/Arcane_sample_01.jpg">
 
 ## Info
-| Info | Status |
-| :--- | :--- |
-| Repository Link | [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme)  |
-| Author | [xRyul](https://github.com/xRyul)  |
-| Downloads | 3 204 |
-| Last Updated | December 2024 |
-| “Help wanted” issues | 0 |
-| Stars | 4 |
-| License | MIT |
-| View in Obsidian Hub | [Arcane \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Arcane)  |
-| View in Moritz Jung’s Obsidian Stats | [Arcane \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/arcane/)   |
+| Info                                 | Status                                                                                                                                                                                                               |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [xRyul/obsidian-arcane-theme](https://github.com/xRyul/obsidian-arcane-theme)                                                                                                                                        |
+| Author                               | [xRyul](https://github.com/xRyul)                                                                                                                                                                                    |
+| Downloads                            | 3 204                                                                                                                                                                                                                |
+| Last Updated                         | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xRyul/obsidian-arcane-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
+| “Help wanted” issues                 | <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/xRyul/obsidian-arcane-theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">            |
+| Stars                                | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xRyul/obsidian-arcane-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer">                                |
+| Version                              | <img alt="GitHub Repo version" src="https://img.shields.io/github/v/release/xRyul/obsidian-arcane-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver" referrerpolicy="no-referrer">              |
+| License                              | <img alt="GitHub License" src="https://img.shields.io/github/license/xRyul/obsidian-arcane-theme?style=for-the-badge" referrerpolicy="noreferrer">                                                                   |
+| View in Obsidian Hub                 | [Arcane \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Arcane)                                                                 |
+| View in Moritz Jung’s Obsidian Stats | [Arcane \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/arcane/)                                                                                                                                 |
 
 ## Excerpt from README
 Arcane, a lightweight and mobile-friendly refresh of my legacy Obsidian theme Dracula \+ LYT
@@ -39,4 +40,4 @@ This Theme doesn't rely on 16 colours anymore. But the idea of the `base16` fram
 | Accessibility | NIL | 
 | Style Settings support | No | 
 | Age of Theme | Released 31 January 2024 | 
-| Last updated | December 2024 | 
+| Last Updated | <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xRyul/obsidian-arcane-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge" referrerpolicy="no-referrer"> |
