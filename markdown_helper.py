@@ -31,7 +31,7 @@ def clean_markdown_tables_in_content(content):
             stripped_line = line.strip()
             print(f"  DEBUG: Line {i}: '{stripped_line}'") # DEBUG
             if table_line_regex.match(stripped_line):
-                cells = [cell.strip() for cell in stripped_line.split('|')]
+                cells = [cell.strip() for cell in re.split(r'(?<!\\)\|', stripped_line)]
                 cleaned_line = '|'.join(cells)
                 if i == 0:
                     header_line = cleaned_line
