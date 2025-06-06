@@ -18,7 +18,7 @@ tags:
 |Stars|5|
 |License|Not indicated|
 |View in Obsidian Hub|[Comfort Smooth \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort+Smooth)|
-|View in Moritz Jung’s Obsidian Stats|[Comfort Smooth \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-smooth/)|
+|View in Moritz Jung’s Obsidian Stats|[Comfort Smooth \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-smooth/)|
 
 ## Excerpt from README
 

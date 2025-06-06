@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/birneee/obsidian-adwaita-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/birneee/obsidian-adwaita-theme?style=for-the-badge)|
 |View in Obsidian Hub|[Adwaita \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Adwaita)|
-|View in Moritz Jung’s Obsidian Stats|[Adwaita \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/adwaita/)|
+|View in Moritz Jung’s Obsidian Stats|[Adwaita \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/adwaita/)|
 
 ## Excerpt from README
 

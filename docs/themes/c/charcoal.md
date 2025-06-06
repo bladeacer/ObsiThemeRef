@@ -19,7 +19,7 @@ tags:
 |Stars|6|
 |License|Not indicated|
 |View in Obsidian Hub|[Charcoal \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Charcoal)|
-|View in Moritz Jung’s Obsidian Stats|[Charcoal \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/charcoal/)|
+|View in Moritz Jung’s Obsidian Stats|[Charcoal \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/charcoal/)|
 
 ## Excerpt from README
 

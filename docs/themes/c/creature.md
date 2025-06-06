@@ -19,7 +19,7 @@ tags:
 |Stars|9|
 |License|MIT|
 |View in Obsidian Hub|[Creature \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creature)|
-|View in Moritz Jung’s Obsidian Stats|[Creature \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creature/)|
+|View in Moritz Jung’s Obsidian Stats|[Creature \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creature/)|
 
 ## Excerpt from README
 

@@ -18,7 +18,7 @@ tags:
 |Stars|3|
 |License|MIT|
 |View in Obsidian Hub|[Covert \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Covert)|
-|View in Moritz Jung’s Obsidian Stats|[Covert \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/covert/)|
+|View in Moritz Jung’s Obsidian Stats|[Covert \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/covert/)|
 
 ## Excerpt from README
 

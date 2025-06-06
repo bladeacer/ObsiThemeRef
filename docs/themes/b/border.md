@@ -27,7 +27,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/Akifyss/obsidian-border?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/Akifyss/obsidian-border?style=for-the-badge)|
 |View in Obsidian Hub|[Border \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Border)|
-|View in Moritz Jung’s Obsidian Stats|[Border \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/border/)|
+|View in Moritz Jung’s Obsidian Stats|[Border \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/border/)|
 
 ## Excerpt from README
 

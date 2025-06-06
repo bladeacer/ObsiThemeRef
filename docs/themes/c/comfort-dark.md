@@ -18,7 +18,7 @@ tags:
 |Stars|2|
 |License|MIT|
 |View in Obsidian Hub|[Comfort Dark \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort+Dark)|
-|View in Moritz Jung’s Obsidian Stats|[Comfort Dark \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-dark/)|
+|View in Moritz Jung’s Obsidian Stats|[Comfort Dark \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-dark/)|
 
 ## Excerpt from README
 

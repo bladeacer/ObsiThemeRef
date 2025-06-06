@@ -24,7 +24,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/Bluemoondragon07/obsidian-big-and-bold?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/Bluemoondragon07/obsidian-big-and-bold?style=for-the-badge)|
 |View in Obsidian Hub|[Big & Bold \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Big+%26+Bold)|
-|View in Moritz Jung’s Obsidian Stats|[Big & Bold \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/big-bold/)|
+|View in Moritz Jung’s Obsidian Stats|[Big & Bold \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/big-bold/)|
 
 ## Excerpt from README
 

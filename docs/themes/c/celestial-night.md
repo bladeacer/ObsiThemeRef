@@ -18,7 +18,7 @@ tags:
 |Stars|8|
 |License|Unlicense|
 |View in Obsidian Hub|[Celestial Night \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Celestial+Night)|
-|View in Moritz Jung’s Obsidian Stats|[Celestial Night \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/celestial-night/)|
+|View in Moritz Jung’s Obsidian Stats|[Celestial Night \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/celestial-night/)|
 
 ## Excerpt from README
 

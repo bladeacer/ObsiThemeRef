@@ -21,7 +21,7 @@ tags:
 |Stars|3|
 |License|MIT|
 |View in Obsidian Hub|[chiaroscuroflow \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/chiaroscuroflow)|
-|View in Moritz Jung’s Obsidian Stats|[chiaroscuroflow \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/chiaroscuroflow/)|
+|View in Moritz Jung’s Obsidian Stats|[chiaroscuroflow \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/chiaroscuroflow/)|
 
 ## Excerpt from README
 

@@ -20,7 +20,6 @@ Themes cannot appear in multiple categories.
 |$a$|[Aura](./a/aura.md)|
 |$b$|[Big & Bold](./b/big-bold.md)|
 |$b$|[Brutalism](./b/brutalism.md)|
-|$c$|[🔔 Chime](./c/chime.md)|
 
 ## Old but Gold
 

@@ -22,7 +22,7 @@ tags:
 |Stars|99|
 |License|MIT|
 |View in Obsidian Hub|[Cardstock \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cardstock)|
-|View in Moritz Jung’s Obsidian Stats|[Cardstock \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cardstock/)|
+|View in Moritz Jung’s Obsidian Stats|[Cardstock \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cardstock/)|
 
 ## Excerpt from README
 

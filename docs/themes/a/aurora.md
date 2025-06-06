@@ -21,7 +21,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/auroral-ui/aurora-obsidian-md?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/auroral-ui/aurora-obsidian-md?style=for-the-badge)|
 |View in Obsidian Hub|[Aurora \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Aurora)|
-|View in Moritz Jung’s Obsidian Stats|[Aurora \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora/)|
+|View in Moritz Jung’s Obsidian Stats|[Aurora \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora/)|
 
 ## Excerpt from README
 

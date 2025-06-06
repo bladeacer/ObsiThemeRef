@@ -20,7 +20,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/bcdavasconcelos/Obsidian-Ayu_Mirage?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/bcdavasconcelos/Obsidian-Ayu_Mirage?style=for-the-badge)|
 |View in Obsidian Hub|[Ayu Mirage \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Ayu+Mirage)|
-|View in Moritz Jung’s Obsidian Stats|[Ayu Mirage \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/ayu-mirage/)|
+|View in Moritz Jung’s Obsidian Stats|[Ayu Mirage \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/ayu-mirage/)|
 
 ## Excerpt from README
 

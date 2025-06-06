@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/zalenza/Abecedarium-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/zalenza/Abecedarium-theme?style=for-the-badge)|
 |View in Obsidian Hub|[Abecedarium \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Abecedarium)|
-|View in Moritz Jung’s Obsidian Stats|[Abecedarium \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abecedarium/)|
+|View in Moritz Jung’s Obsidian Stats|[Abecedarium \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abecedarium/)|
 
 ## Excerpt from README
 

@@ -21,7 +21,7 @@ tags:
 |Stars|4|
 |License|Unlicense|
 |View in Obsidian Hub|[Comfort \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort)|
-|View in Moritz Jung’s Obsidian Stats|[Comfort \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort/)|
+|View in Moritz Jung’s Obsidian Stats|[Comfort \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort/)|
 
 ## Excerpt from README
 

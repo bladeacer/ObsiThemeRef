@@ -19,7 +19,7 @@ tags:
 |Stars|6|
 |License|Unlicense|
 |View in Obsidian Hub|[Christmas \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Christmas)|
-|View in Moritz Jung’s Obsidian Stats|[Christmas \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/christmas/)|
+|View in Moritz Jung’s Obsidian Stats|[Christmas \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/christmas/)|
 
 ## Excerpt from README
 

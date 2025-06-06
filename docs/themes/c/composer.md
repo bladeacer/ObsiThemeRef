@@ -22,7 +22,7 @@ tags:
 |Stars|32|
 |License|MIT|
 |View in Obsidian Hub|[Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer)|
-|View in Moritz Jung’s Obsidian Stats|[Composer \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)|
+|View in Moritz Jung’s Obsidian Stats|[Composer \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)|
 
 ## Excerpt from README
 

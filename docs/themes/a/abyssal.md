@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/tazpellegrini/abyssalobsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/tazpellegrini/abyssalobsidian?style=for-the-badge)|
 |View in Obsidian Hub|[Abyssal \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Abyssal)|
-|View in Moritz Jung’s Obsidian Stats|[Abyssal \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abyssal/)|
+|View in Moritz Jung’s Obsidian Stats|[Abyssal \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/abyssal/)|
 
 ## Excerpt from README
 

@@ -21,7 +21,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/clearlysid/apex?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/clearlysid/apex?style=for-the-badge)|
 |View in Obsidian Hub|[Apex \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Apex)|
-|View in Moritz Jung’s Obsidian Stats|[Apex \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/apex/)|
+|View in Moritz Jung’s Obsidian Stats|[Apex \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/apex/)|
 
 ## Excerpt from README
 

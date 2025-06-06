@@ -18,7 +18,7 @@ tags:
 |Stars|0|
 |License|MIT|
 |View in Obsidian Hub|[Cobalt Peacock \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cobalt+Peacock)|
-|View in Moritz Jung’s Obsidian Stats|[Cobalt Peacock \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cobalt-peacock/)|
+|View in Moritz Jung’s Obsidian Stats|[Cobalt Peacock \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cobalt-peacock/)|
 
 ## Excerpt from README
 

@@ -23,7 +23,7 @@ tags:
 |Stars|6|
 |License|MIT|
 |View in Obsidian Hub|[Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/colored+Candy)|
-|View in Moritz Jung’s Obsidian Stats|[Colored Candy \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/)|
+|View in Moritz Jung’s Obsidian Stats|[Colored Candy \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/)|
 
 ## Excerpt from README
 

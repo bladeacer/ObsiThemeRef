@@ -18,7 +18,7 @@ tags:
 |Stars|27|
 |License|Not indicated|
 |View in Obsidian Hub|[Comfort Color Dark \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort+color+dark)|
-|View in Moritz Jung’s Obsidian Stats|[Comfort Color Dark \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-color-dark/)|
+|View in Moritz Jung’s Obsidian Stats|[Comfort Color Dark \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-color-dark/)|
 
 ## Excerpt from README
 

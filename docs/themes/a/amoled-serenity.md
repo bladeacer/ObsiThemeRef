@@ -23,7 +23,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/darthdemono/AMOLED-Serenity?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/darthdemono/AMOLED-Serenity?style=for-the-badge)|
 |View in Obsidian Hub|[AMOLED Serenity \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/AMOLED+Serenity)|
-|View in Moritz Jung’s Obsidian Stats|[AMOLED Serenity \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/amoled-serenity/)|
+|View in Moritz Jung’s Obsidian Stats|[AMOLED Serenity \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/amoled-serenity/)|
 
 ## Excerpt from README
 

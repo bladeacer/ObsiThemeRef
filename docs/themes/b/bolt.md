@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/Bluemoondragon07/Obsidian-Bolt?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/Bluemoondragon07/Obsidian-Bolt?style=for-the-badge)|
 |View in Obsidian Hub|[Bolt \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Bolt)|
-|View in Moritz Jung’s Obsidian Stats|[Bolt \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/bolt/)|
+|View in Moritz Jung’s Obsidian Stats|[Bolt \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/bolt/)|
 
 ## Excerpt from README
 

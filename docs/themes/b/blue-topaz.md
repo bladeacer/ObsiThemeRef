@@ -23,7 +23,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/PKM-er/Blue-Topaz_Obsidian-css?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/PKM-er/Blue-Topaz_Obsidian-css?style=for-the-badge)|
 |View in Obsidian Hub|[Blue Topaz \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Blue+Topaz)|
-|View in Moritz Jung’s Obsidian Stats|[Blue Topaz \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/blue-topaz/)|
+|View in Moritz Jung’s Obsidian Stats|[Blue Topaz \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/blue-topaz/)|
 
 ## Excerpt from README
 

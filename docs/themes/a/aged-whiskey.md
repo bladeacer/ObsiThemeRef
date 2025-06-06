@@ -21,7 +21,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/incantatem2/Obsidian-aged-whisky?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/incantatem2/Obsidian-aged-whisky?style=for-the-badge)|
 |View in Obsidian Hub|[aged whisky \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/aged+whisky)|
-|View in Moritz Jung’s Obsidian Stats|[aged whisky \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aged-whisky/)|
+|View in Moritz Jung’s Obsidian Stats|[aged whisky \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aged-whisky/)|
 
 ## Excerpt from README
 

@@ -20,7 +20,7 @@ tags:
 |Stars|2|
 |License|MIT|
 |View in Obsidian Hub|[Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee)|
-|View in Moritz Jung’s Obsidian Stats|[Creme Brulee \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)|
+|View in Moritz Jung’s Obsidian Stats|[Creme Brulee \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)|
 
 ## Excerpt from README
 

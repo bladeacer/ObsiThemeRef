@@ -20,7 +20,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/deathau/Base2Tone-For-Obsidian.md?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/deathau/Base2Tone-For-Obsidian.md?style=for-the-badge)|
 |View in Obsidian Hub|[Base2Tone \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Base2Tone)|
-|View in Moritz Jung’s Obsidian Stats|[Base2Tone \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/base2tone/)|
+|View in Moritz Jung’s Obsidian Stats|[Base2Tone \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/base2tone/)|
 
 ## Excerpt from README
 

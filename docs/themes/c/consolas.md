@@ -19,7 +19,7 @@ tags:
 |Stars|3|
 |License|Apache-2.0|
 |View in Obsidian Hub|[Consolas \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Consolas)|
-|View in Moritz Jung’s Obsidian Stats|[Consolas \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/consolas/)|
+|View in Moritz Jung’s Obsidian Stats|[Consolas \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/consolas/)|
 
 ## Excerpt from README
 

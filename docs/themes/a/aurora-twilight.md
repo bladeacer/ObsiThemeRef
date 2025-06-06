@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/Quinta0/Aurora-Twilight?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/Quinta0/Aurora-Twilight?style=for-the-badge)|
 |View in Obsidian Hub|[Aurora Twilight \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Aurora-Twilight)|
-|View in Moritz Jung’s Obsidian Stats|[Aurora Twilight \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora-twilight/)|
+|View in Moritz Jung’s Obsidian Stats|[Aurora Twilight \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/aurora-twilight/)|
 
 ## Excerpt from README
 

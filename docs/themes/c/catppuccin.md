@@ -23,7 +23,7 @@ tags:
 |Stars|460|
 |License|MIT|
 |View in Obsidian Hub|[Catppuccin \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Catppuccin)|
-|View in Moritz Jung’s Obsidian Stats|[Catppuccin \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/catppuccin/)|
+|View in Moritz Jung’s Obsidian Stats|[Catppuccin \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/catppuccin/)|
 
 ## Excerpt from README
 

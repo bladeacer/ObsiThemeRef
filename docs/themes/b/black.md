@@ -19,7 +19,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/b3h3m0th/black-obsidian-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/b3h3m0th/black-obsidian-theme?style=for-the-badge)|
 |View in Obsidian Hub|[Black \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Black)|
-|View in Moritz Jung’s Obsidian Stats|[Black \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/black/)|
+|View in Moritz Jung’s Obsidian Stats|[Black \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/black/)|
 
 ## Excerpt from README
 

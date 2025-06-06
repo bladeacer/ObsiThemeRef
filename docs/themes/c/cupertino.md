@@ -29,7 +29,7 @@ tags:
 |Stars|394|
 |License|MIT|
 |View in Obsidian Hub|[Cupertino \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cupertino)|
-|View in Moritz Jung’s Obsidian Stats|[Cupertino \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cupertino/)|
+|View in Moritz Jung’s Obsidian Stats|[Cupertino \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cupertino/)|
 
 ## Excerpt from README
 

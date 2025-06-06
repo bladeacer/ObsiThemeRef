@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/Spekulucius/obsidian-brainhack?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/Spekulucius/obsidian-brainhack?style=for-the-badge)|
 |View in Obsidian Hub|[Brainhack \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Brainhack)|
-|View in Moritz Jung’s Obsidian Stats|[Brainhack \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/brainhack/)|
+|View in Moritz Jung’s Obsidian Stats|[Brainhack \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/brainhack/)|
 
 ## Excerpt from README
 

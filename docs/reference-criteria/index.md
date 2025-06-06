@@ -43,7 +43,7 @@ Each of the themes will be evaluated on the following criteria, serving as infor
 Here is an example for the `Atom` theme:
 
 |Criteria|Status||
-|---|---|---|
+|---|---|
 |Dark/Light mode support|Both light and dark modes supported.||
 |One or multiple colour schemes|One colour scheme each for light and dark mode||
 |Value Propositions|A theme for Obsidian based on Atom's One Dark and One Light themes.||

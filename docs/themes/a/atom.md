@@ -22,7 +22,7 @@ tags:
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/kognise/obsidian-atom?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/kognise/obsidian-atom?style=for-the-badge)|
 |View in Obsidian Hub|[Atom \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Atom)|
-|View in Moritz Jung’s Obsidian Stats|[Atom \|Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/atom/)|
+|View in Moritz Jung’s Obsidian Stats|[Atom \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/atom/)|
 
 ## Excerpt from README
 
