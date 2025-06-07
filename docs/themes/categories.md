@@ -21,6 +21,7 @@ Themes cannot appear in multiple categories.
 |$b$|[Big & Bold](./b/big-bold.md)|
 |$b$|[Brutalism](./b/brutalism.md)|
 
+
 ## Old but Gold
 
 |Letter|Theme|
@@ -33,6 +34,8 @@ Themes cannot appear in multiple categories.
 |$b$|[Border](./b/border.md)|
 |$c$|[Catppuccin](./c/catppuccin.md)|
 
+
+
 ## New and Upcoming
 
 |Letter|Theme|
@@ -44,15 +47,3 @@ Themes cannot appear in multiple categories.
 |$c$|[Colored Candy](./c/colored-candy.md)|
 |$c$|[Composer](./c/composer.md)|
 |$c$|[Cupertino](./c/cupertino.md)|
-
-### Sorting
-
-By default, the themes are sorted in alphabetical order.
-However, you can change their order by clicking on the table headers.
-
-### About the old scoring system
-
-There will be no more ranking or scoring, as all themes take extensive
-**time and effort** put in by the theme developer. The category entries will be
-in alphabetical order. Tag descriptions will be apt for describing a theme, so
-that the evaluation of which theme to try is down to the user.

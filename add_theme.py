@@ -1,22 +1,43 @@
 import os
 import re
-from datetime import datetime
+import sys # Import the sys module for exiting the script
 
 # Define the path to the themes index file for the counter
 THEMES_INDEX_FILE = "docs/themes/index.md"
+# Define the path to the categories index file
+CATEGORIES_FILE = "docs/themes/categories.md"
 # Define the default base directory for saving markdown files
+# This now defaults to 'docs/themes' to simplify relative paths in categories.md
 DEFAULT_BASE_SAVE_DIR = "docs/themes"
+
+# Mapping for tags to category headings
+CATEGORY_MAPPING = {
+    "underrated_gems": "## Underrated Gems",
+    "old_but_gold": "## Old but Gold",
+    "new_and_upcoming": "## New and Upcoming",
+}
+
+def get_user_input(prompt_text):
+    """
+    Prompts the user for input and checks if they typed 'exit'.
+    If 'exit' is typed, the script terminates.
+    """
+    user_input = input(prompt_text).strip()
+    if user_input.lower() == 'exit':
+        print("Exiting Markdown Theme Generator. Goodbye!")
+        sys.exit() # Terminate the script
+    return user_input
 
 def get_next_counter_value(counter_file_path=THEMES_INDEX_FILE):
     """
     Reads the counter from a specific Markdown file (docs/themes/index.md),
     increments it, and updates the file's content.
-    Returns the *new* incremented count to be used as the article_id.
+    Returns the *new* incremented count.
     Handles file existence and specific content format issues.
     """
     if not os.path.exists(counter_file_path):
         print(f"WARNING: Themes index file '{counter_file_path}' not found. "
-              "Please ensure it exists and has the expected counter format. Assigning article_id 1.")
+              "Please ensure it exists and has the expected counter format. Initializing count to 0.")
         # Create a dummy file with initial content for first run convenience
         os.makedirs(os.path.dirname(counter_file_path), exist_ok=True)
         with open(counter_file_path, 'w', encoding='utf-8') as f:
@@ -25,18 +46,16 @@ def get_next_counter_value(counter_file_path=THEMES_INDEX_FILE):
     <progress value="0" max="344"/>
 </p>""")
         print(f"Created a dummy '{counter_file_path}' with initial counter.")
-        return 1 # Fallback: return 1 if file didn't exist initially
+        return 0 # Return 0, as it will be incremented to 1 by the user's action
+                 # and then the next read will see this updated value.
 
     try:
         with open(counter_file_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
         # Regex to find the 'Themes added: count / total' line
-        # Groups: 1: "Themes added: ", 2: count, 3: " / ", 4: total
         text_line_regex = re.compile(r'(Themes added:\s*)(\d+)(\s*\/\s*)(\d+)', re.IGNORECASE)
-        
         # Regex to find the <progress> tag
-        # Groups: 1: "<progress value=\"", 2: current_value, 3: "\" max=\"", 4: max_value, 5: "\"/>"
         progress_tag_regex = re.compile(r'(<progress\s+value=")(\d+)("\s+max=")(\d+)("\s*\/?>)', re.IGNORECASE)
 
         text_match = text_line_regex.search(content)
@@ -48,11 +67,10 @@ def get_next_counter_value(counter_file_path=THEMES_INDEX_FILE):
         if text_match:
             current_count = int(text_match.group(2))
             total_themes = int(text_match.group(4))
-            # print(f"DEBUG: Found text counter: {current_count} / {total_themes}")
         else:
             print(f"WARNING: Could not find 'Themes added: count / total' line in '{counter_file_path}'. "
-                  "Please ensure the format is correct. Assigning article_id 1.")
-            return 1 # Fallback if specific text line not found
+                  "Please ensure the format is correct. Counter will not be updated.")
+            return current_count # Return current_count so it doesn't try to update on a bad parse
 
         new_count = current_count + 1
 
@@ -73,21 +91,24 @@ def get_next_counter_value(counter_file_path=THEMES_INDEX_FILE):
         return new_count
 
     except ValueError:
-        print(f"ERROR: Invalid number format in counter file '{counter_file_path}'. Assigning article_id 1.")
-        return 1 # Fallback if count/total are not valid integers
+        print(f"ERROR: Invalid number format in counter file '{counter_file_path}'. Counter will not be updated.")
+        return current_count # Return current_count on parse error
     except Exception as e:
-        print(f"ERROR: Failed to update counter in '{counter_file_path}': {e}. Assigning article_id 1.")
-        return 1 # Generic fallback for other errors
+        print(f"ERROR: Failed to update counter in '{counter_file_path}': {e}. Counter will not be updated.")
+        return current_count # Generic fallback for other errors
 
 def get_multiline_input(prompt):
     """
     Prompts the user for multi-line input until an empty line is entered.
+    Each line is checked for 'exit'.
     """
-    print(prompt + " (Press Enter on an empty line to finish):")
+    print(prompt + " (Press Enter on an empty line to finish, or type 'exit' to quit):")
     lines = []
     while True:
-        line = input()
-        if not line:
+        line = get_user_input("") # Use the new get_user_input for each line
+        if line.lower() == 'done': # Special keyword to finish multi-line input
+            break
+        if not line: # Empty line also finishes multi-line input
             break
         lines.append(line)
     return "\n".join(lines)
@@ -102,27 +123,246 @@ def extract_github_user_repo(repo_url):
         return f"{match.group(1)}/{match.group(2)}"
     return ""
 
+def get_first_letter_info(theme_title):
+    """
+    Determines the 'Letter' column content and the corresponding directory name
+    based on the first character of the theme title.
+    Handles alphanumeric and special cases like '80s Neon'.
+    Returns a dictionary {'link_char': '$a$', 'dir_name': 'a'}
+    """
+    first_char = theme_title.strip()[0].lower() if theme_title.strip() else ''
+    
+    if not first_char or not first_char.isalnum():
+        # If title is empty, or starts with a non-alphanumeric character (e.g., '!', '#')
+        # Based on example '80s Neon' -> $<a$, _a
+        return {'link_char': '$<a$', 'dir_name': '_a'}
+    elif first_char.isdigit():
+        # If it starts with a digit (e.g., '80s Neon')
+        return {'link_char': '$<a$', 'dir_name': '_a'}
+    else: # If it starts with an alphabet
+        return {'link_char': f'${first_char}$', 'dir_name': first_char}
+
+def custom_table_row_sort_key(row_data):
+    """
+    Custom sort key for table rows. Sorts by 'Letter' (with _a before a), then by Theme Title.
+    row_data is a tuple: (link_char, theme_title, theme_link_path)
+    """
+    link_char, theme_title, _ = row_data
+    
+    # Custom order for link_char: '$<a$' should come before '$a$', '$b$' etc.
+    # We can use a numerical prefix for sorting
+    if link_char == '$<a$':
+        letter_sort_value = '00' # Comes first
+    else:
+        letter_sort_value = link_char.replace('$', '').lower() # e.g., 'a', 'b', etc.
+        # Ensure 'a' (01) comes after '00'
+        if letter_sort_value.isalpha():
+            letter_sort_value = '01' + letter_sort_value
+
+    return (letter_sort_value, theme_title.lower()) # Sort by custom letter value, then by title
+
+def update_categories_file(theme_title, kebab_case_filename, original_tags_list):
+    """
+    Updates docs/themes/categories.md with the new theme entry if it belongs to
+    underrated_gems, old_but_gold, or new_and_upcoming categories.
+    Inserts entry alphabetically within its section.
+    """
+    print(f"\nAttempting to update {CATEGORIES_FILE}...")
+    
+    # Read existing content or prepare default structure if file doesn't exist
+    categories_content = ""
+    if os.path.exists(CATEGORIES_FILE):
+        with open(CATEGORIES_FILE, 'r', encoding='utf-8') as f:
+            categories_content = f.read()
+    else:
+        print(f"WARNING: '{CATEGORIES_FILE}' not found. Creating a default structure.")
+        # Create default content ensuring proper spacing for future additions
+        categories_content = ""
+        for tag_key in CATEGORY_MAPPING:
+            categories_content += f"{CATEGORY_MAPPING[tag_key]}\n\n"
+            categories_content += f"|Letter|Theme|\n"
+            categories_content += f"|---|---|\n"
+            categories_content += "\n" # Add a blank line after each table for correct Markdown rendering
+        os.makedirs(os.path.dirname(CATEGORIES_FILE), exist_ok=True) # Ensure directory exists
+
+    # Prepare current content to be split and reassembled
+    # This regex is specifically to split by the headings we care about,
+    # ensuring they are captured in the list.
+    all_category_headings_patterns = [re.escape(h) for h in CATEGORY_MAPPING.values()]
+    # Use re.split with a non-capturing group (?:...) and then split again to handle the heading as a separator
+    # This approach is more robust than relying on capturing groups in re.split directly
+    # because it ensures that the content between headings is clean.
+    
+    # Split the content by the category headings. We want to iterate through sections,
+    # so splitting by headings and reassembling is best.
+    
+    # To correctly handle "everything before the first heading" and "everything after the last heading"
+    # while preserving spacing, we will iterate line by line, detecting sections.
+
+    lines = categories_content.splitlines()
+    reconstructed_lines = []
+    
+    # Stores parsed rows for each category heading
+    current_category_data = {} # Key: heading (e.g., "## Underrated Gems"), Value: list of (link_char, theme_title, full_row_markdown) tuples
+    
+    # Temp buffer for lines between recognized sections (e.g., top content, between tables)
+    non_category_lines_buffer = []
+    
+    # Initialize category_data for all expected headings
+    for heading_text in CATEGORY_MAPPING.values():
+        current_category_data[heading_text] = [] # List to hold (link_char, theme_title, full_row_markdown)
+    
+    in_table_section = False
+    current_section_heading = None
+
+    for line_num, line in enumerate(lines):
+        is_heading_line = False
+        for heading_text in CATEGORY_MAPPING.values():
+            if line.strip() == heading_text:
+                is_heading_line = True
+                
+                # If we were in a non-category buffer, flush it
+                if non_category_lines_buffer:
+                    reconstructed_lines.extend(non_category_lines_buffer)
+                    non_category_lines_buffer = []
+
+                # Add the heading itself
+                reconstructed_lines.append(line) 
+                current_section_heading = heading_text
+                in_table_section = False # Reset for new section
+                break
+        
+        if is_heading_line:
+            continue # Already handled this line
+
+        if current_section_heading:
+            # Check for table header/separator. These signal we're entering/continuing a table.
+            if re.match(r'\|.*Letter.*\|.*Theme.*\|', line, re.IGNORECASE) or re.match(r'\|---\|---\|', line):
+                if non_category_lines_buffer: # Flush anything between heading and table header
+                    reconstructed_lines.extend(non_category_lines_buffer)
+                    non_category_lines_buffer = []
+                reconstructed_lines.append(line)
+                in_table_section = True
+                continue
+            
+            # If we are in a table section, this line is a table row.
+            row_match = re.match(r'^\|(.+?)\|(.+?)\|[\r\n]*$', line)
+            if in_table_section and row_match:
+                # Extract content for sorting from the row.
+                # full_row_markdown is the original line, stripped of its trailing newline
+                full_row_markdown = line.rstrip() # Store the row exactly as found (without trailing newline)
+                
+                # Extract content of letter and theme columns
+                cells = [cell.strip() for cell in re.split(r'(?<!\\)\|', full_row_markdown)][1:-1] # Skip empty first/last cell
+                if len(cells) >= 2:
+                    letter_col_content = cells[0].strip()
+                    theme_col_content = cells[1].strip()
+                    
+                    theme_title_in_row_match = re.search(r'\[([^\]]+)\]', theme_col_content)
+                    row_theme_title = theme_title_in_row_match.group(1) if theme_title_in_row_match else theme_col_content
+                    
+                    current_category_data[current_section_heading].append((letter_col_content, row_theme_title, full_row_markdown))
+                continue # Handled table row, move to next line
+
+        # If not a heading and not a table row in a table section, it's either:
+        # 1. Content before any heading
+        # 2. Blank lines or other content within a section but outside the table
+        # 3. Content after the last table
+        non_category_lines_buffer.append(line)
+    
+    # Flush any remaining buffer at the end
+    if non_category_lines_buffer:
+        reconstructed_lines.extend(non_category_lines_buffer)
+        non_category_lines_buffer = []
+
+    # Now, add the new theme entry to the relevant category section(s)
+    # This involves reconstructing the entire file by adding new rows and resorting.
+    
+    letter_info = get_first_letter_info(theme_title)
+    link_char = letter_info['link_char']
+    dir_name = letter_info['dir_name']
+    
+    # Relative path from categories.md to the theme file
+    # e.g., ./a/my-theme.md or ./_a/80s-neon.md
+    theme_file_relative_path = os.path.join("./", dir_name, kebab_case_filename)
+    new_entry_markdown_row = f"|{link_char}|[{theme_title}]({theme_file_relative_path})|"
+    
+    new_entry_tuple = (link_char, theme_title, new_entry_markdown_row)
+
+    # Add the new entry to the appropriate category lists in current_category_data
+    added_to_any_category = False
+    for tag_key, heading_text in CATEGORY_MAPPING.items():
+        if tag_key in original_tags_list:
+            current_category_data[heading_text].append(new_entry_tuple)
+            added_to_any_category = True
+            print(f"Prepared to add '{theme_title}' to '{heading_text}' section.")
+
+    if not added_to_any_category:
+        print(f"No relevant category tags found for '{theme_title}'. Not updating '{CATEGORIES_FILE}'.")
+        return # Exit if no relevant tags
+
+    # Reconstruct the full content of categories.md
+    final_categories_content_parts = []
+    
+    # Append the initial lines before any category heading (if any)
+    initial_content = []
+    for line in reconstructed_lines:
+        if line.strip() in CATEGORY_MAPPING.values():
+            break # Stop when first heading is encountered
+        initial_content.append(line)
+    if initial_content:
+        final_categories_content_parts.append("\n".join(initial_content).strip())
+    
+    # Add each category section (heading + table header + sorted rows + trailing content)
+    for heading_text in CATEGORY_MAPPING.values():
+        final_categories_content_parts.append(f"\n{heading_text}\n") # Add heading with surrounding newlines
+        final_categories_content_parts.append(f"|Letter|Theme|\n")
+        final_categories_content_parts.append(f"|---|---|\n")
+
+        # Sort and add rows
+        sorted_rows_for_section = sorted(current_category_data[heading_text], key=custom_table_row_sort_key)
+        for row_tuple in sorted_rows_for_section:
+            final_categories_content_parts.append(row_tuple[2]) # Append the full row markdown string
+
+        final_categories_content_parts.append("\n") # Blank line after each table for proper Markdown rendering
+
+    # Join all parts to form the final content
+    # Filter out any empty strings that might result from joins
+    final_categories_content = "\n".join(filter(None, final_categories_content_parts)).strip()
+    
+    # Ensure a single trailing newline at the very end of the file for good measure
+    if final_categories_content and not final_categories_content.endswith('\n'):
+        final_categories_content += '\n'
+
+    try:
+        with open(CATEGORIES_FILE, 'w', encoding='utf-8') as f:
+            f.write(final_categories_content)
+        print(f"SUCCESS: '{CATEGORIES_FILE}' updated for '{theme_title}'.")
+    except IOError as e:
+        print(f"ERROR: Could not save '{CATEGORIES_FILE}': {e}")
+    except Exception as e:
+        print(f"ERROR: An unexpected error occurred while writing to '{CATEGORIES_FILE}': {e}")
+
+
 def create_markdown_theme_entry():
     """
     Continuously creates new Markdown theme entries based on user input and a predefined template
     until the user types 'exit' for the title.
     Includes prompts for all fields in the provided theme template.
     Automatically extracts GitHub username from repository link.
+    Updates a counter in a separate file (docs/themes/index.md) *after* successful file generation.
     """
     print("--- Markdown Theme Generator ---")
-    print("Type 'exit' for the title to quit the application.")
+    print("You can type 'exit' at any prompt to quit the application.")
 
     # --- Define the full Markdown template ---
-    # Note the change for 'tags' formatting to a YAML list
     markdown_template = """---
 title: {title}
 tags:
 {tags_list_yaml}
 ---
 
-![{title} Theme Screenshot]({main_screenshot_url})
-
-{additional_image_lines}
+{images_block_markdown}
 
 ## Info
 
@@ -130,7 +370,7 @@ tags:
 |---|---|
 |Repository Link|[{github_user_repo}]({repository_link})|
 |Author|[{author_github_username}](https://github.com/{author_github_username})|
-|Downloads|{downloads_count}|
+|Downloads|{downloads_count_formatted}|
 |Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/{github_user_repo}?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
 |“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/{github_user_repo}/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/{github_user_repo}?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
@@ -168,84 +408,102 @@ tags:
         print("\n--- New Theme Entry ---")
         
         # --- 1. Get the title first to check for exit condition ---
-        title = input("Enter the Theme Title (or 'exit' to quit): ").strip()
-        if title.lower() == 'exit':
-            print("Exiting Markdown Theme Generator. Goodbye!")
-            break # Exit the while loop
+        title = get_user_input("Enter the Theme Title: ")
+        # No need for manual 'exit' check here, get_user_input handles sys.exit()
 
-        # --- 2. Update and get the next article ID from the themes index counter ---
-        article_id = get_next_counter_value() 
-        print(f"This theme entry will be assigned ID: {article_id}")
-
-        # --- 3. Prompts for YAML Front Matter and Main Screenshot ---
+        # --- 2. Prompts for YAML Front Matter and Main Screenshot ---
         # Tags input for YAML list format
-        raw_tags_input = input("Enter Tags (comma-separated, e.g., dark_theme, custom_fonts): ").strip()
+        raw_tags_input = get_user_input("Enter Tags (comma-separated, e.g., dark_theme, custom_fonts): ")
         tags_list = [tag.strip() for tag in raw_tags_input.split(',') if tag.strip()]
         # Format tags for YAML: each tag on a new line with '- ' prefix and 2-space indent
         tags_list_yaml = "\n".join([f"  - {tag}" for tag in tags_list]) if tags_list else ""
 
-        main_screenshot_url = input("Enter URL for Main Theme Screenshot: ").strip()
+        main_screenshot_url = get_user_input("Enter URL for Main Theme Screenshot: ")
 
-        # --- 4. Prompts for Additional Image Lines ---
+        # --- 3. Prompts for Additional Image Lines and construct combined image block ---
+        main_screenshot_markdown = f"![{title} Theme Screenshot]({main_screenshot_url})"
+        
         additional_image_md_lines = []
-        add_more_images = input("Add more image links (e.g., ![]()) after the main screenshot? (yes/no): ").strip().lower()
+        add_more_images = get_user_input("Add more image links (e.g., ![]()) after the main screenshot? (yes/no): ").lower()
         if add_more_images == 'yes':
             print("Enter details for additional images (type 'done' for alt text when finished):")
             while True:
-                alt_text = input("  Enter alt text (or 'done' to finish images): ").strip()
+                alt_text = get_user_input("  Enter alt text (or 'done' to finish images): ")
                 if alt_text.lower() == 'done':
                     break
-                src_url = input("  Enter image URL: ").strip()
+                src_url = get_user_input("  Enter image URL: ")
                 if src_url: # Only add if URL is provided
                     additional_image_md_lines.append(f"![{alt_text}]({src_url})")
                 else:
                     print("  Image URL cannot be empty. Skipping this image.")
         
-        # Join additional image lines with double newline for better markdown rendering
-        additional_image_lines = "\n\n" + "\n".join(additional_image_md_lines) + "\n" if additional_image_md_lines else ""
+        # Combine main screenshot and additional images, ensuring proper spacing
+        if additional_image_md_lines:
+            # Add a single newline between main screenshot and additional images
+            images_block_markdown = main_screenshot_markdown + "\n" + "\n".join(additional_image_md_lines)
+        else:
+            images_block_markdown = main_screenshot_markdown # Only the main screenshot
 
 
-        # --- 5. Prompts for 'Info' Table ---
-        repository_link = input("Enter GitHub Repository Link (e.g., https://github.com/user/repo): ").strip()
+        # --- 4. Prompts for 'Info' Table ---
+        repository_link = get_user_input("Enter GitHub Repository Link (e.g., [https://github.com/user/repo](https://github.com/user/repo)): ")
         github_user_repo = extract_github_user_repo(repository_link) if repository_link else ""
         
         # Extract author_github_username from github_user_repo
         author_github_username = github_user_repo.split('/')[0] if github_user_repo else "N/A"
 
-        downloads_count = input("Enter Downloads Count: ").strip()
+        # --- Downloads Count (Formatted) ---
+        downloads_count_raw = get_user_input("Enter Downloads Count (e.g., 5587): ")
+        downloads_count_formatted = ""
+        try:
+            # Convert to int, format with underscore as thousands separator, then replace underscore with space
+            downloads_count_formatted = f"{int(downloads_count_raw):_}".replace('_', ' ')
+        except ValueError:
+            print("WARNING: Invalid number entered for Downloads Count. It will be saved as entered.")
+            downloads_count_formatted = downloads_count_raw # Use raw input if conversion fails
         
-        obsidian_hub_slug = input("Enter Obsidian Hub Slug (e.g., Charcoal - last part of URL): ").strip()
-        moritz_jung_stats_slug = input("Enter Moritz Jung's Obsidian Stats Slug (e.g., charcoal - last part of URL): ").strip()
+        obsidian_hub_slug = get_user_input("Enter Obsidian Hub Slug (e.g., Charcoal - last part of URL): ")
+        moritz_jung_stats_slug = get_user_input("Enter Moritz Jung's Obsidian Stats Slug (e.g., charcoal - last part of URL): ")
 
-        # --- 6. Prompts for sections (multi-line) ---
+        # --- 5. Prompts for sections (multi-line) ---
         excerpt_from_readme = get_multiline_input("Enter Excerpt from README")
         features_content = get_multiline_input("Enter Features")
 
-        # --- 7. Prompts for 'Criteria' Table ---
-        dark_light_mode_support = input("Enter Dark/Light mode support status (e.g., Dark mode only): ").strip()
-        one_or_multiple_color_schemes = input("Enter One or multiple colour schemes (e.g., One colour scheme for dark mode): ").strip()
-        value_propositions = input("Enter Value Propositions: ").strip()
-        accessibility_status = input("Enter Accessibility status (e.g., NIL): ").strip()
-        style_settings_support = input("Enter Style Settings support (e.g., No): ").strip()
-        age_of_theme = input("Enter Age of Theme (e.g., Released 24 November 2020): ").strip()
+        # --- 6. Prompts for 'Criteria' Table ---
+        dark_light_mode_support = get_user_input("Enter Dark/Light mode support status (e.g., Dark mode only): ")
+        one_or_multiple_color_schemes = get_user_input("Enter One or multiple colour schemes (e.g., One colour scheme for dark mode): ")
+        value_propositions = get_user_input("Enter Value Propositions: ")
+        accessibility_status = get_user_input("Enter Accessibility status (e.g., NIL): ")
+        style_settings_support = get_user_input("Enter Style Settings support (e.g., No): ")
+        age_of_theme = get_user_input("Enter Age of Theme (e.g., Released 24 November 2020): ")
 
-        # --- 8. Construct full save path ---
-        sub_directory_input = input(f"Enter sub-directory (e.g., 'themes/my-category', leave blank for '{DEFAULT_BASE_SAVE_DIR}'): ").strip()
+        # --- 7. Determine default save directory based on first letter of title ---
+        first_letter_info = get_first_letter_info(title)
+        first_letter_dir = first_letter_info['dir_name'] # e.g., 'a' or '_a'
+        
+        default_letter_subdir_path = os.path.join(DEFAULT_BASE_SAVE_DIR, first_letter_dir)
+
+        sub_directory_input = get_user_input(
+            f"Enter sub-directory (default: '{os.path.basename(default_letter_subdir_path)}' based on title's first letter, "
+            f"or specify a full relative path like 'my-custom-folder'): " # Adjusted prompt for clarity
+        ).strip()
         
         if sub_directory_input:
+            # If user provides input, assume it's relative to DEFAULT_BASE_SAVE_DIR
             current_full_save_dir = os.path.join(DEFAULT_BASE_SAVE_DIR, sub_directory_input)
         else:
-            current_full_save_dir = DEFAULT_BASE_SAVE_DIR
+            # If user leaves blank, use the first-letter default
+            current_full_save_dir = default_letter_subdir_path
         
+        # Ensure the entire directory path exists before saving
         os.makedirs(current_full_save_dir, exist_ok=True)
         print(f"Saving to: '{current_full_save_dir}'")
 
-        # --- 9. Generate filename in kebab-case based solely on title ---
+        # --- 8. Generate filename in kebab-case based solely on title ---
         sanitized_title_kebab_case = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
-        # Prepend article_id to the filename
-        suggested_filename = f"{article_id:04d}-{sanitized_title_kebab_case}.md" 
+        suggested_filename = f"{sanitized_title_kebab_case}.md" 
         
-        output_filename_base = input(f"Enter the filename (default: '{suggested_filename}'): ").strip()
+        output_filename_base = get_user_input(f"Enter the filename (default: '{suggested_filename}'): ")
 
         if not output_filename_base:
             output_filename_base = suggested_filename
@@ -256,17 +514,16 @@ tags:
         full_output_filepath = os.path.join(current_full_save_dir, output_filename_base)
 
 
-        # --- 10. Fill the template with all collected and derived data ---
+        # --- 9. Fill the template with all collected and derived data ---
         try:
             final_markdown_content = markdown_template.format(
                 title=title,
                 tags_list_yaml=tags_list_yaml, # Use the YAML formatted tags
-                main_screenshot_url=main_screenshot_url,
-                additional_image_lines=additional_image_lines,
+                images_block_markdown=images_block_markdown, # Use the combined images block
                 github_user_repo=github_user_repo,
                 repository_link=repository_link,
                 author_github_username=author_github_username,
-                downloads_count=downloads_count,
+                downloads_count_formatted=downloads_count_formatted, # Use the formatted downloads count
                 obsidian_hub_slug=obsidian_hub_slug,
                 moritz_jung_stats_slug=moritz_jung_stats_slug,
                 excerpt_from_readme=excerpt_from_readme,
@@ -285,7 +542,7 @@ tags:
             print(f"ERROR: An unexpected error occurred while formatting the template: {e}")
             continue
 
-        # --- 11. Save the combined content to the specified Markdown file ---
+        # --- 10. Save the combined content to the specified Markdown file ---
         try:
             with open(full_output_filepath, 'w', encoding='utf-8') as f:
                 f.write(final_markdown_content)
@@ -294,14 +551,22 @@ tags:
             print("\n".join(final_markdown_content.split('\n')[:20]))
             print("...")
             print("-----------------------")
+            
+            # --- IMPORTANT: Update the categories file ONLY if theme file generation was successful ---
+            # Pass the original tags list to check which categories it belongs to
+            update_categories_file(title, suggested_filename, tags_list) 
+            
+            # --- Update the global themes counter ONLY if all operations (theme file + categories) were successful ---
+            get_next_counter_value() 
+
         except IOError as e:
             print(f"ERROR: Could not save file to '{full_output_filepath}': {e}")
         except Exception as e:
-            print(f"An unexpected error occurred: {e}")
+            print(f"An unexpected error occurred during file save or counter update: {e}")
 
 if __name__ == "__main__":
-    # Ensure the directory for the counter file exists.
-    # get_next_counter_value will create the index.md if missing.
+    # Ensure the directories for the counter file and categories file exist.
     os.makedirs(os.path.dirname(THEMES_INDEX_FILE), exist_ok=True)
+    os.makedirs(os.path.dirname(CATEGORIES_FILE), exist_ok=True) # Ensure docs/themes exists for categories.md
     
     create_markdown_theme_entry()

@@ -40,5 +40,5 @@ N/A
 |Value Propositions|A revised retro theme for Obsidian inspired by Cyberpunk 2077, Dynalist, Tron, The Terminator, Synthwave, and Keanu Reeves|
 |Accessibility|NIL|
 |Style Settings support|No|
-|Age of Theme|24 November 2020|
+|Age of Theme|Released 24 November 2020|
 |Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/nickmilo/Cybertron?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
