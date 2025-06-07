@@ -4,7 +4,7 @@ tags:
   - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/schrunchee/obsidian-covert-theme/refs/heads/main/obsidian_covert_theme_by_schrunchee.jpg">
+![Covert Theme Screenshot](https://raw.githubusercontent.com/schrunchee/obsidian-covert-theme/refs/heads/main/obsidian_covert_theme_by_schrunchee.jpg)
 
 ## Info
 
@@ -13,10 +13,11 @@ tags:
 |Repository Link|[schrunchee/obsidian-covert-theme](https://github.com/schrunchee/obsidian-covert-theme)|
 |Author|[schrunchee](https://github.com/schrunchee)|
 |Downloads|2 079|
-|Last Updated|June 2023|
-|“Help wanted” issues|0|
-|Stars|3|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/schrunchee/obsidian-covert-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/schrunchee/obsidian-covert-theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/schrunchee/obsidian-covert-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/schrunchee/obsidian-covert-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/schrunchee/obsidian-covert-theme?style=for-the-badge)|
 |View in Obsidian Hub|[Covert \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Covert)|
 |View in Moritz Jung’s Obsidian Stats|[Covert \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/covert/)|
 
@@ -44,4 +45,4 @@ N/A
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 22 June 2023|
-|Last updated|June 2023|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/schrunchee/obsidian-covert-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

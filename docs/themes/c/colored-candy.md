@@ -9,7 +9,7 @@ tags:
   - new_and_upcoming
 ---
 
-<img src="https://raw.githubusercontent.com/Erallie/colored-candy/refs/heads/master/Attachments/colored-candy-combined-preview-2.png">
+![Colored Candy Theme Screenshot](https://raw.githubusercontent.com/Erallie/colored-candy/refs/heads/master/Attachments/colored-candy-combined-preview-2.png)
 
 ## Info
 
@@ -18,10 +18,11 @@ tags:
 |Repository Link|[Erallie/colored-candy](https://github.com/Erallie/colored-candy)|
 |Author|[Erallie](https://github.com/Erallie)|
 |Downloads|4 436|
-|Last Updated|April 2025|
-|“Help wanted” issues|0|
-|Stars|6|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Erallie/colored-candy?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/Erallie/colored-candy/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/Erallie/colored-candy?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/Erallie/colored-candy?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/Erallie/colored-candy?style=for-the-badge)|
 |View in Obsidian Hub|[Colored Candy \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/colored+Candy)|
 |View in Moritz Jung’s Obsidian Stats|[Colored Candy \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/colored-candy/)|
 
@@ -52,4 +53,4 @@ This theme has a few configurable options accessible through the Style Settings 
 |Accessibility|Yes|
 |Style Settings support|Yes|
 |Age of Theme|Released 28 August 2024|
-|Last updated|April 2025|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Erallie/colored-candy?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

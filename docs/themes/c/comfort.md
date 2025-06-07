@@ -7,7 +7,7 @@ tags:
   - minimalist
 ---
 
-<img src="https://raw.githubusercontent.com/Carrie999/comfort/refs/heads/main/screenshot-big-bg.png">
+![Comfort Theme Screenshot](https://raw.githubusercontent.com/Carrie999/comfort/refs/heads/main/screenshot-big-bg.png)
 
 ## Info
 
@@ -16,10 +16,11 @@ tags:
 |Repository Link|[Carrie999/comfort](https://github.com/Carrie999/comfort)|
 |Author|[Carrie999](https://github.com/Carrie999)|
 |Downloads|5 705|
-|Last Updated|August 2023|
-|“Help wanted” issues|0|
-|Stars|4|
-|License|Unlicense|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Carrie999/comfort?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/Carrie999/comfort/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/Carrie999/comfort?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/Carrie999/comfort?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/Carrie999/comfort?style=for-the-badge)|
 |View in Obsidian Hub|[Comfort \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort)|
 |View in Moritz Jung’s Obsidian Stats|[Comfort \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort/)|
 
@@ -43,4 +44,4 @@ This is a custom theme for Obsidian, helps you get the most of Obsidian. The the
 |Accessibility|NIL|
 |Style Settings support|Yes|
 |Age of Theme|Released 2 August 2023|
-|Last updated|August 2023|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Carrie999/comfort?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

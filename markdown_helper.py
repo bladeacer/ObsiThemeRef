@@ -2,13 +2,33 @@ import re
 import os
 
 def replace_img_tags_in_content(content):
-    """Replaces <img alt="..." src="..."> tags with Markdown ![]() syntax in a string."""
-    img_regex = re.compile(r'<img\s+alt="([^"]*)"\s+src="([^"]*)"[^>]*>', re.IGNORECASE)
+    """
+    Replaces <img ...> tags with Markdown ![]() syntax, extracting alt and src
+    regardless of their order within the tag, and handling empty attributes.
+    """
+    # Regex to find any <img ... > tag.
+    # It captures the entire string of attributes within the tag.
+    img_tag_full_regex = re.compile(r'<img\s+([^>]+?)>', re.IGNORECASE)
+
     def replace_img(match):
-        alt_text = match.group(1)
-        src_url = match.group(2)
+        # Extract the full string of attributes from the matched img tag
+        attributes_string = match.group(1)
+
+        # Use separate regexes to find 'alt' and 'src' attributes within the attributes string.
+        # This makes the parsing order-independent.
+        alt_match = re.search(r'alt="([^"]*)"', attributes_string, re.IGNORECASE)
+        src_match = re.search(r'src="([^"]*)"', attributes_string, re.IGNORECASE)
+
+        # Extract the captured text. If an attribute is not found, default to an empty string.
+        alt_text = alt_match.group(1) if alt_match else ""
+        src_url = src_match.group(1) if src_match else ""
+
+        # Construct the Markdown image syntax
         return f'![{alt_text}]({src_url})'
-    return img_regex.sub(replace_img, content)
+
+    # Apply the replacement across the entire content
+    return img_tag_full_regex.sub(replace_img, content)
+
 
 def clean_markdown_tables_in_content(content):
     """Clears extra spacing and ensures exactly one standardized separator line in Markdown tables."""
@@ -18,8 +38,6 @@ def clean_markdown_tables_in_content(content):
 
     def process_single_table_block(match):
         table_block = match.group(1)
-        # print(f"\n--- DEBUG: Processing Table Block ---\n{table_block}\n---") # DEBUG
-
         lines = table_block.strip().split('\n')
         cleaned_lines = []
         num_cols = 0
@@ -29,7 +47,6 @@ def clean_markdown_tables_in_content(content):
 
         for i, line in enumerate(lines):
             stripped_line = line.strip()
-            # print(f"  DEBUG: Line {i}: '{stripped_line}'") # DEBUG
             if table_line_regex.match(stripped_line):
                 # Split by unescaped pipes
                 cells = [cell.strip() for cell in re.split(r'(?<!\\)\|', stripped_line)]
@@ -48,19 +65,15 @@ def clean_markdown_tables_in_content(content):
                     num_cols = len([c for c in cells if c])
                     standard_separator = '|' + '---|' * num_cols
                     cleaned_lines.append(header_line)
-                    # print(f"    DEBUG: Header found: '{header_line}', num_cols: {num_cols}, standard_separator: '{standard_separator}'") # DEBUG
                 elif i == 1 and header_line and separator_line_content_regex.match(stripped_line):
                     cleaned_lines.append(standard_separator)
                     found_separator = True
-                    # print(f"    DEBUG: Standard separator added/replaced at index 1.") # DEBUG
                 elif i > 1 and header_line and (found_separator or separator_line_content_regex.match(stripped_line)):
                     # If it's a data row and a separator was found or current line is a separator
                     cleaned_lines.append(cleaned_line)
-                    # print(f"    DEBUG: Data row or original separator kept: '{cleaned_line}'") # DEBUG
                 elif i > 1 and header_line and not found_separator and table_line_regex.match(stripped_line):
                     # If it's a data row and no separator has been explicitly found yet
                     cleaned_lines.append(cleaned_line)
-                    # print(f"    DEBUG: Data row kept (no explicit separator yet): '{cleaned_line}'") # DEBUG
             else:
                 # If it's not a table line, keep it as is
                 cleaned_lines.append(line)
@@ -69,15 +82,12 @@ def clean_markdown_tables_in_content(content):
         if header_line and num_cols > 0:
             if len(cleaned_lines) == 1: # Only header, no separator or data
                 cleaned_lines.insert(1, standard_separator)
-                # print(f"    DEBUG: Standard separator inserted (only header found).") # DEBUG
             elif not separator_line_content_regex.match(cleaned_lines[1]):
                 # If the second line isn't a separator, replace or insert one
                 if table_line_regex.match(cleaned_lines[1]): # It's a data row, insert separator above it
                     cleaned_lines.insert(1, standard_separator)
-                    # print(f"    DEBUG: Standard separator inserted (second line was data row).") # DEBUG
                 else: # It's some other non-separator, non-data line, just insert
                     cleaned_lines.insert(1, standard_separator)
-                    # print(f"    DEBUG: Standard separator inserted (second line wasn't a separator/data).") # DEBUG
 
 
         # Remove extra separator lines (more than one immediately after the header)
@@ -92,11 +102,10 @@ def clean_markdown_tables_in_content(content):
                         final_cleaned_lines_filtered.append(cleaned_lines[i])
             else: # No separator found at index 1, just append all other lines
                 for i in range(1, len(cleaned_lines)):
-                     final_cleaned_lines_filtered.append(cleaned_lines[i])
+                    final_cleaned_lines_filtered.append(cleaned_lines[i])
 
 
         result = "\n".join(final_cleaned_lines_filtered)
-        # print(f"--- DEBUG: Final processed table block ---\n{result}\n--- End DEBUG ---\n") # DEBUG
         return result
 
     return table_block_detection_regex.sub(process_single_table_block, content)
@@ -104,7 +113,8 @@ def clean_markdown_tables_in_content(content):
 
 def replace_pipe_o_in_markdown_links(content):
     """
-    Replaces all occurrences of '|O' with '| O' only within the TEXT part of Markdown links.
+    Replaces all occurrences of '\' followed by '|O' with '\' followed by '| O' (with a space)
+    only within the TEXT part of Markdown links.
     Example: `[text\|Ovalue](url)` becomes `[text\| Ovalue](url)`
     """
     # Regex to capture a Markdown link: [text](url)
@@ -114,17 +124,13 @@ def replace_pipe_o_in_markdown_links(content):
     markdown_link_regex = re.compile(r'(\[)([^\]]+)(\]\([^)]*\))')
 
     def replace_text_content(match):
-        prefix = match.group(1) # '['
-        text_content = match.group(2) # The text inside the brackets
-        suffix = match.group(3) # '](url)'
-
-        print(f"DEBUG: Original Link Text part: '{text_content}'") # Debug print
+        prefix = match.group(1)
+        text_content = match.group(2)
+        suffix = match.group(3)
 
         # Perform the specific replacement within the captured text
         # We are looking for the literal string '\' followed by '|O'
         modified_text_content = text_content.replace('\\|O', '\\| O')
-
-        print(f"DEBUG: Modified Link Text part: '{modified_text_content}'") # Debug print
 
         # Reconstruct the full Markdown link
         return f"{prefix}{modified_text_content}{suffix}"
@@ -176,7 +182,7 @@ def process_markdown_files(folder_path="docs"):
     print(f"\n--- Finished file processing ---")
 
 if __name__ == "__main__":
-    # --- Test case for replace_pipe_o_in_markdown_links ---
+    # --- Test cases for replace_pipe_o_in_markdown_links ---
     test_string_1 = "This is a [link with \\|O in text](https://example.com/path?query=\\|Ovalue)."
     test_string_2 = "No change here [link without backslash |O in text](https://example.com/path?query=|Ovalue)."
     test_string_3 = "Another [link with \\|O in file path](file:///path/to/doc\|Owith\|Ofile)."

@@ -4,7 +4,7 @@ tags:
   - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme/refs/heads/main/assets/high-res.png">
+![Celestial Night Theme Screenshot](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme/refs/heads/main/assets/high-res.png)
 
 ## Info
 
@@ -13,10 +13,11 @@ tags:
 |Repository Link|[Bluemoondragon07/Obsidian-Celestial-Night-Theme](https://github.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme)|
 |Author|[Bluemoondragon07](https://github.com/Bluemoondragon07)|
 |Downloads|3 599|
-|Last Updated|December 2023|
-|“Help wanted” issues|0|
-|Stars|8|
-|License|Unlicense|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Bluemoondragon07/Obsidian-Celestial-Night-Theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/Bluemoondragon07/Obsidian-Celestial-Night-Theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/Bluemoondragon07/Obsidian-Celestial-Night-Theme?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/Bluemoondragon07/Obsidian-Celestial-Night-Theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/Bluemoondragon07/Obsidian-Celestial-Night-Theme?style=for-the-badge)|
 |View in Obsidian Hub|[Celestial Night \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Celestial+Night)|
 |View in Moritz Jung’s Obsidian Stats|[Celestial Night \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/celestial-night/)|
 
@@ -38,4 +39,4 @@ N/A
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 11 December 2023|
-|Last updated|December 2023|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Bluemoondragon07/Obsidian-Celestial-Night-Theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

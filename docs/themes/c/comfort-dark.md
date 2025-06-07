@@ -4,7 +4,7 @@ tags:
   - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/Ooopz/obsidianmd-theme-comfort-dark/refs/heads/main/screenshot.png">
+![Comfort Dark Theme Screenshot](https://raw.githubusercontent.com/Ooopz/obsidianmd-theme-comfort-dark/refs/heads/main/screenshot.png)
 
 ## Info
 
@@ -13,10 +13,11 @@ tags:
 |Repository Link|[Ooopz/obsidianmd-theme-comfort-dark](https://github.com/Ooopz/obsidianmd-theme-comfort-dark)|
 |Author|[Ooopz](https://github.com/Ooopz)|
 |Downloads|4 161|
-|Last Updated|March 2024|
-|“Help wanted” issues|0|
-|Stars|2|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/aaaaalexis/obsidian-cupertino?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/aaaaalexis/obsidian-cupertino/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/aaaaalexis/obsidian-cupertino?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/aaaaalexis/obsidian-cupertino?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/aaaaalexis/obsidian-cupertino?style=for-the-badge)|
 |View in Obsidian Hub|[Comfort Dark \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Comfort+Dark)|
 |View in Moritz Jung’s Obsidian Stats|[Comfort Dark \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/comfort-dark/)|
 
@@ -38,4 +39,4 @@ N/A
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 11 July 2023|
-|Last updated|March 2024|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Ooopz/obsidianmd-theme-comfort-dark?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

@@ -9,7 +9,7 @@ tags:
   - old_but_gold
 ---
 
-<img src="https://raw.githubusercontent.com/catppuccin/obsidian/refs/heads/main/assets/screenshot-hq.png">
+![](https://raw.githubusercontent.com/catppuccin/obsidian/refs/heads/main/assets/screenshot-hq.png)
 
 ## Info
 
@@ -18,10 +18,11 @@ tags:
 |Repository Link|[catppuccin/obsidian](https://github.com/catppuccin/obsidian)|
 |Author|[catppuccin](https://github.com/catppuccin)|
 |Downloads|174 768|
-|Last Updated|April 2025|
-|“Help wanted” issues|0|
-|Stars|460|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/catppuccin/obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/catppuccin/obsidian/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/catppuccin/obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/catppuccin/obsidian?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/catppuccin/obsidian?style=for-the-badge)|
 |View in Obsidian Hub|[Catppuccin \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Catppuccin)|
 |View in Moritz Jung’s Obsidian Stats|[Catppuccin \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/catppuccin/)|
 
@@ -45,4 +46,4 @@ This plugin will allow users to pick from several variations on Catppuccin, incl
 |Accessibility|NIL|
 |Style Settings support|Yes|
 |Age of Theme|Released 5 February 2022|
-|Last updated|April 2025|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/catppuccin/obsidian?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

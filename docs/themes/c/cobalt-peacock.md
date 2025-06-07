@@ -4,7 +4,7 @@ tags:
   - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/refs/heads/master/screenshot.png">
+![Cobalt Peacock Theme Screenshot](https://raw.githubusercontent.com/dpavaoman/cobalt-peacock-obmd/refs/heads/master/screenshot.png)
 
 ## Info
 
@@ -13,10 +13,11 @@ tags:
 |Repository Link|[dpavaoman/cobalt-peacock-obmd](https://github.com/dpavaoman/cobalt-peacock-obmd)|
 |Author|[dpavaoman](https://github.com/dpavaoman)|
 |Downloads|1 026|
-|Last Updated|May 2024|
-|“Help wanted” issues|0|
-|Stars|0|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/dpavaoman/cobalt-peacock-obmd?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/dpavaoman/cobalt-peacock-obmd/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/dpavaoman/cobalt-peacock-obmd?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/dpavaoman/cobalt-peacock-obmd?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/dpavaoman/cobalt-peacock-obmd?style=for-the-badge)|
 |View in Obsidian Hub|[Cobalt Peacock \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Cobalt+Peacock)|
 |View in Moritz Jung’s Obsidian Stats|[Cobalt Peacock \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/cobalt-peacock/)|
 
@@ -38,4 +39,4 @@ N/A
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 5 May 2024|
-|Last updated|May 2024|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/dpavaoman/cobalt-peacock-obmd?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

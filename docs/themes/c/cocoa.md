@@ -4,19 +4,20 @@ tags:
   - dark_theme
 ---
 
-<img src="https://raw.githubusercontent.com/incantatem2/Obsidian-cocoa/refs/heads/main/images/cocoa-screenshot.jpg">
+![Cocoa Theme Screenshot](https://raw.githubusercontent.com/incantatem2/Obsidian-cocoa/refs/heads/main/images/cocoa-screenshot.jpg)
 
 ## Info
 
 |Info|Status|
 |---|---|
-|Repository Link|[incantatem2/Obsidian-coca](https://github.com/incantatem2/Obsidian-cocoa)|
+|Repository Link|[incantatem2/Obsidian-cocoa](https://github.com/incantatem2/Obsidian-cocoa)|
 |Author|[incantatem2](https://github.com/incantatem2)|
 |Downloads|239|
-|Last Updated|April 2025|
-|“Help wanted” issues|0|
-|Stars|0|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/incantatem2/Obsidian-cocoa?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/incantatem2/Obsidian-cocoa/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/Obsidian-cocoa?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/incantatem2/Obsidian-cocoa?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/incantatem2/Obsidian-cocoa?style=for-the-badge)|
 |View in Obsidian Hub|[cocoa \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/cocoa)|
 |View in Moritz Jung’s Obsidian Stats|Page does not exist|
 
@@ -40,4 +41,4 @@ N/A
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 6 April 2025|
-|Last updated|April 2025|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/incantatem2/Obsidian-cocoa?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

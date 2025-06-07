@@ -8,7 +8,7 @@ tags:
   - new_and_upcoming
 ---
 
-<img src="https://raw.githubusercontent.com/vran-dev/obsidian-composer/refs/heads/master/screenshot-original.png">
+![Composer Theme Screenshot](https://raw.githubusercontent.com/vran-dev/obsidian-composer/refs/heads/master/screenshot-original.png)
 
 ## Info
 
@@ -17,10 +17,11 @@ tags:
 |Repository Link|[vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer)|
 |Author|[vran-dev](https://github.com/vran-dev)|
 |Downloads|3 696|
-|Last Updated|April 2025|
-|“Help wanted” issues|0|
-|Stars|32|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/vran-dev/obsidian-composer/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/vran-dev/obsidian-composer?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/vran-dev/obsidian-composer?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/vran-dev/obsidian-composer?style=for-the-badge)|
 |View in Obsidian Hub|[Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer)|
 |View in Moritz Jung’s Obsidian Stats|[Composer \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)|
 
@@ -100,4 +101,4 @@ Card Component:
 |Accessibility|NIL|
 |Style Settings support|Yes|
 |Age of Theme|Released 14 February 2025|
-|Last updated|April 2025|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

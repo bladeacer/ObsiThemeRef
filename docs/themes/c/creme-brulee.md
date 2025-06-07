@@ -6,7 +6,7 @@ tags:
   - minimalist
 ---
 
-<img src="https://raw.githubusercontent.com/anareaty/creme-brulee-obsidian-theme/refs/heads/master/screenshots/creme-brulee-theme.png">
+![Creme Brulee Theme Screenshot](https://raw.githubusercontent.com/anareaty/creme-brulee-obsidian-theme/refs/heads/master/screenshots/creme-brulee-theme.png)
 
 ## Info
 
@@ -15,10 +15,11 @@ tags:
 |Repository Link|[anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme)|
 |Author|[anareaty](https://github.com/anareaty)|
 |Downloads|3 216|
-|Last Updated|February 2025|
-|“Help wanted” issues|0|
-|Stars|2|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/anareaty/creme-brulee-obsidian-theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/anareaty/creme-brulee-obsidian-theme?style=for-the-badge)|
 |View in Obsidian Hub|[Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee)|
 |View in Moritz Jung’s Obsidian Stats|[Creme Brulee \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)|
 
@@ -52,4 +53,4 @@ values to your cssclasses property:
 |Accessibility|NIL|
 |Style Settings support|No|
 |Age of Theme|Released 9 June 2024|
-|Last Updated|February 2025|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|

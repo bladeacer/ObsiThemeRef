@@ -7,7 +7,7 @@ tags:
   - custom_fonts
 ---
 
-<img src="https://raw.githubusercontent.com/Quinta0/chiaroscuroflow/refs/heads/master/image.png">
+![chiaroscuroflow Theme Screenshot](https://raw.githubusercontent.com/Quinta0/chiaroscuroflow/refs/heads/master/image.png)
 
 ## Info
 
@@ -16,10 +16,11 @@ tags:
 |Repository Link|[Quinta0/chiaroscuroflow](https://github.com/Quinta0/chiaroscuroflow)|
 |Author|[Quinta0](https://github.com/Quinta0)|
 |Downloads|2 102|
-|Last Updated|July 2024|
-|“Help wanted” issues|0|
-|Stars|3|
-|License|MIT|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Quinta0/chiaroscuroflow?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/Quinta0/chiaroscuroflow/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/Quinta0/chiaroscuroflow?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
+|Version|![GitHub Repo version](https://img.shields.io/github/v/release/Quinta0/chiaroscuroflow?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
+|License|![GitHub License](https://img.shields.io/github/license/Quinta0/chiaroscuroflow?style=for-the-badge)|
 |View in Obsidian Hub|[chiaroscuroflow \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/chiaroscuroflow)|
 |View in Moritz Jung’s Obsidian Stats|[chiaroscuroflow \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/chiaroscuroflow/)|
 
@@ -52,4 +53,4 @@ Chiaroscuro Flow is a visually appealing and highly customizable theme for Obsid
 |Accessibility|NIL|
 |Style Settings support|Yes|
 |Age of Theme|Released 14 July 2024|
-|Last updated|July 2024|
+|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/Quinta0/chiaroscuroflow?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
