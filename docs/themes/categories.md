@@ -20,7 +20,7 @@ Themes cannot appear in multiple categories.
 |$a$|[Aura](./a/aura.md)|
 |$b$|[Big & Bold](./b/big-bold.md)|
 |$b$|[Brutalism](./b/brutalism.md)|
-
+|$d$|[Dark Clarity](./d/dark-clarity.md)|
 
 ## Old but Gold
 
@@ -33,7 +33,6 @@ Themes cannot appear in multiple categories.
 |$b$|[Blue Topaz](./b/blue-topaz.md)|
 |$b$|[Border](./b/border.md)|
 |$c$|[Catppuccin](./c/catppuccin.md)|
-
 
 
 ## New and Upcoming

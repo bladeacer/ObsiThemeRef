@@ -7,6 +7,7 @@ tags:
   - rainbow_folders
   - nord
   - multiple_colour_schemes
+  - underrated_gem
 ---
 
 ![Dark Clarity Theme Screenshot](https://raw.githubusercontent.com/chenbihao/obsidian-theme-dark-clarity/refs/heads/main/screenshot.png)

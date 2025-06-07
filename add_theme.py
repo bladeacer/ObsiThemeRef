@@ -169,91 +169,63 @@ def update_categories_file(theme_title, kebab_case_filename, original_tags_list)
     """
     print(f"\nAttempting to update {CATEGORIES_FILE}...")
     
-    # Read existing content or prepare default structure if file doesn't exist
-    categories_content = ""
+    # Read existing content
+    categories_lines = []
     if os.path.exists(CATEGORIES_FILE):
         with open(CATEGORIES_FILE, 'r', encoding='utf-8') as f:
-            categories_content = f.read()
+            categories_lines = f.read().splitlines() 
     else:
         print(f"WARNING: '{CATEGORIES_FILE}' not found. Creating a default structure.")
-        # Create default content ensuring proper spacing for future additions
-        categories_content = ""
-        for tag_key in CATEGORY_MAPPING:
-            categories_content += f"{CATEGORY_MAPPING[tag_key]}\n\n"
-            categories_content += f"|Letter|Theme|\n"
-            categories_content += f"|---|---|\n"
-            categories_content += "\n" # Add a blank line after each table for correct Markdown rendering
-        os.makedirs(os.path.dirname(CATEGORIES_FILE), exist_ok=True) # Ensure directory exists
-
-    # Prepare current content to be split and reassembled
-    # This regex is specifically to split by the headings we care about,
-    # ensuring they are captured in the list.
-    all_category_headings_patterns = [re.escape(h) for h in CATEGORY_MAPPING.values()]
-    # Use re.split with a non-capturing group (?:...) and then split again to handle the heading as a separator
-    # This approach is more robust than relying on capturing groups in re.split directly
-    # because it ensures that the content between headings is clean.
-    
-    # Split the content by the category headings. We want to iterate through sections,
-    # so splitting by headings and reassembling is best.
-    
-    # To correctly handle "everything before the first heading" and "everything after the last heading"
-    # while preserving spacing, we will iterate line by line, detecting sections.
-
-    lines = categories_content.splitlines()
-    reconstructed_lines = []
-    
-    # Stores parsed rows for each category heading
-    current_category_data = {} # Key: heading (e.g., "## Underrated Gems"), Value: list of (link_char, theme_title, full_row_markdown) tuples
-    
-    # Temp buffer for lines between recognized sections (e.g., top content, between tables)
-    non_category_lines_buffer = []
-    
-    # Initialize category_data for all expected headings
-    for heading_text in CATEGORY_MAPPING.values():
-        current_category_data[heading_text] = [] # List to hold (link_char, theme_title, full_row_markdown)
-    
-    in_table_section = False
-    current_section_heading = None
-
-    for line_num, line in enumerate(lines):
-        is_heading_line = False
+        # Create a basic file structure with all headings and empty tables
         for heading_text in CATEGORY_MAPPING.values():
-            if line.strip() == heading_text:
-                is_heading_line = True
-                
-                # If we were in a non-category buffer, flush it
-                if non_category_lines_buffer:
-                    reconstructed_lines.extend(non_category_lines_buffer)
-                    non_category_lines_buffer = []
+            categories_lines.append(heading_text)
+            categories_lines.append("") # One blank line after heading
+            categories_lines.append("|Letter|Theme|")
+            categories_lines.append("|---|---|")
+            categories_lines.append("") # One blank line after table separator
+        os.makedirs(os.path.dirname(CATEGORIES_FILE), exist_ok=True)
 
-                # Add the heading itself
-                reconstructed_lines.append(line) 
+    parsed_sections = {}
+    current_section_heading = None
+    
+    for heading_text in CATEGORY_MAPPING.values():
+        parsed_sections[heading_text] = []
+
+    # Parse existing content into structured data
+    i = 0
+    while i < len(categories_lines):
+        line = categories_lines[i].strip()
+        
+        is_category_heading = False
+        for heading_text in CATEGORY_MAPPING.values():
+            if line == heading_text:
                 current_section_heading = heading_text
-                in_table_section = False # Reset for new section
+                is_category_heading = True
                 break
         
-        if is_heading_line:
-            continue # Already handled this line
-
-        if current_section_heading:
-            # Check for table header/separator. These signal we're entering/continuing a table.
-            if re.match(r'\|.*Letter.*\|.*Theme.*\|', line, re.IGNORECASE) or re.match(r'\|---\|---\|', line):
-                if non_category_lines_buffer: # Flush anything between heading and table header
-                    reconstructed_lines.extend(non_category_lines_buffer)
-                    non_category_lines_buffer = []
-                reconstructed_lines.append(line)
-                in_table_section = True
-                continue
+        if is_category_heading:
+            i += 1 # Move past the heading line
+            # Consume blank lines after heading (if any)
+            while i < len(categories_lines) and not categories_lines[i].strip():
+                i += 1
             
-            # If we are in a table section, this line is a table row.
-            row_match = re.match(r'^\|(.+?)\|(.+?)\|[\r\n]*$', line)
-            if in_table_section and row_match:
-                # Extract content for sorting from the row.
-                # full_row_markdown is the original line, stripped of its trailing newline
-                full_row_markdown = line.rstrip() # Store the row exactly as found (without trailing newline)
+            # Consume table header and separator (checking current line and next)
+            if i < len(categories_lines) and categories_lines[i].strip() == "|Letter|Theme|":
+                i += 1 
+                if i < len(categories_lines) and categories_lines[i].strip() == "|---|---|":
+                    i += 1 
+            
+            # Now, read table rows until next heading or blank line or EOF
+            while i < len(categories_lines) and categories_lines[i].strip().startswith('|'):
+                # Skip the table header and separator lines themselves if they somehow recur within rows
+                if categories_lines[i].strip() == "|Letter|Theme|" or categories_lines[i].strip() == "|---|---|":
+                    i += 1
+                    continue 
                 
-                # Extract content of letter and theme columns
-                cells = [cell.strip() for cell in re.split(r'(?<!\\)\|', full_row_markdown)][1:-1] # Skip empty first/last cell
+                full_row_markdown = categories_lines[i].rstrip() # Store original line without trailing newline
+                
+                # Extract content for sorting from the row.
+                cells = [cell.strip() for cell in re.split(r'(?<!\\)\|', full_row_markdown)][1:-1]
                 if len(cells) >= 2:
                     letter_col_content = cells[0].strip()
                     theme_col_content = cells[1].strip()
@@ -261,74 +233,59 @@ def update_categories_file(theme_title, kebab_case_filename, original_tags_list)
                     theme_title_in_row_match = re.search(r'\[([^\]]+)\]', theme_col_content)
                     row_theme_title = theme_title_in_row_match.group(1) if theme_title_in_row_match else theme_col_content
                     
-                    current_category_data[current_section_heading].append((letter_col_content, row_theme_title, full_row_markdown))
-                continue # Handled table row, move to next line
+                    if current_section_heading: # Only add if we have a valid heading context
+                        parsed_sections[current_section_heading].append((letter_col_content, row_theme_title, full_row_markdown))
+                i += 1
+            # Consume blank lines after table (if any) until next content or EOF
+            while i < len(categories_lines) and not categories_lines[i].strip():
+                i += 1
+            continue 
 
-        # If not a heading and not a table row in a table section, it's either:
-        # 1. Content before any heading
-        # 2. Blank lines or other content within a section but outside the table
-        # 3. Content after the last table
-        non_category_lines_buffer.append(line)
-    
-    # Flush any remaining buffer at the end
-    if non_category_lines_buffer:
-        reconstructed_lines.extend(non_category_lines_buffer)
-        non_category_lines_buffer = []
+        i += 1 
 
-    # Now, add the new theme entry to the relevant category section(s)
-    # This involves reconstructing the entire file by adding new rows and resorting.
-    
+    # Construct the new theme entry tuple
     letter_info = get_first_letter_info(theme_title)
     link_char = letter_info['link_char']
     dir_name = letter_info['dir_name']
     
     # Relative path from categories.md to the theme file
-    # e.g., ./a/my-theme.md or ./_a/80s-neon.md
     theme_file_relative_path = os.path.join("./", dir_name, kebab_case_filename)
     new_entry_markdown_row = f"|{link_char}|[{theme_title}]({theme_file_relative_path})|"
-    
     new_entry_tuple = (link_char, theme_title, new_entry_markdown_row)
 
-    # Add the new entry to the appropriate category lists in current_category_data
+    # Add the new entry to the appropriate category lists in parsed_sections
     added_to_any_category = False
     for tag_key, heading_text in CATEGORY_MAPPING.items():
         if tag_key in original_tags_list:
-            current_category_data[heading_text].append(new_entry_tuple)
+            parsed_sections[heading_text].append(new_entry_tuple)
             added_to_any_category = True
             print(f"Prepared to add '{theme_title}' to '{heading_text}' section.")
 
     if not added_to_any_category:
         print(f"No relevant category tags found for '{theme_title}'. Not updating '{CATEGORIES_FILE}'.")
-        return # Exit if no relevant tags
+        return 
 
-    # Reconstruct the full content of categories.md
-    final_categories_content_parts = []
+    # Reconstruct the full content of categories.md with sorted rows
+    final_categories_content_lines = []
     
-    # Append the initial lines before any category heading (if any)
-    initial_content = []
-    for line in reconstructed_lines:
-        if line.strip() in CATEGORY_MAPPING.values():
-            break # Stop when first heading is encountered
-        initial_content.append(line)
-    if initial_content:
-        final_categories_content_parts.append("\n".join(initial_content).strip())
-    
-    # Add each category section (heading + table header + sorted rows + trailing content)
     for heading_text in CATEGORY_MAPPING.values():
-        final_categories_content_parts.append(f"\n{heading_text}\n") # Add heading with surrounding newlines
-        final_categories_content_parts.append(f"|Letter|Theme|\n")
-        final_categories_content_parts.append(f"|---|---|\n")
+        final_categories_content_lines.append(heading_text)
+        final_categories_content_lines.append("") # One blank line after heading
+        final_categories_content_lines.append("|Letter|Theme|")
+        final_categories_content_lines.append("|---|---|")
 
-        # Sort and add rows
-        sorted_rows_for_section = sorted(current_category_data[heading_text], key=custom_table_row_sort_key)
+        # Sort and add rows for this section
+        sorted_rows_for_section = sorted(parsed_sections[heading_text], key=custom_table_row_sort_key)
         for row_tuple in sorted_rows_for_section:
-            final_categories_content_parts.append(row_tuple[2]) # Append the full row markdown string
+            final_categories_content_lines.append(row_tuple[2]) 
 
-        final_categories_content_parts.append("\n") # Blank line after each table for proper Markdown rendering
-
-    # Join all parts to form the final content
-    # Filter out any empty strings that might result from joins
-    final_categories_content = "\n".join(filter(None, final_categories_content_parts)).strip()
+        final_categories_content_lines.append("") # One blank line after table
+        
+    # Join all parts to form the final content.
+    # The `filter(None, ...)` and `strip()` is used at the very end to
+    # clean up any unintended leading/trailing/multiple blank lines,
+    # ensuring only necessary newlines are present.
+    final_categories_content = "\n".join(line for line in final_categories_content_lines if line is not None).strip()
     
     # Ensure a single trailing newline at the very end of the file for good measure
     if final_categories_content and not final_categories_content.endswith('\n'):
@@ -396,7 +353,7 @@ tags:
 |Value Propositions|{value_propositions}|
 |Accessibility|{accessibility_status}|
 |Style Settings support|{style_settings_support}|
-|Age of Theme|{age_of_theme}|
+|Age of Theme|Released {age_of_theme}|
 |Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/{github_user_repo}?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
 """
     
@@ -446,7 +403,7 @@ tags:
 
 
         # --- 4. Prompts for 'Info' Table ---
-        repository_link = get_user_input("Enter GitHub Repository Link (e.g., [https://github.com/user/repo](https://github.com/user/repo)): ")
+        repository_link = get_user_input("Enter GitHub Repository Link (e.g., https://github.com/user/repo): ")
         github_user_repo = extract_github_user_repo(repository_link) if repository_link else ""
         
         # Extract author_github_username from github_user_repo
@@ -475,7 +432,7 @@ tags:
         value_propositions = get_user_input("Enter Value Propositions: ")
         accessibility_status = get_user_input("Enter Accessibility status (e.g., NIL): ")
         style_settings_support = get_user_input("Enter Style Settings support (e.g., No): ")
-        age_of_theme = get_user_input("Enter Age of Theme (e.g., Released 24 November 2020): ")
+        age_of_theme = get_user_input("Enter Age of Theme (e.g. 24 November 2020): ")
 
         # --- 7. Determine default save directory based on first letter of title ---
         first_letter_info = get_first_letter_info(title)
