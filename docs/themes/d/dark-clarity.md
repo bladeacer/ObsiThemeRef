@@ -24,8 +24,8 @@ tags:
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/chenbihao/obsidian-theme-dark-clarity?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/chenbihao/obsidian-theme-dark-clarity?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/chenbihao/obsidian-theme-dark-clarity?style=for-the-badge)|
-|View in Obsidian Hub|[View in Obsidian Hub](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Dark+Clarity)|
-|View in Moritz Jung’s Obsidian Stats|[View in Moritz Jung’s Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/dark-clarity/)|
+|View in Obsidian Hub|[Dark Clarity - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Dark+Clarity)|
+|View in Moritz Jung’s Obsidian Stats|[Dark Clarity \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/dark-clarity/)|
 
 ## Excerpt from README
 

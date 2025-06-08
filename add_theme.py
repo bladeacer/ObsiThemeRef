@@ -333,8 +333,8 @@ tags:
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/{github_user_repo}?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/{github_user_repo}?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/{github_user_repo}?style=for-the-badge)|
-|View in Obsidian Hub|[View in Obsidian Hub](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/{obsidian_hub_slug})|
-|View in Moritz Jung’s Obsidian Stats|[View in Moritz Jung’s Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/{moritz_jung_stats_slug}/)|
+|View in Obsidian Hub|[{title} \\- Obsidian Hub \\- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/{obsidian_hub_slug})|
+|View in Moritz Jung’s Obsidian Stats|[{title} \\| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/{moritz_jung_stats_slug}/)|
 
 ## Excerpt from README
 

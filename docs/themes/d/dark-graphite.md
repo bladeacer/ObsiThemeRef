@@ -18,8 +18,8 @@ tags:
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/bcdavasconcelos/Obsidian-Graphite?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/bcdavasconcelos/Obsidian-Graphite?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/bcdavasconcelos/Obsidian-Graphite?style=for-the-badge)|
-|View in Obsidian Hub|[View in Obsidian Hub](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Dark+Graphite)|
-|View in Moritz Jung’s Obsidian Stats|[View in Moritz Jung’s Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/dark-graphite/)|
+|View in Obsidian Hub|[Dark Graphite - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Dark+Graphite)|
+|View in Moritz Jung’s Obsidian Stats|[Dark Graphite \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/dark-graphite/)|
 
 ## Excerpt from README
 
