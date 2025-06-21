@@ -419,13 +419,13 @@ tags:
 
         obsidian_hub_slug_input = get_user_input("Enter Obsidian Hub Slug (e.g., Charcoal - last part of URL, or type 'DNE' if page does not exist): ")
         if obsidian_hub_slug_input.lower() == 'dne':
-            obsidian_hub_link_or_text = "Pages does not exist"
+            obsidian_hub_link_or_text = "Page does not exist"
         else:
             obsidian_hub_link_or_text = f"[{title} \\- Obsidian Hub \\- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/{obsidian_hub_slug_input})"
 
         moritz_jung_stats_slug_input = get_user_input("Enter Moritz Jung's Obsidian Stats Slug (e.g., charcoal - last part of URL, or type 'DNE' if page does not exist): ")
         if moritz_jung_stats_slug_input.lower() == 'dne':
-            moritz_jung_link_or_text = "Pages does not exist"
+            moritz_jung_link_or_text = "Page does not exist"
         else:
             moritz_jung_link_or_text = f"[{title} \\| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/{moritz_jung_stats_slug_input}/)"
 

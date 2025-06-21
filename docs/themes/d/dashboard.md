@@ -26,7 +26,7 @@ tags:
 | Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/incantatem2/Obsidian-dashboard?color=573E7A&logo=github&style=for-the-badge&=semver)              |
 | License                              | ![GitHub License](https://img.shields.io/github/license/incantatem2/Obsidian-dashboard?style=for-the-badge)                                                      |
 | View in Obsidian Hub                 | [dashboard \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/dashboard)       |
-| View in Moritz Jung’s Obsidian Stats | Pages does not exist                                                                                                                                             |
+| View in Moritz Jung’s Obsidian Stats | Page does not exist                                                                                                                                              |
 
 ## Excerpt from README
 
