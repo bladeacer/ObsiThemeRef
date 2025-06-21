@@ -12,18 +12,17 @@ tags:
 
 ## Info
 
-|Info|Status|
-|---|---|
-|Repository Link|[vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer)|
-|Author|[vran-dev](https://github.com/vran-dev)|
-|Downloads|3 696|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
-|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/vran-dev/obsidian-composer/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/vran-dev/obsidian-composer?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Version|![GitHub Repo version](https://img.shields.io/github/v/release/vran-dev/obsidian-composer?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
-|License|![GitHub License](https://img.shields.io/github/license/vran-dev/obsidian-composer?style=for-the-badge)|
-|View in Obsidian Hub|[Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer)|
-|View in Moritz Jung’s Obsidian Stats|[Composer \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)|
+| Info                                 | Status                                                                                                                                                       |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Repository Link                      | [vran-dev/obsidian-composer](https://github.com/vran-dev/obsidian-composer)                                                                                  |
+| Author                               | [vran-dev](https://github.com/vran-dev)                                                                                                                      |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&label=last%20update&logo=github&style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/vran-dev/obsidian-composer/help%20wanted?color=573E7A&logo=github&style=for-the-badge)        |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/incantatem2/vran-dev/obsidian-composer?color=573E7A&logo=github&style=for-the-badge)                |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/vran-dev/obsidian-composer?color=573E7A&logo=github&style=for-the-badge&=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/vran-dev/obsidian-composer?style=for-the-badge)                                                      |
+| View in Obsidian Hub                 | [Composer \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Composer)     |
+| View in Moritz Jung’s Obsidian Stats | [Composer \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/composer/)                                                                     |
 
 ## Excerpt from README
 
@@ -93,12 +92,12 @@ Card Component:
 
 ## Criteria
 
-|Criteria|Status|
-|---|---|
-|Dark/Light mode support|Both light and dark mode supported|
-|One or multiple colour schemes|Multiple colour schemes for light and dark mode|
-|Value Propositions|An out-of-box theme for Obsidian, which is designed for reading and writing comfortably.|
-|Accessibility|NIL|
-|Style Settings support|Yes|
-|Age of Theme|Released 14 February 2025|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+| Criteria                       | Status                                                                                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dark/Light mode support        | Both light and dark mode supported                                                                                                                           |
+| One or multiple colour schemes | Multiple colour schemes for light and dark mode                                                                                                              |
+| Value Propositions             | An out-of-box theme for Obsidian, which is designed for reading and writing comfortably.                                                                     |
+| Accessibility                  | NIL                                                                                                                                                          |
+| Style Settings support         | Yes                                                                                                                                                          |
+| Age of Theme                   | Released 14 February 2025                                                                                                                                    |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/vran-dev/obsidian-composer?color=573E7A&label=last%20update&logo=github&style=for-the-badge) |

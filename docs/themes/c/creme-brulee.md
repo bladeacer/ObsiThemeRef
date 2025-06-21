@@ -10,18 +10,17 @@ tags:
 
 ## Info
 
-|Info|Status|
-|---|---|
-|Repository Link|[anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme)|
-|Author|[anareaty](https://github.com/anareaty)|
-|Downloads|3 216|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
-|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/anareaty/creme-brulee-obsidian-theme/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Version|![GitHub Repo version](https://img.shields.io/github/v/release/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
-|License|![GitHub License](https://img.shields.io/github/license/anareaty/creme-brulee-obsidian-theme?style=for-the-badge)|
-|View in Obsidian Hub|[Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee)|
-|View in Moritz Jung’s Obsidian Stats|[Creme Brulee \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)|
+| Info                                 | Status                                                                                                                                                                 |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [anareaty/creme-brulee-obsidian-theme](https://github.com/anareaty/creme-brulee-obsidian-theme)                                                                        |
+| Author                               | [anareaty](https://github.com/anareaty)                                                                                                                                |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&label=last%20update&logo=github&style=for-the-badge) |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/anareaty/creme-brulee-obsidian-theme/help%20wanted?color=573E7A&logo=github&style=for-the-badge)        |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/anareaty/creme-brulee-obsidian-theme?color=573E7A&logo=github&style=for-the-badge)                            |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/anareaty/creme-brulee-obsidian-theme?color=573E7A&logo=github&style=for-the-badge&=semver)              |
+| License                              | ![GitHub License](https://img.shields.io/github/license/anareaty/creme-brulee-obsidian-theme?style=for-the-badge)                                                      |
+| View in Obsidian Hub                 | [Creme Brulee \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Creme+Brulee)       |
+| View in Moritz Jung’s Obsidian Stats | [Creme Brulee \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/creme-brulee/)                                                                       |
 
 ## Excerpt from README
 
@@ -45,12 +44,12 @@ values to your cssclasses property:
 
 ## Criteria
 
-|Criteria|Status|
-|---|---|
-|Dark/Light mode support|Both light and dark mode supported|
-|One or multiple colour schemes|One colour scheme for light and dark mode|
-|Value Propositions|This theme was designed to look minimalistic, but cozy, with soft colors and many little adjustments.|
-|Accessibility|NIL|
-|Style Settings support|No|
-|Age of Theme|Released 9 June 2024|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+| Criteria                       | Status                                                                                                                                                                 |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Both light and dark mode supported                                                                                                                                     |
+| One or multiple colour schemes | One colour scheme for light and dark mode                                                                                                                              |
+| Value Propositions             | This theme was designed to look minimalistic, but cozy, with soft colors and many little adjustments.                                                                  |
+| Accessibility                  | NIL                                                                                                                                                                    |
+| Style Settings support         | No                                                                                                                                                                     |
+| Age of Theme                   | Released 9 June 2024                                                                                                                                                   |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/anareaty/creme-brulee-obsidian-theme?color=573E7A&label=last%20update&logo=github&style=for-the-badge) |

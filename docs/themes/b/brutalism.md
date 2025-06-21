@@ -10,18 +10,17 @@ tags:
 
 ## Info
 
-|Info|Status|
-|---|---|
-|Repository Link|[abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism)|
-|Author|[abrahambahez](https://github.com/abrahambahez)|
-|Downloads|6 572|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/abrahambahez/Brutalism?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
-|“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/abrahambahez/Brutalism/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Stars|![GitHub Repo stars](https://img.shields.io/github/stars/abrahambahez/Brutalism?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
-|Version|![GitHub Repo version](https://img.shields.io/github/v/release/abrahambahez/Brutalism?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
-|License|![GitHub License](https://img.shields.io/github/license/Spekulucius/obsidian-brainhack?style=for-the-badge)|
-|View in Obsidian Hub|[Brutalism \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Brutalism)|
-|View in Moritz Jung’s Obsidian Stats|[Brutalism \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/brutalism/)|
+| Info                                 | Status                                                                                                                                                     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repository Link                      | [abrahambahez/Brutalism](https://github.com/abrahambahez/Brutalism)                                                                                        |
+| Author                               | [abrahambahez](https://github.com/abrahambahez)                                                                                                            |
+| Last Updated                         | ![GitHub last commit](https://img.shields.io/github/last-commit/abrahambahez/Brutalism?color=573E7A&label=last%20update&logo=github&style=for-the-badge)   |
+| “Help wanted” issues                 | ![GitHub issues by-label](https://img.shields.io/github/issues/abrahambahez/Brutalism/help%20wanted?color=573E7A&logo=github&style=for-the-badge)          |
+| Stars                                | ![GitHub Repo stars](https://img.shields.io/github/stars/abrahambahez/Brutalism?color=573E7A&logo=github&style=for-the-badge)                              |
+| Version                              | ![GitHub Repo version](https://img.shields.io/github/v/release/abrahambahez/Brutalism?color=573E7A&logo=github&style=for-the-badge&=semver)                |
+| License                              | ![GitHub License](https://img.shields.io/github/license/Spekulucius/obsidian-brainhack?style=for-the-badge)                                                |
+| View in Obsidian Hub                 | [Brutalism \- Obsidian Hub \- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Brutalism) |
+| View in Moritz Jung’s Obsidian Stats | [Brutalism \| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/brutalism/)                                                                 |
 
 ## Excerpt from README
 
@@ -38,12 +37,12 @@ N/A
 
 ## Criteria
 
-|Criteria|Status|
-|---|---|
-|Dark/Light mode support|Both light and dark mode supported|
-|One or multiple colour schemes|One colour scheme for light and dark mode|
-|Value Propositions|A theme based on the web brutalist approach.|
-|Accessibility|NIL|
-|Style Settings support|No|
-|Age of Theme|Released 23 May 2023|
-|Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/abrahambahez/Brutalism?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+| Criteria                       | Status                                                                                                                                                   |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dark/Light mode support        | Both light and dark mode supported                                                                                                                       |
+| One or multiple colour schemes | One colour scheme for light and dark mode                                                                                                                |
+| Value Propositions             | A theme based on the web brutalist approach.                                                                                                             |
+| Accessibility                  | NIL                                                                                                                                                      |
+| Style Settings support         | No                                                                                                                                                       |
+| Age of Theme                   | Released 23 May 2023                                                                                                                                     |
+| Last Updated                   | ![GitHub last commit](https://img.shields.io/github/last-commit/abrahambahez/Brutalism?color=573E7A&label=last%20update&logo=github&style=for-the-badge) |

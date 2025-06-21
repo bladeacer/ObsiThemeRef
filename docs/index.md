@@ -27,7 +27,7 @@ Open a GitHub Discussion directly at the theme's page from this site.
 
 This site is currently still very WIP.
 
-I have to manually extract, summarise, fill in information, try out each theme and provide an appropriate score for them.
+I have to manually extract, summarise, fill in information, try out each theme and provide an appropriate score for them. There is no longer any download count because I find that that tends to skew the opinion of a theme too much.
 
 There is a [progress tracker](./themes/index.md#progress-tracker) for theme entries added.
 

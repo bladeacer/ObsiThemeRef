@@ -102,7 +102,7 @@ def get_multiline_input(prompt):
     Prompts the user for multi-line input until an empty line is entered.
     Each line is checked for 'exit'.
     """
-    print(prompt + " (Press Enter on an empty line to finish, or type 'exit' to quit):")
+    print(prompt + " (Press Enter on an empty line to finish, or type 'done' or 'exit' to quit):")
     lines = []
     while True:
         line = get_user_input("") # Use the new get_user_input for each line
@@ -327,14 +327,13 @@ tags:
 |---|---|
 |Repository Link|[{github_user_repo}]({repository_link})|
 |Author|[{author_github_username}](https://github.com/{author_github_username})|
-|Downloads|{downloads_count_formatted}|
 |Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/{github_user_repo}?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
 |“Help wanted” issues|![GitHub issues by-label](https://img.shields.io/github/issues/{github_user_repo}/help%20wanted?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Stars|![GitHub Repo stars](https://img.shields.io/github/stars/{github_user_repo}?color=573E7A&amp;logo=github&amp;style=for-the-badge)|
 |Version|![GitHub Repo version](https://img.shields.io/github/v/release/{github_user_repo}?color=573E7A&amp;logo=github&amp;style=for-the-badge&sort=semver)|
 |License|![GitHub License](https://img.shields.io/github/license/{github_user_repo}?style=for-the-badge)|
-|View in Obsidian Hub|[{title} \\- Obsidian Hub \\- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/{obsidian_hub_slug})|
-|View in Moritz Jung’s Obsidian Stats|[{title} \\| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/{moritz_jung_stats_slug}/)|
+|View in Obsidian Hub|{obsidian_hub_link_or_text}|
+|View in Moritz Jung’s Obsidian Stats|{moritz_jung_link_or_text}|
 
 ## Excerpt from README
 
@@ -409,18 +408,27 @@ tags:
         # Extract author_github_username from github_user_repo
         author_github_username = github_user_repo.split('/')[0] if github_user_repo else "N/A"
 
-        # --- Downloads Count (Formatted) ---
-        downloads_count_raw = get_user_input("Enter Downloads Count (e.g., 5587): ")
-        downloads_count_formatted = ""
-        try:
-            # Convert to int, format with underscore as thousands separator, then replace underscore with space
-            downloads_count_formatted = f"{int(downloads_count_raw):_}".replace('_', ' ')
-        except ValueError:
-            print("WARNING: Invalid number entered for Downloads Count. It will be saved as entered.")
-            downloads_count_formatted = downloads_count_raw # Use raw input if conversion fails
-        
-        obsidian_hub_slug = get_user_input("Enter Obsidian Hub Slug (e.g., Charcoal - last part of URL): ")
-        moritz_jung_stats_slug = get_user_input("Enter Moritz Jung's Obsidian Stats Slug (e.g., charcoal - last part of URL): ")
+        # REMOVED: Downloads Count prompt and formatting
+        # downloads_count_raw = get_user_input("Enter Downloads Count (e.g., 5587): ")
+        # downloads_count_formatted = ""
+        # try:
+        #     downloads_count_formatted = f"{int(downloads_count_raw):_}".replace('_', ' ')
+        # except ValueError:
+        #     print("WARNING: Invalid number entered for Downloads Count. It will be saved as entered.")
+        #     downloads_count_formatted = downloads_count_raw
+
+        obsidian_hub_slug_input = get_user_input("Enter Obsidian Hub Slug (e.g., Charcoal - last part of URL, or type 'DNE' if page does not exist): ")
+        if obsidian_hub_slug_input.lower() == 'dne':
+            obsidian_hub_link_or_text = "Pages does not exist"
+        else:
+            obsidian_hub_link_or_text = f"[{title} \\- Obsidian Hub \\- Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/{obsidian_hub_slug_input})"
+
+        moritz_jung_stats_slug_input = get_user_input("Enter Moritz Jung's Obsidian Stats Slug (e.g., charcoal - last part of URL, or type 'DNE' if page does not exist): ")
+        if moritz_jung_stats_slug_input.lower() == 'dne':
+            moritz_jung_link_or_text = "Pages does not exist"
+        else:
+            moritz_jung_link_or_text = f"[{title} \\| Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/themes/{moritz_jung_stats_slug_input}/)"
+
 
         # --- 5. Prompts for sections (multi-line) ---
         excerpt_from_readme = get_multiline_input("Enter Excerpt from README")
@@ -480,9 +488,9 @@ tags:
                 github_user_repo=github_user_repo,
                 repository_link=repository_link,
                 author_github_username=author_github_username,
-                downloads_count_formatted=downloads_count_formatted, # Use the formatted downloads count
-                obsidian_hub_slug=obsidian_hub_slug,
-                moritz_jung_stats_slug=moritz_jung_stats_slug,
+                # REMOVED: downloads_count_formatted=downloads_count_formatted,
+                obsidian_hub_link_or_text=obsidian_hub_link_or_text,
+                moritz_jung_link_or_text=moritz_jung_link_or_text,
                 excerpt_from_readme=excerpt_from_readme,
                 features_content=features_content,
                 dark_light_mode_support=dark_light_mode_support,

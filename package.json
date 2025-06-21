@@ -1,0 +1,28 @@
+{
+  "name": "ObsiThemeRef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bladeacer/ObsiThemeRef.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bladeacer/ObsiThemeRef/issues"
+  },
+  "homepage": "https://github.com/bladeacer/ObsiThemeRef#readme",
+  "devDependencies": {
+    "pretty-quick": "^4.2.2",
+    "simple-git-hooks": "^2.13.0"
+  }
+}
