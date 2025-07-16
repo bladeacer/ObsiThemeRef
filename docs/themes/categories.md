@@ -1,16 +1,3 @@
----
-title: Categories
-icon: material/trophy
----
-
-This page contains information about Obsidian themes, and what they specifically
-excel at. This is due to the fact that themes are subjective in nature.
-
-# Themes by category
-
-There can be at most three themes per letter, per category.
-Themes cannot appear in multiple categories.
-
 ## Underrated Gems
 
 |Letter|Theme|
@@ -21,6 +8,7 @@ Themes cannot appear in multiple categories.
 |$b$|[Big & Bold](./b/big-bold.md)|
 |$b$|[Brutalism](./b/brutalism.md)|
 |$d$|[Dark Clarity](./d/dark-clarity.md)|
+|$d$|[Dawn](./d/dawn.md)|
 
 ## Old but Gold
 
@@ -33,7 +21,6 @@ Themes cannot appear in multiple categories.
 |$b$|[Blue Topaz](./b/blue-topaz.md)|
 |$b$|[Border](./b/border.md)|
 |$c$|[Catppuccin](./c/catppuccin.md)|
-
 
 ## New and Upcoming
 
