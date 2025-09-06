@@ -14,7 +14,7 @@
 
 |Letter|Theme|
 |---|---|
-|$<a$|[80s Neon](./_a/80s-neon.md)|
+|$< a$|[80s Neon](./_a/80s-neon.md)|
 |$a$|[AnuPpuccin](./a/anuppuccin.md)|
 |$a$|[Atom](./a/atom.md)|
 |$a$|[Aurora](./a/aurora.md)|
