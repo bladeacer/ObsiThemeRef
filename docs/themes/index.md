@@ -11,8 +11,8 @@ Themes are sorted by alphabetical order in folders.
 ## Progress Tracker
 
 <p>
-    Themes added: 74 / 370
-    <progress value="74" max="370"/>
+    Themes added: 75 / 373
+    <progress value="75" max="373"/>
 </p>
 
 The count might not reach the expected maximum as some themes may have
