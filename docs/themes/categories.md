@@ -7,6 +7,7 @@
 |$a$|[Aura](./a/aura.md)|
 |$b$|[Big & Bold](./b/big-bold.md)|
 |$b$|[Brutalism](./b/brutalism.md)|
+|$c$|[Celestial Night](./c/celestial-night.md)|
 |$d$|[Dark Clarity](./d/dark-clarity.md)|
 |$d$|[Dawn](./d/dawn.md)|
 

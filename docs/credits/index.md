@@ -35,8 +35,10 @@ These tools were essential in the process of making this possible
 
 # Sources of inspiration
 
-[Obsidian Hub](https://publish.obsidian.md/hub/)  
+[Obsidian Hub](https://publish.obsidian.md/hub/)
+
 [Mortiz Jung's Obsidian Stats](https://www.moritzjung.dev/obsidian-stats/)
+
 [ganesshkumar's Obsidian Stats](https://www.obsidianstats.com/)
 
 - [Scoring System for Obsidian Plugins](https://github.com/ganesshkumar/obsidian-plugins-stats-ui/discussions/52)

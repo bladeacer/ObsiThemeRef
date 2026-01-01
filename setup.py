@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-# This shebang line ensures the script is executable directly on Linux/macOS systems.
 
 import os
 import subprocess
 import sys
 import shutil
-import platform # To detect the operating system
+import platform
 
 def rel2abspath(path):
     """Converts a relative path to an absolute path based on the script's directory."""
@@ -19,10 +18,8 @@ def create_and_install_venv(venv_name=".venv", requirements_file="requirements.t
     """
     print("--- Starting Python Virtual Environment Setup ---")
 
-    # Define the path for the virtual environment
     venv_path = rel2abspath(venv_name)
 
-    # Step 1: Remove existing virtual environment if it exists for a clean setup
     if os.path.exists(venv_path):
         print(f"Removing existing virtual environment at: {venv_path}")
         try:
@@ -32,16 +29,13 @@ def create_and_install_venv(venv_name=".venv", requirements_file="requirements.t
             print(f"Error removing virtual environment '{venv_path}': {e}")
             sys.exit(1)
 
-    # Step 2: Create a new Python virtual environment
     print(f"Creating new virtual environment at: {venv_path}")
     try:
-        # Use sys.executable to ensure the venv is created with the same Python interpreter
-        # that is running this setup.py script.
         subprocess.run(
             [sys.executable, "-m", "venv", venv_path],
             check=True,
-            stdout=sys.stdout, # Direct output of venv creation to console
-            stderr=sys.stderr, # Direct errors of venv creation to console
+            stdout=sys.stdout,
+            stderr=sys.stderr,
         )
         print("Virtual environment created successfully.")
     except subprocess.CalledProcessError as e:
@@ -51,23 +45,20 @@ def create_and_install_venv(venv_name=".venv", requirements_file="requirements.t
         print(f"An unexpected error occurred during venv creation: {e}")
         sys.exit(1)
 
-    # Step 3: Determine pip executable path within the new venv
     if platform.system() == "Windows":
         pip_path = os.path.join(venv_path, "Scripts", "pip.exe")
-    else: # Linux, macOS, and other Unix-like systems
+    else:
         pip_path = os.path.join(venv_path, "bin", "pip")
 
-    # Step 4: Install Python dependencies from requirements.txt into the new venv
     requirements_file_abs_path = rel2abspath(requirements_file)
     if os.path.exists(requirements_file_abs_path):
         print(f"Installing Python dependencies from '{requirements_file_abs_path}' into '{venv_path}'...")
         try:
-            # Add --default-timeout for potentially unstable internet connections
             subprocess.run(
                 [pip_path, "install", "--default-timeout=600", "-r", requirements_file_abs_path],
                 check=True,
-                stdout=sys.stdout, # Direct output of pip install to console
-                stderr=sys.stderr, # Direct errors of pip install to console
+                stdout=sys.stdout,
+                stderr=sys.stderr,
             )
             print("Dependencies from requirements.txt installed successfully.")
         except subprocess.CalledProcessError as e:
@@ -87,7 +78,6 @@ def create_and_install_venv(venv_name=".venv", requirements_file="requirements.t
         )
 
     print("\n--- Python Virtual Environment Setup Complete ---")
-    # Provide activation instructions for the user
     if platform.system() == "Windows":
         activate_command = f"call {os.path.join(venv_path, 'Scripts', 'activate.bat')}"
     else:
@@ -98,7 +88,6 @@ def create_and_install_venv(venv_name=".venv", requirements_file="requirements.t
 
 
 if __name__ == "__main__":
-    # For demonstration, create a dummy requirements.txt if it doesn't exist
     if not os.path.exists("requirements.txt"):
         with open("requirements.txt", "w") as f:
             f.write("requests\n")

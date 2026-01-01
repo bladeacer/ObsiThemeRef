@@ -51,3 +51,5 @@ Here is an example for the `Atom` theme:
 |Style Settings support|No|
 |Age of Theme|Released 24 November 2020|
 |Last Updated|![GitHub last commit](https://img.shields.io/github/last-commit/kognise/obsidian-atom?color=573E7A&amp;label=last%20update&amp;logo=github&amp;style=for-the-badge)|
+
+You can view how this is [applied here](../themes/a/atom.md).

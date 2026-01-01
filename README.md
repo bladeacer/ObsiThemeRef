@@ -12,41 +12,32 @@ Welcome to Obsidian Theme Reference (or OTR for short). This reference document 
 
 ## FAQ
 
-Here are some frequently asked questions.
+View on the site's [FAQ section](https://obsithemeref.readthedocs.io/en/latest/#faq).
 
-### About the old scoring system
-
-Henceforth, the scoring system will be delegated as second class. It shall be changed merely to serve as a reference, which is what this site should be. This will be replaced by a reference criteria.
-
-For reference, take a look at [the criteria example](https://bladeacer.github.io/ObsiThemeRef/reference-criteria/index.md#criteria-example) provided.
-
-### Theme x has outdated or inaccurate information, how do I suggest changes?
-
-Open a GitHub Discussion directly at the theme's page from this site.
-
-### Project Status
-
-This site is currently still very WIP.
-
-I have to manually extract, summarise, fill in information, try out each theme and provide an appropriate score for them.
-
-There is a [progress tracker](https://bladeacer.github.io/ObsiThemeRef/themes/#progress-tracker) for theme entries added.
 
 ### Viewing this website in your Obsidian vault locally
 
-Absolutely. Just run the following command in your directory of choice.
+View on the site's [FAQ section on viewing locally](https://obsithemeref.readthedocs.io/en/latest/#viewing-locally).
 
-```sh
-git clone https://github.com/bladeacer/ObsiThemeRef.git
-```
+## Contributing
 
-Then, open the `./ObsiThemeRef/docs/` directory as an Obsidian vault.
+Pull Requests, Issues and other forms of contributions are welcome.
 
-If needed, run the following command to update your local branch with the remote one.
+You can create your own fork of the project and clone it locally with Git before making changes for pull requests.
 
-```sh
-git pull
-```
+For adding themes and running a local preview of the site, you might find `add_theme.py` and the attached Makefile useful. If you are on a UNIX machine, do remember to make the scripts executable.
+
+Do note that this repository has its own [Code of Conduct](./CODE_OF_CONDUCT.md)
+and [Contributing Guide](./CONTRIBUTING.md).
+
+## Credits
+
+View on the site's [Credits section](https://obsithemeref.readthedocs.io/en/latest/credits/).
+
+The code of conduct was adopted from the
+[Contributor Covenant](https://www.contributor-covenant.org/)
+
+The contributing guide was adopted from [conduct](https://github.com/sindresorhus/conduct)
 
 ## Contributors
 

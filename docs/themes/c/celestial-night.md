@@ -2,6 +2,7 @@
 title: Celestial Night
 tags:
   - dark_theme
+  - underrated_gems
 ---
 
 ![Celestial Night Theme Screenshot](https://raw.githubusercontent.com/Bluemoondragon07/Obsidian-Celestial-Night-Theme/refs/heads/main/assets/high-res.png)
