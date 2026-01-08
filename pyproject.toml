@@ -1,0 +1,15 @@
+[project]
+name = "ObsiThemeRef"
+version = "0.1.0"
+description = "A TLDR on Obsidian.md themes in the community store. WIP."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "mkdocs",
+  "mkdocs-material",
+  "mkdocs-material-extensions",
+  "mkdocs-git-revision-date-localized-plugin",
+  "pymdown-extensions",
+  "PyYAML",
+  "watchdog"
+]

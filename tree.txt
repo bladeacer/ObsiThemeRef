@@ -1,0 +1,50 @@
+obsithemeref v0.1.0
+├── mkdocs v1.6.1
+│   ├── click v8.3.1
+│   ├── ghp-import v2.1.0
+│   │   └── python-dateutil v2.9.0.post0
+│   │       └── six v1.17.0
+│   ├── jinja2 v3.1.6
+│   │   └── markupsafe v3.0.3
+│   ├── markdown v3.10
+│   ├── markupsafe v3.0.3
+│   ├── mergedeep v1.3.4
+│   ├── mkdocs-get-deps v0.2.0
+│   │   ├── mergedeep v1.3.4
+│   │   ├── platformdirs v4.5.1
+│   │   └── pyyaml v6.0.3
+│   ├── packaging v25.0
+│   ├── pathspec v1.0.2
+│   ├── pyyaml v6.0.3
+│   ├── pyyaml-env-tag v1.1
+│   │   └── pyyaml v6.0.3
+│   └── watchdog v6.0.0
+├── mkdocs-git-revision-date-localized-plugin v1.5.0
+│   ├── babel v2.17.0
+│   ├── gitpython v3.1.46
+│   │   └── gitdb v4.0.12
+│   │       └── smmap v5.0.2
+│   └── mkdocs v1.6.1 (*)
+├── mkdocs-material v9.7.1
+│   ├── babel v2.17.0
+│   ├── backrefs v6.1
+│   ├── colorama v0.4.6
+│   ├── jinja2 v3.1.6 (*)
+│   ├── markdown v3.10
+│   ├── mkdocs v1.6.1 (*)
+│   ├── mkdocs-material-extensions v1.3.1
+│   ├── paginate v0.5.7
+│   ├── pygments v2.19.2
+│   ├── pymdown-extensions v10.20
+│   │   ├── markdown v3.10
+│   │   └── pyyaml v6.0.3
+│   └── requests v2.32.5
+│       ├── certifi v2026.1.4
+│       ├── charset-normalizer v3.4.4
+│       ├── idna v3.11
+│       └── urllib3 v2.6.3
+├── mkdocs-material-extensions v1.3.1
+├── pymdown-extensions v10.20 (*)
+├── pyyaml v6.0.3
+└── watchdog v6.0.0
+(*) Package tree already displayed

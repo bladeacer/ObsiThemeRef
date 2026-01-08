@@ -1,34 +1,45 @@
-VENV := .venv
-ifeq ($(OS),Windows_NT)
-    PYTHON := $(VENV)/Scripts/python
-    MKDOCS := $(VENV)/Scripts/mkdocs
-else
-    PYTHON := $(VENV)/bin/python
-    MKDOCS := $(VENV)/bin/mkdocs
-endif
+# Use 'uv run' to automatically handle the environment and pathing
+RUN := uv run
+PYTHON := $(RUN) python
+MKDOCS := $(RUN) mkdocs
+REQ_FILE := requirements.txt
 
-.PHONY: help setup serve clean add
+.PHONY: help sync serve clean add update requirements
 
 help:
 	@echo "Usage: make [target]"
 	@echo ""
 	@echo "Targets:"
-	@echo "  setup   Create venv and run setup.py (only if venv is missing)"
-	@echo "  add     Helper script for adding themes"
-	@echo "  serve   Run mkdocs serve (auto-runs setup if needed)"
-	@echo "  clean   Remove the virtual environment"
+	@echo "  sync          Install dependencies using uv"
+	@echo "  add           Helper script for adding themes"
+	@echo "  serve         Run mkdocs serve"
+	@echo "  update        Update dependencies using uv"
+	@echo "  clean         Remove the virtual environment"
+	@echo "  requirements  Updates requirements.txt"
 
-setup:
-	@echo "Invoking setup script..."
-	python3 ./setup.py || python ./setup.py
+sync:
+	@echo "Syncing dependencies..."
+	uv sync
+	$(MAKE) requirements
 
 add:
 	@echo "Invoking add theme script..."
-	python3 ./add_theme.py || python ./add_theme.py
+	$(PYTHON) ./add_theme.py
 
 serve:
-	@if [ ! -d "$(VENV)" ]; then $(MAKE) setup; fi
 	$(MKDOCS) serve
 
+update:
+	@echo "Updating dependencies..."
+	uv lock --upgrade
+	uv sync
+	$(MAKE) requirements
+
+requirements:
+	@echo "Generating $(REQ_FILE) from uv.lock..."
+	@uv export --format requirements-txt --no-dev --output-file $(REQ_FILE)
+	@echo "Generating dependency tree..."
+	@uv tree > tree.txt
+
 clean:
-	rm -rf $(VENV)
+	rm -rf .venv
