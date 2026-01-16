@@ -27,7 +27,7 @@ add:
 	$(PYTHON) ./add_theme.py
 
 serve:
-	$(MKDOCS) serve
+	uv run python serve.py
 
 update:
 	@echo "Updating dependencies..."

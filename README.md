@@ -14,7 +14,6 @@ Welcome to Obsidian Theme Reference (or OTR for short). This reference document 
 
 View on the site's [FAQ section](https://obsithemeref.readthedocs.io/en/latest/#faq).
 
-
 ### Viewing this website in your Obsidian vault locally
 
 View on the site's [FAQ section on viewing locally](https://obsithemeref.readthedocs.io/en/latest/#viewing-locally).
@@ -29,6 +28,13 @@ For adding themes and running a local preview of the site, you might find `add_t
 
 Do note that this repository has its own [Code of Conduct](./CODE_OF_CONDUCT.md)
 and [Contributing Guide](./CONTRIBUTING.md).
+
+## License
+The site and its content is licensed under the [CC-BY-SA 4.0 License](./LICENSE.CC-BY-SA).
+
+The site's source code is licensed under the [MIT License](./LICENSE.MIT).
+
+Previously, this site and its corresponding source code are both licensed under the MIT License.
 
 ## Credits
 
