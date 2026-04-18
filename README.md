@@ -6,6 +6,10 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## Note
+
+If you are seeing this on GitHub, development has been moved over to Codeberg.
+
 ## Foreword
 
 Welcome to Obsidian Theme Reference (or OTR for short). This reference document will (hopefully) contain information about all current [Obsidian](https://obsidian.md) themes in the community store. It hopes to be useful for those looking to try out new Obsidian themes, but will not go into too much detail for each theme (like `tldr pages`). The themes are listed in alphabetical order.
