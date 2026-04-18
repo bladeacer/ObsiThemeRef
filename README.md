@@ -8,7 +8,7 @@
 
 ## Note
 
-If you are seeing this on GitHub, development has been moved over to Codeberg.
+If you are seeing this on GitHub, [development has been moved over to Codeberg](https://codeberg.org/bladeacer/ObsiThemeRef).
 
 ## Foreword
 
